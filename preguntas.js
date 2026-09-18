@@ -3561,5 +3561,740 @@ const BANCO_GLOBAL = [
     ],
     correcta: 2,
     explicacion: "El colgajo DIEP está vascularizado por vasos perforantes procedentes de la arteria y vena epigástricas inferiores profundas (rama de los vasos ilíacos externos), no por la arteria circunfleja femoral lateral."
+  },{
+    id: "MIR24-051",
+    ano: 2024,
+    num: 51,
+    conImagen: false,
+    enunciado: "51. ¿Cuál de los siguientes escenarios podría suponer una contraindicación para el uso de un injerto de piel parcial como cobertura de un defecto cutáneo?:",
+    opciones: [
+      "1. Cuando el defecto cutáneo abarca una gran superficie corporal.",
+      "2. En un paciente con comorbilidades médicas significativas.",
+      "3. Cuando hay un tendón sin paratendón en la base de la herida.",
+      "4. Cuando hay una infección activa en el lecho de la herida."
+    ],
+    correcta: 3,
+    explicacion: "Los injertos libres precisan un lecho receptor vascularizado para nutrirse por imbibición y revascularización; las estructuras avasculares desnudas (hueso sin periostio, tendón sin paratendón o cartílago sin pericondrio) impiden el prendimiento y exigen cobertura mediante colgajo."
+  },
+  {
+    id: "MIR24-052",
+    ano: 2024,
+    num: 52,
+    conImagen: false,
+    enunciado: "52. Un enfermo diabético de reciente diagnóstico acude a revisión oftalmológica. A las pocas horas vuelve con un cuadro bilateral de edema y eritema palpebral, quemosis, hiperemia conjuntival, lagrimeo y picor. Su actitud debe ser:",
+    opciones: [
+      "1. Solicitar una analítica con glucemia, hemoglobina glicosilada y velocidad de sedimentación globular.",
+      "2. Prescribir un colirio antihistamínico o corticoide de baja potencia.",
+      "3. Realizar una OCT (tomografía de coherencia óptica) para descartar la existencia de un edema macular diabético.",
+      "4. Realizar una gonioscopia para descartar la presencia de neovasos en el ángulo camerular."
+    ],
+    correcta: 2,
+    explicacion: "El prurito intenso, quemosis y eritema palpebral agudo bilateral inmediatamente posterior a la dilatación pupilar con colirios midriáticos en consulta traduce una reacción alérgica ocular por contacto aguda, subsidiaria de tratamiento sintomático con antihistamínicos o corticoides tópicos."
+  },
+  {
+    id: "MIR24-053",
+    ano: 2024,
+    num: 53,
+    conImagen: false,
+    enunciado: "53. En relación al tratamiento quirúrgico de las cataratas, señale cuál de los siguientes enunciados es correcto:",
+    opciones: [
+      "1. El empeoramiento de la visión cercana está inducido por la catarata y se denomina miopía de índice.",
+      "2. La cirugía de cristalino disminuye el riesgo de desprendimiento de retina en los pacientes miopes jóvenes.",
+      "3. Las cataratas se operan cuando la agudeza visual está muy disminuida sin tener en cuenta otros síntomas o signos.",
+      "4. Los fármacos alfa bloqueantes como la tamsulosina asocian complicaciones intraoperatorias."
+    ],
+    correcta: 4,
+    explicacion: "Los antagonistas alfa-1 adrenérgicos (como tamsulosina) inducen relajación del músculo dilatador del iris y causan el síndrome del iris flácido intraoperatorio (IFIS), dificultando el mantenimiento de la midriasis durante la facoemulsificación."
+  },
+  {
+    id: "MIR24-054",
+    ano: 2024,
+    num: 54,
+    conImagen: false,
+    enunciado: "54. Hombre de 72 años exfumador, acude a consulta por visión borrosa y dificultad para leer, especialmente en el ojo derecho, situación que ha progresado lentamente en los últimos seis meses. En la exploración del segmento anterior no se encuentran alteraciones clínicamente relevantes. En el ojo derecho se observan múltiples drusas en la región macular (una de tamaño grande) y alteraciones pigmentarias. En la tomografía de coherencia óptica se muestra un adelgazamiento del epitelio pigmentario de la retina y áreas de acumulación de material subretiniano en la mácula del ojo derecho. ¿Cuál es el manejo inicial indicado para este paciente?:",
+    opciones: [
+      "1. Iniciar tratamiento con implante intravítreo de dexametasona.",
+      "2. Recomendar el uso de suplementos vitamínicos específicos.",
+      "3. Indicar de forma preferente cirugía de catarata con implante de lente intraocular.",
+      "4. Iniciar tratamiento con inyecciones intravítreas de anti-VEGF (factor de crecimiento endotelial vascular)."
+    ],
+    correcta: 2,
+    explicacion: "Presencia de drusas intermedias/grandes y cambios en el EPR sin neovascularización coroidea ni líquido intra/subretiniano define DMAE no exudativa (seca) intermedia, donde los suplementos antioxidantes con fórmula AREDS2 han demostrado enlentecer la progresión a estadios avanzados."
+  },
+  {
+    id: "MIR24-055",
+    ano: 2024,
+    num: 55,
+    conImagen: false,
+    enunciado: "55. Hombre de 26 años que presenta otorrea unilateral derecha de una semana de evolución desde su regreso de vacaciones en la playa donde una ola le arrolló provocando inmersión. Refiere haber sido tratado en la infancia con colocación de drenajes transtimpánicos bilaterales y ha evitado la entrada de agua en los oídos desde entonces. No presenta dolor, pero sí molestias y leve hipoacusia. Tampoco tiene vértigo, pero sí sensación de taponamiento ótico. En la otoscopia se evidencia una perforación timpánica central de bordes lisos y otorrea que proviene de oído medio. ¿Cuáles son el diagnóstico y tratamiento del paciente?:",
+    opciones: [
+      "1. Reactivación de una otitis media crónica simple que será tratada con ciprofloxacino en gotas óticas y remitir a Otorrinolaringología.",
+      "2. Otitis media aguda que precisa tratamiento con gentamicina en gotas óticas y revisión otoscópica pasada una semana.",
+      "3. Otitis media crónica colesteatomatosa que será tratada con gentamicina en gotas óticas y remitir a Otorrinolaringología.",
+      "4. Otitis externa aguda complicada que precisa tratamiento con ciprofloxacino en gotas óticas y revisión otoscópica pasada una semana."
+    ],
+    correcta: 1,
+    explicacion: "La perforación timpánica central de bordes lisos en la pars tensa sin colesteatoma que drena tras entrada accidental de agua corresponde a una otitis media crónica simple supurada en fase activa; el tratamiento de elección son las gotas óticas no ototóxicas de ciprofloxacino y control por ORL."
+  },
+  // NOTA: Pregunta 56 anulada en plantilla oficial (excluida)
+  {
+    id: "MIR24-057",
+    ano: 2024,
+    num: 57,
+    conImagen: false,
+    enunciado: "57. Mujer de 54 años consulta por hipoacusia unilateral derecha de horas de evolución que se ha presentado de manera brusca. Presentó un cuadro viral de vía aerodigestiva superior hace unos días. Sin antecedentes de interés, no presenta vértigo ni sensación de taponamiento ótico ni acúfeno. No refiere dolor ni presenta parálisis facial. La otoscopia es normal. En la acumetría la prueba Rinne es positiva bilateral y la pruebas Weber lateraliza al lado izquierdo. ¿Cuál es la sospecha diagnóstica y el manejo?:",
+    opciones: [
+      "1. Hipoacusia súbita, se solicitará una tomografía computerizada craneal urgente.",
+      "2. Hipoacusia de conducción por otitis media serosa, se tratará con lavados nasales y esteroides tópicos nasales.",
+      "3. Hipoacusia súbita, precisa audiometría tonal urgente y se tratará con corticoterapia sistémica y/o intratimpánica.",
+      "4. Síndrome de Ramsay-Hunt se tratará con corticoterapia más valaciclovir."
+    ],
+    correcta: 3,
+    explicacion: "Pérdida auditiva neurosensorial aguda en oído derecho (Rinne positivo y Weber que lateraliza al oído sano izquierdo) con tímpano normal tras infección viral: hipoacusia neurosensorial súbita idiopática, una urgencia ORL que requiere audiometría urgente y corticoides a dosis plenas."
+  },
+  {
+    id: "MIR24-058",
+    ano: 2024,
+    num: 58,
+    conImagen: false,
+    enunciado: "58. Mujer que acude a ecografía de rutina de segundo trimestre a las 22 semanas de gestación. Las biometrías corresponden a un feto de 19 semanas. ¿Cuál es el siguiente paso para orientar el caso?:",
+    opciones: [
+      "1. Valorar estudio genético teniendo en cuenta el riesgo de anomalía cromosómica en primer trimestre.",
+      "2. Valorar si la gestación está correctamente datada según la longitud craneocaudal fetal de la ecografía del primer trimestre.",
+      "3. Repetir ecografía para nuevas biometrías en 2 semanas.",
+      "4. Estudio para descartar preeclampsia."
+    ],
+    correcta: 2,
+    explicacion: "Antes de catalogar un crecimiento intrauterino retardado severo precoz por discrepancia biométrica, el primer paso clínico inexcusable es certificar la edad gestacional real cotejándola con la longitud craneocaudal (CRL) de la ecografía de la semana 11-13."
+  },
+  {
+    id: "MIR24-059",
+    ano: 2024,
+    num: 59,
+    conImagen: false,
+    enunciado: "59. ¿Cuál de los siguientes métodos anticonceptivos es el más adecuado para una mujer de 35 años con migraña con aura?:",
+    opciones: [
+      "1. Anticonceptivos orales combinados.",
+      "2. Parche anticonceptivo.",
+      "3. Anticonceptivo inyectable con estrógeno y progestágeno.",
+      "4. Dispositivo intrauterino (DIU) con levonorgestrel."
+    ],
+    correcta: 4,
+    explicacion: "La migraña con aura supone una contraindicación absoluta (categoría 4 de la OMS) para el uso de anticoncepción con estrógenos por el riesgo elevado de ictus isquémico; los métodos con solo progestágeno como el DIU-levonorgestrel son de elección."
+  },
+  {
+    id: "MIR24-060",
+    ano: 2024,
+    num: 60,
+    conImagen: false,
+    enunciado: "60. Mujer con gestación monocorial biamniótica de 22 semanas que acude a urgencias por dinámica uterina ocasional. En la ecografía se observa feto 1 con peso estimado en el percentil 80 y columna máxima vertical de líquido amniótico de 11 cm, vejiga urinaria distendida y aumentada de tamaño y feto 2 con un peso en el percentil 25 con una columna máxima de líquido amniótico de 0,5 cm y vejiga urinaria no visible. Exploración vaginal anodina. La longitud cervical es de 36 mm. ¿Cuál es el diagnóstico más probable?:",
+    opciones: [
+      "1. Trasfusión feto-fetal.",
+      "2. Discordancia de crecimiento fetal con crecimiento fetal restringido selectivo del feto 2.",
+      "3. Rotura prematura de membranas de feto 2.",
+      "4. Malformación renal feto 2."
+    ],
+    correcta: 1,
+    explicacion: "La coexistencia en una gestación monocorial de la secuencia polihidramnios (columna >8 cm con megavejiga en el receptor) y oligohidramnios (columna <2 cm con vejiga colapsada en el donante) define el síndrome de transfusión feto-fetal por anastomosis vasculares placentarias."
+  },
+  {
+    id: "MIR24-061",
+    ano: 2024,
+    num: 61,
+    conImagen: false,
+    enunciado: "61. Puérpera de parto eutócico sin complicaciones hace 4 días que acude a urgencias por cefalea de 12 horas de evolución y edemas maleolares. A la exploración presenta cifras tensionales de 165/100 mmHg en dos ocasiones y en la analítica se observa una cifra de plaquetas de 254.000/μL, AST 172 UI/L, ALT 154 UI/L y LDH 345 UI/L, creatinina 0,9 mg/dL y cociente prot/creat 235 mg/g ¿Cuál de las siguientes opciones terapéuticas forma parte de la primera línea de tratamiento inmediato?",
+    opciones: [
+      "1. Sulfato de magnesio vía endovenosa.",
+      "2. Labetalol vía oral.",
+      "3. Corticoides a dosis altas.",
+      "4. Diuréticos vía endovenosa."
+    ],
+    correcta: 1,
+    explicacion: "Preeclampsia posparto con criterios de gravedad (cifras tensionales ≥160/110 mmHg, cefalea y transaminasas elevadas al doble); el sulfato de magnesio intravenoso es el fármaco de elección prioritario para la neuroprotección y prevención de crisis de eclampsia."
+  },
+  {
+    id: "MIR24-062",
+    ano: 2024,
+    num: 62,
+    conImagen: false,
+    enunciado: "62. ¿Cuál es la vía de diseminación más frecuente y característica del cáncer de ovario en el momento del diagnóstico?:",
+    opciones: [
+      "1. Vía linfática.",
+      "2. Vía hematógena.",
+      "3. Infiltración por contigüidad.",
+      "4. Diseminación peritoneal."
+    ],
+    correcta: 4,
+    explicacion: "El carcinoma epitelial de ovario se disemina preferentemente por exfoliación directa de células tumorales a la cavidad peritoneal e implantación difusa en epiplón, serosa intestinal y superficie diafragmática (carcinomatosis peritoneal)."
+  },
+  {
+    id: "MIR24-063",
+    ano: 2024,
+    num: 63,
+    conImagen: false,
+    enunciado: "63. ¿Cuál de las siguientes es una de las características que condiciona de modo crucial e independiente la elección del tratamiento adyuvante del cáncer de endometrio?:",
+    opciones: [
+      "1. Tamaño tumoral.",
+      "2. Perfil molecular del tumor.",
+      "3. Presencia de células tumorales aisladas en los ganglios linfáticos.",
+      "4. Presencia de metrorragia."
+    ],
+    correcta: 2,
+    explicacion: "La clasificación molecular de Proactive Molecular Risk Classifier for Endometrial Cancer (POLE mutado, MMR deficiente, p53 anormal o NSMP) es hoy el factor pronóstico y predictor independiente fundamental para guiar la adyuvancia según ESGO/ESTRO/ESP."
+  },
+  {
+    id: "MIR24-064",
+    ano: 2024,
+    num: 64,
+    conImagen: false,
+    enunciado: "64. Niña de 13 años con desaceleración en el crecimiento en el último año. En la exploración detectamos un bocio con tiroides aumentado de tamaño de forma difusa, firme y no doloroso a la palpación. La madre de la niña comenta que en su adolescencia ella había tenido una enfermedad del tiroides de la que se recuperó espontáneamente. De las siguientes pruebas complementarias, ¿qué considera indicado realizar en primer lugar?:",
+    opciones: [
+      "1. Biopsia percutánea.",
+      "2. Ecografía tiroidea.",
+      "3. Gammagrafía tiroidea.",
+      "4. TSH, T4 libre, anticuerpos antiperoxidasa tiroidea y anticuerpos antitiroglobulina."
+    ],
+    correcta: 4,
+    explicacion: "La combinación de bocio difuso indoloro, estancamiento estatural y antecedentes familiares en una adolescente sugiere tiroiditis crónica autoinmune (Hashimoto); la evaluación funcional y etiológica inicial requiere perfil tiroideo completo (TSH/T4L) y anticuerpos anti-TPO/TG."
+  },
+  {
+    id: "MIR24-065",
+    ano: 2024,
+    num: 65,
+    conImagen: false,
+    enunciado: "65. Niña de 10 meses, correctamente vacunada para su edad, tiene fiebre alta, fotofobia y tos. Tras 4 días de fiebre se aprecian unas manchas blancas, como un espolvoreado de harina en mucosa malar a nivel del 2º molar. Al día siguiente de detectarse estas manchas, todavía con fiebre y tos, se detecta un exantema eritematoso, maculo-papuloso morbiliforme, con tendencia a la confluencia en algunas zonas, de aparición craneocaudal. La fiebre persiste hasta 3 días más. Al 5º día de iniciar el exantema el niño se encuentra afebril pero inicia en la piel una fase de descamación fina, furfurácea. El diagnóstico clínico más probable es:",
+    opciones: [
+      "1. Sarampión.",
+      "2. Rubeola.",
+      "3. Varicela.",
+      "4. Escarlatina."
+    ],
+    correcta: 1,
+    explicacion: "La tríada prodrómica de fiebre, catarro y conjuntivitis con fotofobia, las manchas de Koplik en mucosa yugal ('espolvoreado de harina') y el exantema confluente craneocaudal que resuelve con descamación furfurácea son patognomónicos del sarampión."
+  },
+  {
+    id: "MIR24-066",
+    ano: 2024,
+    num: 66,
+    conImagen: false,
+    enunciado: "66. El síndrome de Guillain-Barré es considerado una polineuropatía postinfecciosa que presenta todas las características siguientes, EXCEPTO una:",
+    opciones: [
+      "1. Existe hiperreflexia tendinosa en las extremidades que manifiestan debilidad.",
+      "2. Es predominantemente un trastorno motor, aunque puede haber síntomas sensitivos.",
+      "3. En el líquido cefalorraquídeo las proteínas están elevadas, sin pleocitosis y con glucorraquia normal.",
+      "4. El tratamiento con inmunoglobulina intravenosa acelera la recuperación, pero no modifica la evolución a largo plazo."
+    ],
+    correcta: 1,
+    explicacion: "Al ser una neuropatía periférica por desmielinización inflamatoria aguda motora de segunda motoneurona, se caracteriza por hiporreflexia o arreflexia miotática universal precoz, nunca por hiperreflexia."
+  },
+  {
+    id: "MIR24-067",
+    ano: 2024,
+    num: 67,
+    conImagen: false,
+    enunciado: "67. Un lactante de 6 meses acude a urgencias por presentar vómitos y diarrea en las últimas 12 horas. Su peso es de 6 kg. Hace 24 horas su peso era de 6,5 kg. Presenta frecuencia cardíaca 140 lpm, frecuencia respiratoria 30 rpm, presión arterial 90/40 mmHg. En la gasometría venosa se observa pH 7,25, pCO2 33 mmHg, pO2 45 mmHg, bicarbonato 17 mmol/L, exceso de bases -7, lactato 2.5 mmol/L. El sodio es 143 mmol/L. ¿Cuál es su situación en el equilibrio ácido base?:",
+    opciones: [
+      "1. Acidosis metabólica sin compensar respiratoriamente.",
+      "2. Acidosis metabólica parcialmente compensada respiratoriamente.",
+      "3. Acidosis respiratoria parcialmente compensada metabólicamente.",
+      "4. Alcalosis respiratoria compensada metabólicamente."
+    ],
+    correcta: 2,
+    explicacion: "Presenta pH ácido (7,25) con bicarbonato disminuido (17 mmol/L) definitorio de acidosis metabólica por pérdidas digestivas; la pCO2 ha descendido (33 mmHg) por hiperventilación refleja, lo que traduce una compensación respiratoria en marcha (parcial, al persistir pH ácido)."
+  },
+  {
+    id: "MIR24-068",
+    ano: 2024,
+    num: 68,
+    conImagen: false,
+    enunciado: "68. Avisan de paritorio por parto a término. Se explora a recién nacida, sin esfuerzo de llanto, flácida y cianótica. Se seca y estimula y ante la ausencia de inicio de llanto se traslada a cuna térmica. Inicia llanto intenso y eficaz a los 30 segundos de vida, donde ya se podía observar recuperación del tono de forma completa con movimiento activo, frecuencia cardíaca por encima de 100 lpm y estornudo tras aspiración de secreciones faríngeas espesas. Sin embargo, persiste cianosis generalizada hasta 1 minuto y 20 segundos de vida a partir del cual presenta solamente acrocianosis. A los 4 minutos de vida inicia dificultad respiratoria (esfuerzo respiratorio irregular) consistente en polipnea, tiraje subcostal e intercostal leve-moderado, leve aleteo nasal y quejido espiratorio (con frecuencia cardíaca por encima de 100 lpm, movimiento activo, recuperación completa del color con coloración completamente rosada y reflejos de tos y estornudo), que se resuelve tras colocar presión positiva durante 2 minutos. ¿Qué puntuación de Apgar tiene esta recién nacida?",
+    opciones: [
+      "1. 4/8.",
+      "2. 8/9.",
+      "3. 9/9.",
+      "4. 9/10."
+    ],
+    correcta: 2,
+    explicacion: "Al 1er minuto: FC >100 (+2), llanto vigoroso (+2), tono activo (+2), reflejo al aspirar estornudo (+2), cianosis generalizada (0) = 8 puntos. A los 5 minutos (tras CPAP): FC >100 (+2), tono activo (+2), reflejos (+2), rosada completa (+2), esfuerzo respiratorio irregular/polipneico (+1) = 9 puntos."
+  },
+  {
+    id: "MIR24-069",
+    ano: 2024,
+    num: 69,
+    conImagen: false,
+    enunciado: "69. Respecto a las medidas a tomar ante un niño diagnosticado de tos ferina, en relación a sus contactos, indique la respuesta INCORRECTA:",
+    opciones: [
+      "1. Tratar con antibióticos a toda la familia, independientemente de la edad, estado de inmunización y sintomatología.",
+      "2. Tratar con antibióticos a todo el personal sanitario que ha atendido al niño independientemente de la edad, estado de inmunización y sintomatología.",
+      "3. Vacunar a los adultos convivientes, aunque hayan padecido la enfermedad ya que la inmunidad no dura toda la vida.",
+      "4. Aislar al paciente al menos 5 días después de iniciar el tratamiento."
+    ],
+    correcta: 2,
+    explicacion: "En el personal sanitario la quimioprofilaxis postexposición con macrólidos NO se administra de forma universal indiscriminada, sino reservada únicamente a aquellos con exposición estrecha sin protección adecuada o que atienden a pacientes de alto riesgo."
+  },
+  {
+    id: "MIR24-070",
+    ano: 2024,
+    num: 70,
+    conImagen: false,
+    enunciado: "70. Indique la respuesta FALSA respecto a la invaginación intestinal en pediatría:",
+    opciones: [
+      "1. La mayoría de los casos de invaginación en niños se deben a adherencias congénitas.",
+      "2. La incidencia estacional alcanza picos en otoño e invierno.",
+      "3. Se ha apreciado una correlación con infección respiratoria previa o concurrente por adenovirus (tipo C).",
+      "4. Se ha observado un aumento ligero de la invaginación en las tres semanas posteriores a la vacuna de rotavirus (sobre todo tras la primera dosis)."
+    ],
+    correcta: 1,
+    explicacion: "En niños entre 3 meses y 3 años, más del 90% de las invaginaciones son idiopáticas primarias secundarias a hiperplasia linfoide reactiva en las placas de Peyer ileales tras cuadros virales, no por adherencias anatómicas congénitas."
+  },
+  {
+    id: "MIR24-071",
+    ano: 2024,
+    num: 71,
+    conImagen: false,
+    enunciado: "71. Todas las siguientes pueden ser manifestaciones tardías de sífilis congénita, habitualmente no evidentes clínicamente en los 2 primeros años de vida. Indique la manifestación que NO es habitual en esta patología:",
+    opciones: [
+      "1. Dientes de Hutchinson.",
+      "2. Nariz en silla de montar.",
+      "3. Queratitis intersticial.",
+      "4. Cardiopatía congénita."
+    ],
+    correcta: 4,
+    explicacion: "La tríada clásica de Hutchinson (queratitis intersticial, sordera laberíntica y dientes en destornillador) junto a la deformidad de nariz en silla de montar y tibias en sable son estigmas tardíos de sífilis congénita; las cardiopatías congénitas se ligan a rubeola (rubeola congénita) o tóxicos."
+  },
+  {
+    id: "MIR24-072",
+    ano: 2024,
+    num: 72,
+    conImagen: false,
+    enunciado: "72. Mujer de 35 años que hace dos días sufrió un accidente de coche sin apenas consecuencias físicas acude a su médica de atención primaria, por insomnio con pesadillas, expresa también recuerdos vívidos de detalles del accidente y síntomas de hiperactivación. El diagnóstico más probable es:",
+    opciones: [
+      "1. Reacción aguda de estrés.",
+      "2. Reacción adaptativa depresiva.",
+      "3. Trastorno de estrés postraumático.",
+      "4. Trastorno de ansiedad generalizada."
+    ],
+    correcta: 1,
+    explicacion: "Clínica intrusiva, pesadillas e hiperarousal que se inicia en los primeros días inmediatamente posteriores a un acontecimiento traumático y dura menos de 1 mes define el trastorno de estrés agudo / reacción aguda de estrés (para TEPT se exige persistencia >1 mes)."
+  },
+  {
+    id: "MIR24-073",
+    ano: 2024,
+    num: 73,
+    conImagen: false,
+    enunciado: "73. Los mecanismos de defensa que con mayor frecuencia se presentan en el trastorno delirante son los siguientes, EXCEPTO:",
+    opciones: [
+      "1. Proyección.",
+      "2. Negación.",
+      "3. Formación reactiva.",
+      "4. Regresión."
+    ],
+    correcta: 4,
+    explicacion: "La psicopatología psicodinámica clásica del trastorno de ideas delirantes persistentes (paranoia) describe la proyección (mecanismo angular), la negación y la formación reactiva; la regresión profunda a etapas infantiles es típica de la esquizofrenia catatónica o desorganizada."
+  },
+  {
+    id: "MIR24-074",
+    ano: 2024,
+    num: 74,
+    conImagen: false,
+    enunciado: "74. Sobre los factores de mal pronóstico en la esquizofrenia, señale la respuesta INCORRECTA:",
+    opciones: [
+      "1. Inicio en edad temprana.",
+      "2. Presencia de síntomas negativos.",
+      "3. Presentación clínica aguda.",
+      "4. Antecedentes de agresividad."
+    ],
+    correcta: 3,
+    explicacion: "El inicio agudo, florido y con desencadenante identificable se asocia tradicionalmente a buen pronóstico en esquizofrenia; el inicio insidioso, precoz, lento y dominado por síntomas deficitarios/negativos constituye un predictor de mala evolución."
+  },
+  {
+    id: "MIR24-075",
+    ano: 2024,
+    num: 75,
+    conImagen: false,
+    enunciado: "75. Adolescente de 16 años que es traída a la consulta por sus padres debido a cambios drásticos en su comportamiento en los últimos seis meses. Ha mostrado síntomas de depresión, irritabilidad y recientemente ha comenzado a autolesionarse realizándose cortes en los brazos. También se ha aislado socialmente y ha tenido dificultades para mantener su rendimiento académico. ¿Cuál de los siguientes factores es el más significativo para indicar desregulación emocional y riesgo de conducta suicida en esta paciente?:",
+    opciones: [
+      "1. Presencia de autolesiones.",
+      "2. Aislamiento social.",
+      "3. Irritabilidad.",
+      "4. Dificultades académicas."
+    ],
+    correcta: 1,
+    explicacion: "Las conductas autolesivas no suicidas (cortes cutáneos deliberados) representan el marcador clínico más robusto de desregulación emocional severa y constituyen uno de los principales predictores de riesgo futuro de intentos de suicidio consumado en adolescentes."
+  },
+  {
+    id: "MIR24-076",
+    ano: 2024,
+    num: 76,
+    conImagen: false,
+    enunciado: "76. Mujer de 28 años con diagnóstico de trastorno bipolar tipo I embarazada de 12 semanas. Ha tenido episodios maníacos y depresivos en el pasado. Actualmente, está preocupada por el impacto de su tratamiento en el feto. ¿Cuál de los siguientes tratamientos es más seguro y recomendado durante el embarazo, y qué tipo de psicoterapia es apropiada como complemento?:",
+    opciones: [
+      "1. Ácido valproico y terapia interpersonal.",
+      "2. Lamotrigina y terapia cognitivo-conductual.",
+      "3. Litio y terapia cognitivo-conductual.",
+      "4. Carbamazepina y terapia interpersonal."
+    ],
+    correcta: 2,
+    explicacion: "Valproato y carbamazepina están formalmente proscritos por alto riesgo de teratogenia mayor (defectos del tubo neural). La lamotrigina presenta el perfil de seguridad reproductivo más favorable en el mantenimiento bipolar, apoyada en terapia cognitivo-conductual."
+  },
+  {
+    id: "MIR24-077",
+    ano: 2024,
+    num: 77,
+    conImagen: false,
+    enunciado: "77. Respecto a la enfermedad de Alzheimer, señale la respuesta INCORRECTA:",
+    opciones: [
+      "1. El gen de la ApoE (apolipoproteína epsilon) alelo E4 es factor de riesgo.",
+      "2. Hay un descenso de la proteína tau en el LCR.",
+      "3. El PET tau y el PET amiloide son útiles en el diagnóstico precoz de la enfermedad.",
+      "4. En la RM de estos pacientes esperamos encontrar atrofia en el lóbulo temporal medial."
+    ],
+    correcta: 2,
+    explicacion: "El perfil biomarcador clásico en el LCR de la enfermedad de Alzheimer consiste en elevación de la proteína tau total y tau hiperfosforilada (marcador de daño y ovillos) junto a un descenso del péptido beta-amiloide 42 (por depósito en placas seniles corticales)."
+  },
+  {
+    id: "MIR24-078",
+    ano: 2024,
+    num: 78,
+    conImagen: false,
+    enunciado: "78. Un paciente acude a la consulta porque tiene un trastorno de la marcha, tropieza y tiene caídas frecuentes. En la exploración presenta temblor de reposo en el miembro superior derecho, rigidez en rueda dentada al movilizarle las extremidades superiores y marcha alterada desplazando el tronco hacia delante con pasos cortos. ¿Cuál de las siguientes afirmaciones apoyaría el diagnóstico de enfermedad de Parkinson?:",
+    opciones: [
+      "1. Falta de respuesta inicial al tratamiento con Levodopa.",
+      "2. SPECT con transportador de dopamina que muestre una hipocaptación en la vía nigroestriada.",
+      "3. Gammagrafía miocárdica con MIBG (metayodobencilguanidina) normal.",
+      "4. Presencia precoz de síntomas de disautonomía."
+    ],
+    correcta: 2,
+    explicacion: "El DaT-SCAN demuestra la denervación presináptica estriatal dopaminérgica característica del parkinsonismo degenerativo; la ausencia de respuesta a L-dopa, caídas o disautonomía precoz orientarían en contra (hacia parkinsonismos atípicos como PSP o MSA)."
+  },
+  {
+    id: "MIR24-079",
+    ano: 2024,
+    num: 79,
+    conImagen: false,
+    enunciado: "79. Mujer de 35 años consulta por cuadro de diplopia y debilidad proximal progresivas que empeora a lo largo de día. En la exploración neurológica se aprecia voz nasal, ptosis bilateral sin afectación pupilar, limitación para la abducción de ojo derecho y debilidad proximal con reflejos miotáticos conservados. Respecto a esta paciente señale la opción INCORRECTA:",
+    opciones: [
+      "1. El nivel de anticuerpos es independiente de la gravedad de la enfermedad.",
+      "2. En ocasiones se asocia a otra enfermedad autoinmune.",
+      "3. Es frecuente la agregación familiar.",
+      "4. La respuesta a inmunosupresores es mayor en pacientes con anticuerpos antirreceptor de acetilcolina y anticuerpos antiMusk positivos."
+    ],
+    correcta: 3,
+    explicacion: "La miastenia gravis adquirida autoinmune no es una enfermedad hereditaria y los casos con agregación familiar directa son excepcionales (los síndromes miasténicos familiares corresponden a miastenias congénitas genéticas no autoinmunes)."
+  },
+  {
+    id: "MIR24-080",
+    ano: 2024,
+    num: 80,
+    conImagen: false,
+    enunciado: "80. Con respecto a la parálisis facial, ¿cuál de los siguientes signos y síntomas nos haría pensar en un origen central?",
+    opciones: [
+      "1. La presencia de ageusia asociada a la parálisis facial.",
+      "2. La presencia de hipoestesia o dolor en la región del pabellón auricular del mismo lado que la parálisis.",
+      "3. Si la debilidad de los músculos faciales sólo afecta a la mitad inferior de la hemicara afectada sin afectación de los músculos palpebrales ni de la frente.",
+      "4. Si hay disminución de la secreción lacrimal en el ojo correspondiente al lado de la parálisis facial."
+    ],
+    correcta: 3,
+    explicacion: "El núcleo motor del facial superior recibe inervación corticonuclear bilateral, por lo que una lesión de primera motoneurona (supranuclear/central) respeta el cierre palpebral y la movilidad frontal, afectando exclusivamente a los músculos de la mitad inferior de la hemicara contralateral."
+  },
+  {
+    id: "MIR24-081",
+    ano: 2024,
+    num: 81,
+    conImagen: false,
+    enunciado: "81. Hombre de 75 años con antecedentes de fibrilación auricular e hipertensión arterial es traído a urgencias por hemiparesia derecha, dificultad para hablar y fiebre de 38.5ºC. La tomografía computarizada (TC) de cráneo revela un infarto cerebral en la región parietal izquierda e ingresa en la unidad de ictus. A las 48 h del ingreso se informa de presencia de Streptococcus viridans en hemocultivo. ¿Cuál es el diagnóstico más probable y el enfoque diagnóstico-terapéutico adecuado en este caso?",
+    opciones: [
+      "1. Accidente cerebrovascular isquémico secundario a fibrilación auricular; iniciar anticoagulación y antipiréticos.",
+      "2. Meningitis bacteriana con complicación isquémica; realizar punción lumbar e iniciar antibiótico dirigido según antibiograma.",
+      "3. Endocarditis infecciosa con embolia séptica; confirmar con ecocardiograma y tratar con antibiótico dirigido según el antibiograma.",
+      "4. Neoplasia cerebral con fiebre paraneoplásica; realizar resonancia magnética cerebral y evaluación oncológica."
+    ],
+    correcta: 3,
+    explicacion: "Ictus embólico isquémico asociado a bacteriemia persistente por germen del grupo viridans y fiebre: sospecha inmediata de endocarditis infecciosa con émbolo séptico cerebral; requiere ecocardiograma (transesofágico) y antibioterapia endovenosa bactericida."
+  },
+  {
+    id: "MIR24-082",
+    ano: 2024,
+    num: 82,
+    conImagen: false,
+    enunciado: "82. Mujer de 55 años que consulta por una cefalea con sensación de presión bilateral, que no asocia fotofobia, náuseas ni vómitos. La paciente puede realizar sus actividades habituales porque el dolor es de intensidad moderada. El dolor es prácticamente diario en los últimos 6 meses. Desde el punto de vista terapéutico, ¿cuál es la opción más adecuada?",
+    opciones: [
+      "1. Tratamiento analgésico simple con paracetamol diario, los días que tenga dolor.",
+      "2. Tratamiento con triptanes en el momento agudo de la cefalea los días que sea más intensa.",
+      "3. Tratamiento preventivo de entrada con betabloqueantes tipo propranolol a dosis entre 40-160 mg/d entre 3-6 meses.",
+      "4. Tratamiento preventivo de entrada con amitriptilina a dosis bajas entre 25-50 mg/d y mantenerlo entre 3 y 6 meses."
+    ],
+    correcta: 4,
+    explicacion: "Cefalea tensional crónica (dolor opresivo bilateral sin síntomas acompañantes >15 días/mes durante >3 meses); el tratamiento preventivo farmacológico de primera línea más avalado es la amitriptilina en dosis nocturnas ascendentes."
+  },
+  {
+    id: "MIR24-083",
+    ano: 2024,
+    num: 83,
+    conImagen: false,
+    enunciado: "83. Mujer de 18 años sin antecedentes de interés ni consumo de tóxicos que ingresa en planta por un cuadro de alteración conductual con ansiedad, agresividad e ilusiones visuales. Durante su ingreso presenta una crisis convulsiva junto con discinesias orolinguales y distonía del pie izquierdo. Dos semanas previas había presentado un cuadro de diarrea, náuseas y vómitos autolimitados. Respecto a este síndrome señale la respuesta INCORRECTA:",
+    opciones: [
+      "1. La encefalitis anti NMDAR es la encefalitis autoinmune más frecuente.",
+      "2. La RM con hiperseñal hipocampal es patognomónica de la enfermedad.",
+      "3. Existe una fuerte asociación con patología tumoral.",
+      "4. El pronóstico habitualmente es favorable."
+    ],
+    correcta: 2,
+    explicacion: "En la encefalitis por anticuerpos contra el receptor de NMDA la RM cerebral es normal hasta en el 50-70% de los pacientes o presenta alteraciones corticosubcorticales sutiles inespecíficas; la hiperintensidad límbica bitemporal es típica de la encefalitis límbica clásica (como anti-LGI1)."
+  },
+  {
+    id: "MIR24-084",
+    ano: 2024,
+    num: 84,
+    conImagen: false,
+    enunciado: "84. Hombre de 81 años con antecedentes de HTA, dislipemia y enfermedad de Alzheimer leve. Avisa su familia porque lo han encontrado en su casa caído en el suelo y no es capaz de movilizar extremidades derechas. Llega al hospital trasladado por emergencias como código ictus. A la exploración física destaca paresia facial derecha supranuclear, afasia global, hemianopsia derecha y hemiplejia de miembros derechos. La TC craneal se informa como ASPECTS 8 sin datos de sangrado. En angioTC oclusión de segmento M2 de división anterior de ACM izquierda. ¿Cuál de los siguientes es el mejor tratamiento inicial para este paciente?",
+    opciones: [
+      "1. Fibrinolisis con alteplasa.",
+      "2. Doble antiagregación y estatinas.",
+      "3. Manejo conservador por los antecedentes del paciente.",
+      "4. Trombectomía mecánica."
+    ],
+    correcta: 4,
+    explicacion: "Ictus isquémico severo con oclusión de gran vaso arterial intracraneal (M2 de la cerebral media) y parénquima salvable (ASPECTS 8) en un paciente previamente funcional independiente; la trombectomía mecánica endovascular es el tratamiento con mayor beneficio clínico demostrado."
+  },
+  {
+    id: "MIR24-085",
+    ano: 2024,
+    num: 85,
+    conImagen: false,
+    enunciado: "85. Sobre el tratamiento quirúrgico de la enfermedad de Parkinson señale la opción correcta:",
+    opciones: [
+      "1. Los núcleos diana principales son el núcleo pálido y el núcleo ventral inferomedial del tálamo.",
+      "2. La cirugía lesional es la opción utilizada más frecuentemente hoy en día.",
+      "3. La presencia de síntomas o signos que no responden a la levodopa desaconsejan el tratamiento.",
+      "4. La estimulación eléctrica de los núcleos genera una activación de los mismos, principio fundamental del tratamiento."
+    ],
+    correcta: 3,
+    explicacion: "Uno de los criterios de selección fundamentales para la estimulación cerebral profunda (DBS) es la buena respuesta motora previa a la levodopa; los signos axiales o motores que no mejoran con levodopa (excepto el temblor resistente) no responderán a la cirugía."
+  },
+  {
+    id: "MIR24-086",
+    ano: 2024,
+    num: 86,
+    conImagen: false,
+    enunciado: "86. EI APACHE-II (Acute Physiologic Assessment and Chronic Health Evaluation II) es un índice cuantitativo de gravedad que se calcula en el paciente crítico utilizando las siguientes variables, EXCEPTO:",
+    opciones: [
+      "1. Recuento de leucocitos en sangre.",
+      "2. Escala de coma de Glasgow.",
+      "3. pH en sangre.",
+      "4. Lactato en sangre."
+    ],
+    correcta: 4,
+    explicacion: "El APACHE-II evalúa 12 variables fisiológicas agudas (temperatura, PAM, FC, FR, oxigenación, pH arterial, Na, K, creatinina, hematocrito, leucocitos y Glasgow) junto a edad y comorbilidad crónica previa; los niveles de lactato sérico no forman parte del score."
+  },
+  {
+    id: "MIR24-087",
+    ano: 2024,
+    num: 87,
+    conImagen: false,
+    enunciado: "87. Mujer de 57 años ingresada en la Unidad de Cuidados Intensivos por hipotensión persistente y fracaso multiorgánico. Tras monitorización hemodinámica avanzada, la paciente presenta frecuencia cardíaca de 105 lpm, resistencias vasculares sistémicas de 400 din-seg-m²/cm⁵, gasto cardíaco de 8 L/min, presión venosa central de 5 mmHg, variación del volumen sistólico del 9% e índice de agua pulmonar extravascular indexado de 5 mL/kg. ¿A qué tipo de shock orienta dicha monitorización hemodinámica avanzada?:",
+    opciones: [
+      "1. Shock distributivo.",
+      "2. Shock cardiogénico.",
+      "3. Shock hipovolémico.",
+      "4. Shock obstructivo."
+    ],
+    correcta: 1,
+    explicacion: "El perfil hemodinámico hiperdinámico con resistencias vasculares sistémicas muy bajas (<800) asociado a gasto cardíaco elevado (>7-8 L/min) y presiones de llenado bajas/normales es patognomónico del shock distributivo (típicamente séptico)."
+  },
+  {
+    id: "MIR24-088",
+    ano: 2024,
+    num: 88,
+    conImagen: false,
+    enunciado: "88. Mujer de 63 años, diabética en tratamiento con antidiabéticos orales que consulta por dolor en hombro derecho de 3 meses de evolución sin antecedente traumático. El dolor le limita el movimiento completo del hombro y desde hace una semana le impide el descanso nocturno. En la exploración el médico constata limitación para el movimiento activo de la abducción a más de 100º, de la flexión a 110º, rotación externa a 45º e interna lleva la mano al glúteo con dificultad. No presenta limitación en la movilidad pasiva de la extremidad. La orientación diagnóstica más probable y la actuación inicial es:",
+    opciones: [
+      "1. Tendinosis del manguito rotador. Crioterapia, AINEs tópicos y cabestrillo una semana.",
+      "2. Tendinosis cálcica del supraespinoso derecho. Crioterapia 3 veces al día e indicar fisioterapia.",
+      "3. Tendinosis del supraespinoso derecho. Infiltración, paracetamol cada 8 horas y solicitar resonancia magnética.",
+      "4. Tendinosis del supraespinoso derecho. Crioterapia, AINES orales y ejercicios en su domicilio. Visita de control y si no mejora solicitar prueba de imagen."
+    ],
+    correcta: 4,
+    explicacion: "Limitación dolorosa de la movilidad activa con preservación íntegra del rango de movilidad pasiva orienta a patología tendinosa del manguito (supraespinoso), no a capsulitis adhesiva; el abordaje inicial escalonado incluye medidas conservadoras (AINEs, frío local, cinesiterapia) antes de indicar RM."
+  },
+  {
+    id: "MIR24-089",
+    ano: 2024,
+    num: 89,
+    conImagen: false,
+    enunciado: "89. Jugador de baloncesto de 42 años que acude a urgencias por dolor de tres días de evolución en cara anterior de muslo derecho de tipo lancinante. Inicia el dolor tras mal gesto en flexión de la columna lumbar, presentando primero lumbalgia y después este dolor irradiado. En la exploración presenta un Lasegue invertido positivo, con un reflejo osteotendinoso rotuliano derecho 2/4. No hay déficit motor. La orientación diagnóstica más probable es:",
+    opciones: [
+      "1. Hernia discal L4-L5 migrada posterior que ocasiona una clínica de silla de montar.",
+      "2. Hernia discal foraminal L4-L5 derecha que comprime la raíz de L4.",
+      "3. Hernia discal foraminal L4-L5 derecha que comprime la raíz de L5.",
+      "4. Meralgia parestésica derecha."
+    ],
+    correcta: 2,
+    explicacion: "El Lasègue invertido (maniobra de elongación del nervio crural/femoral) explora las raíces L2-L4. Una hernia foraminal a nivel L4-L5 comprime de forma selectiva la raíz que emerge por ese foramen (la raíz L4), causando dolor en la cara anterior del muslo y rodilla."
+  },
+  {
+    id: "MIR24-090",
+    ano: 2024,
+    num: 90,
+    conImagen: false,
+    enunciado: "90. Paciente de 75 años con estancia prolongada en UCI. En una exploración rutinaria se observa dificultad para la flexión dorsal del pie izquierdo con un tibial anterior a 1/5, una dificultad para la extensión de los dedos 1/5 y dificultad para la eversión con peroneos 3/5. No presenta otro foco neurológico, ni dolor en la región lumbar ni en la extremidad. ¿Cuál de las siguientes es la actitud más correcta?:",
+    opciones: [
+      "1. Indicar férula antiequino y fisioterapia por sospecha de compresión del nervio ciático poplíteo externo.",
+      "2. Solicitar electromiograma urgente y dejarlo en reposo.",
+      "3. Realizar punción lumbar por sospecha de complicación por Guillain-Barre.",
+      "4. Solicitar resonancia magnética y pautar, si no está recibiendo, corticoides."
+    ],
+    correcta: 1,
+    explicacion: "Déficit aislado de la flexión dorsal y eversión del pie ('pie caído') indoloro en un paciente encamado o inmovilizado en UCI por compresión postural mecánica externa del nervio peroneo común (ciático poplíteo externo) a nivel de la cabeza del peroné; se maneja con ortesis antiequino y rehabilitación."
+  },
+  {
+    id: "MIR24-091",
+    ano: 2024,
+    num: 91,
+    conImagen: false,
+    enunciado: "91. Mujer de 19 años que, practicando patinaje sobre ruedas, sufre un traumatismo indirecto de la rodilla derecha, con luxación de rótula tratada en urgencias. Acude a revisión 2 meses más tarde y refiere que nota dolor y sensación de inestabilidad y subluxación frecuente con la actividad física. De los siguientes elementos, señale el que NO favorece la inestabilidad fémoro-patelar:",
+    opciones: [
+      "1. Anteversión femoral.",
+      "2. Torsión tibial interna.",
+      "3. Genu valgo.",
+      "4. Patela alta."
+    ],
+    correcta: 2,
+    explicacion: "Los factores que aumentan el ángulo Q y facilitan la luxación rotuliana externa son el genu valgo, la anteversión femoral aumentada, la patela alta y la torsión tibial EXTERNA; la torsión tibial interna medializa la tuberosidad tibial anterior y reduce el vector lateral."
+  },
+  {
+    id: "MIR24-092",
+    ano: 2024,
+    num: 92,
+    conImagen: false,
+    enunciado: "92. Desde el punto de vista fisiopatológico la osteonecrosis de la cabeza femoral se puede desencadenar por todos los mecanismos aquí descritos EXCEPTO:",
+    opciones: [
+      "1. Anomalías en el flujo vascular por factores genéticos.",
+      "2. Oclusión intravascular por émbolos (lípidos, nitrógeno, hematíes anómalos).",
+      "3. Dehiscencia de la íntima arterial de los vasos.",
+      "4. Compresión extravascular a consecuencia de un acúmulo graso."
+    ],
+    correcta: 3,
+    explicacion: "La necrosis avascular se debe a compromiso de las arterias retinaculares por oclusión microvascular (drepanocitosis, embolia gaseosa), aumento de presión intraósea/compresión extravascular (corticoides, alcoholismo) o trombofilia genética, no por 'dehiscencia de la íntima'."
+  },
+  {
+    id: "MIR24-093",
+    ano: 2024,
+    num: 93,
+    conImagen: false,
+    enunciado: "93. Mujer de 68 años con IMC 28 kg/m² que consulta por dolor crónico en rodilla derecha. Refiere que el dolor empeora con la actividad física, especialmente al subir y bajar escaleras, y mejora con el reposo. En la exploración física se observa crepitación en la rodilla derecha y leve deformidad en ambas. Una radiografía de rodilla derecha muestra estrechamiento del espacio articular y formación de osteofitos. ¿Cuál es la opción de tratamiento más adecuada en este caso?:",
+    opciones: [
+      "1. Inmovilización de la rodilla con rodillera de descarga rotuliana.",
+      "2. Pérdida de peso y ejercicio físico supervisado para fortalecer el cuádriceps.",
+      "3. Infiltración intraarticular de corticoides.",
+      "4. Tratamiento farmacológico con tramadol."
+    ],
+    correcta: 2,
+    explicacion: "En la gonartrosis sintomática leve-moderada, las guías internacionales (OARSI, ACR) sitúan como pilar central de tratamiento no farmacológico básico la reducción del sobrepeso y los programas de fortalecimiento muscular activo del cuádriceps."
+  },
+  {
+    id: "MIR24-094",
+    ano: 2024,
+    num: 94,
+    conImagen: false,
+    enunciado: "94. Hombre de 30 años que acude a consulta por dolor lumbar crónico que empeora en la noche y mejora con el ejercicio. Refiere rigidez matutina de más de una hora. La exploración física revela una disminución de la movilidad en la columna lumbar y dolor a la palpación y exploración de las articulaciones sacroilíacas. La resonancia magnética muestra edema en las articulaciones sacroilíacas compatible con sacroileitis. ¿Cuál es el tratamiento inicial más indicado para este paciente?:",
+    opciones: [
+      "1. Metotrexate subcutáneo semanal.",
+      "2. Corticoides orales.",
+      "3. Fisioterapia y antiinflamatorios no esteroides (AINES).",
+      "4. Terapia biológica con anti-TNF."
+    ],
+    correcta: 3,
+    explicacion: "En la espondiloartritis axial con sacroileítis activa, la primera línea de tratamiento farmacológico continuado son los AINEs a dosis plenas asociados a fisioterapia reglada (los FAMEs sintéticos convencionales no son eficaces para el esqueleto axial y los biológicos se reservan tras fracaso de AINEs)."
+  },
+  {
+    id: "MIR24-095",
+    ano: 2024,
+    num: 95,
+    conImagen: false,
+    enunciado: "95. Mujer de 83 años hospitalizada por neumonía adquirida en la comunidad por neumococo. Presenta una artritis aguda de carpo derecho. Sospechamos enfermedad por depósito de pirofosfato pero no se observa condrocalcinosis en la radiografía de carpos ni se ha conseguido obtener líquido sinovial durante la artrocentesis. ¿Qué radiografías añadiremos al cribado con el objetivo de identificar condrocalcinosis?:",
+    opciones: [
+      "1. Radiografía anteroposterior de rodillas y de sínfisis de pubis.",
+      "2. Radiografía anteroposterior de rodillas y de hombros.",
+      "3. Radiografía anteroposterior de sínfisis de pubis y de hombros.",
+      "4. Radiografía anteroposterior de rodillas y de codos."
+    ],
+    correcta: 1,
+    explicacion: "El estudio radiológico sistemático recomendado para detectar condrocalcinosis asintomática por depósito de pirofosfato cálcico dihidratado (CPPD) incluye carpos, proyección anteroposterior de rodillas (meniscos) y de pelvis/sínfisis del pubis (fibrocartílago púbico)."
+  },
+  {
+    id: "MIR24-096",
+    ano: 2024,
+    num: 96,
+    conImagen: false,
+    enunciado: "96. Uno de estos hallazgos anatomopatológicos sugiere el diagnóstico de enfermedad por IgG4:",
+    opciones: [
+      "1. Trombosis arterial.",
+      "2. Proliferación de la íntima arterial sin datos de vasculitis.",
+      "3. Fibrosis estoriforme.",
+      "4. Infiltrado perivascular de polimorfonucleares."
+    ],
+    correcta: 3,
+    explicacion: "La tríada histopatológica definitoria de la enfermedad relacionada con IgG4 se compone de: denso infiltrado linfoplasmocitario con abundantes células plasmáticas IgG4+, fibrosis estoriforme (en patrón de esterilla o rueda de carro) y flebitis obliterante."
+  },
+  {
+    id: "MIR24-097",
+    ano: 2024,
+    num: 97,
+    conImagen: false,
+    enunciado: "97. ¿Cuál de los siguientes hallazgos NO esperaría encontrar en una mujer de 28 años con una comunicación interauricular evolucionada?:",
+    opciones: [
+      "1. Soplo mesosistólico.",
+      "2. Aumento de la silueta cardíaca en la radiografía de tórax.",
+      "3. Bloqueo de rama derecha en el electrocardiograma.",
+      "4. Hipertrofia del ventrículo izquierdo."
+    ],
+    correcta: 4,
+    explicacion: "El cortocircuito izquierda-derecha de la CIA condiciona sobrecarga de volumen y dilatación progresiva de cavidades DERECHAS (aurícula y ventrículo derecho, arteria pulmonar y BRD en ECG); el ventrículo izquierdo no sufre sobrecarga y no se hipertrofia."
+  },
+  {
+    id: "MIR24-098",
+    ano: 2024,
+    num: 98,
+    conImagen: false,
+    enunciado: "98. Joven de 16 años con astenia desde hace 1 mes, que durante un partido de fútbol sufre un síncope. A su llegada al hospital inconsciente y hemodinámicamente inestable presenta síntomas y signos de accidente cerebrovascular, de isquemia mesentérica y de isquemia arterial periférica, en miembro superior izquierdo y de ambos miembros inferiores. ¿Cuál cree que es el diagnóstico de sospecha?:",
+    opciones: [
+      "1. Bloqueo aurículo-ventricular de 3º grado.",
+      "2. Insuficiencia mitral aguda.",
+      "3. Mixoma de aurícula izquierda.",
+      "4. Rotura de aneurisma de arteria cerebral media."
+    ],
+    correcta: 3,
+    explicacion: "Síncope postural/esfuerzo, síntomas sistémicos previos (astenia) y embolismos arteriales periféricos múltiples simultáneos multiorgánicos (cerebral, mesentérico, extremidades) en un paciente joven apuntan a la fragmentación o embolización de un mixoma auricular izquierdo."
+  },
+  {
+    id: "MIR24-099",
+    ano: 2024,
+    num: 99,
+    conImagen: false,
+    enunciado: "99. Hombre de 65 años, hipertenso desde hace 12 años, que acude por primera vez a la consulta de su médico de familia para una revisión rutinaria. La exploración física es normal y el electrocardiograma muestra ritmo sinusal a 68 lpm, con bloqueo de la rama izquierda del haz de His y duración del QRS de 150 ms. ¿Cuál de las siguientes situaciones implica este hallazgo?:",
+    opciones: [
+      "1. Asincronía ventricular.",
+      "2. Miocardiopatía dilatada.",
+      "3. Disociación aurículo-ventricular.",
+      "4. Isquemia miocárdica aguda."
+    ],
+    correcta: 1,
+    explicacion: "El bloqueo completo de rama izquierda (con QRS ancho >120-150 ms) despolariza de forma tardía la pared lateral del ventrículo izquierdo respecto al tabique interventricular, produciendo contracción no coordinada o asincronía mecánica interventricular e intraventricular."
+  },
+  {
+    id: "MIR24-100",
+    ano: 2024,
+    num: 100,
+    conImagen: false,
+    enunciado: "100. Un entrenamiento aeróbico intenso y prolongado produce una serie de adaptaciones cardiovasculares que suelen denominarse \"corazón de deportista\". Entre las siguientes adaptaciones fisiológicas, señale la respuesta INCORRECTA:",
+    opciones: [
+      "1. Bradicadia sinusal por aumento del tono vagal.",
+      "2. Bloqueo aurículo-ventricular de primer grado, de segundo grado Mobitz I e incluso de tercer grado durante el sueño.",
+      "3. Bloqueo completo de rama izquierda del haz de His por hipertrofia ventricular izquierda.",
+      "4. Bloqueo de rama derecha del haz de His por dilatación fisiológica ventricular derecha en deportes de resistencia."
+    ],
+    correcta: 3,
+    explicacion: "El bloqueo completo de rama izquierda (BRIHH) SIEMPRE traduce cardiopatía o alteración patológica del sistema de conducción intrínseco y NUNCA se considera una adaptación fisiológica normal inducida por el entrenamiento deportivo."
   }
 ];
