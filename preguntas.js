@@ -2826,5 +2826,740 @@ const BANCO_GLOBAL = [
       "4. Ecografía combinada abdomino-pélvica y endorrectal."
     ],
     correcta: 3
+  },// ==========================================
+  // CONVOCATORIA MIR 2024 (Versión 0) - BLOQUE 1
+  // ==========================================
+  {
+    id: "MIR24-001",
+    ano: 2024,
+    num: 1,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img01.jpg",
+    enunciado: "1. Pregunta asociada a la imagen 1.\nMujer de 42 años que acude a la consulta de genética por un diagnóstico reciente de cáncer de endometrio. En base a los antecedentes familiares que constan en la imagen, ¿cuál de los siguientes síndromes es más probable que presente?:",
+    opciones: [
+      "1. Poliposis adenomatosa familiar.",
+      "2. Síndrome de Lynch.",
+      "3. Síndrome de cáncer de mama y ovario hereditario.",
+      "4. Síndrome de Cowden."
+    ],
+    correcta: 2,
+    explicacion: "El árbol genealógico muestra agregación vertical de cáncer colorrectal en varón joven (47a), endometrio en la probando (42a) y ovario precoz (49a), cumpliendo criterios de sospecha del síndrome de Lynch (cáncer colorrectal hereditario no polipósico por mutación en genes MMR)."
+  },
+  {
+    id: "MIR24-002",
+    ano: 2024,
+    num: 2,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img02.jpg",
+    enunciado: "2. Pregunta asociada a la imagen 2.\nPaciente de 65 años que acude a urgencias por disminución brusca de agudeza visual en ojo derecho. La retinografía de dicho ojo se muestra en la imagen. Uno de los siguientes tratamientos está indicado para una enfermedad que es un factor de riesgo para esta situación. Indique cuál:",
+    opciones: [
+      "1. Latanoprost y timolol.",
+      "2. Flecainida.",
+      "3. Hidroxicloroquina.",
+      "4. Complejos vitamínicos y antioxidantes."
+    ],
+    correcta: 1,
+    explicacion: "La retinografía muestra hemorragias en llamarada masivas, venas tortuosas y edema papilar, imagen patognomónica de oclusión de la vena central de la retina. El glaucoma primario de ángulo abierto (tratado con hipotensores oculares como latanoprost/timolol) y la HTA son sus principales factores de riesgo."
+  },
+  {
+    id: "MIR24-003",
+    ano: 2024,
+    num: 3,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img03.jpg",
+    enunciado: "3. Pregunta asociada a la imagen 3.\nHombre de 70 años exfumador de un paquete al día y bebedor de 2 copas de vino al día consulta por una molestia faríngea de 1 mes de evolución. Se observa exudado amigdalar por lo que se inicia tratamiento antibiótico. El resultado del test de estreptococo es negativo. La clínica persiste y se añade odinofagia con otalgia refleja y leve cambio en el timbre de la voz. Nota un bulto duro de unos 2 cm a nivel II cervical ipsilateral no doloroso. La orofaringoscopia se refleja en la imagen asociada (imagen aumentada en el recuadro resaltado en rojo). ¿Cuál es la sospecha diagnóstica y su manejo?:",
+    opciones: [
+      "1. Resistencia bacteriana a antibioterapia recibida, precisa cultivo de exudado faríngeo con antibiograma para indicación adecuada.",
+      "2. Sospecha de absceso periamigdalino izquierdo, será remitido a urgencias de Otorrinolaringología para drenaje quirúrgico.",
+      "3. Sospecha de neoplasia maligna de amígdala palatina, será remitido preferente-urgente a Otorrinolaringología.",
+      "4. Sospecha de angina de Plaut-Vincent, remitido a Otorrinolaringología para realización de biopsia de ganglio para estudio de linfoma."
+    ],
+    correcta: 3,
+    explicacion: "Ulcera/masa amigdalar unilateral persistente con otalgia refleja ipsilateral y adenopatía laterocervical dura fija en un varón anciano con hábito tóxico: sospecha obligada de carcinoma epidermoide de orofaringe/amígdala palatina."
+  },
+  {
+    id: "MIR24-004",
+    ano: 2024,
+    num: 4,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img04.jpg",
+    enunciado: "4. Pregunta asociada a la imagen 4.\nNiña de 7 años que acude por otalgia y otorrea purulenta derecha desde hace 3 semanas, tratada con antibióticos y antinflamatorios. Tras la resolución de las manifestaciones clínicas, vuelve a aparecer la otorrea por lo que se pauta de nuevo tratamiento antibiótico. A los 5 días se objetiva una tumefacción retroauricular. En la otoscopia se pone de manifiesto una leve retracción de la membrana timpánica, escasa secreción blanquecina en el conducto auditivo externo y una tumefacción retroauricular blanda que ocasiona un mínimo desplazamiento anterior del pabellón auricular. Indique el diagnóstico que sugiere la imagen de resonancia magnética mostrada:",
+    opciones: [
+      "1. Absceso subperióstico extracraneal.",
+      "2. Trombosis venosa cerebral.",
+      "3. Absceso cerebral retromastoideo.",
+      "4. Área de cerebritis retromastoidea."
+    ],
+    correcta: 2,
+    explicacion: "La RM cerebral muestra un defecto de repleción vascular con realce periférico en la luz del seno sigmoide derecho adyacente a la mastoides (flecha blanca), confirmando tromboflebitis séptica/trombosis venosa del seno lateral secundaria a mastoiditis complicada."
+  },
+  {
+    id: "MIR24-005",
+    ano: 2024,
+    num: 5,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img05.jpg",
+    enunciado: "5. Pregunta asociada a la imagen 5.\nUna mujer de 18 años acude a urgencias por dolor abdominal intenso, febrícula, test de embarazo positivo y manchado vaginal de 3 días de evolución junto con líquido libre intraabdominal en la ecografía. Se realiza una laparoscopia en la que se encuentra el siguiente hallazgo tras aspirar sangre de la cavidad abdominal. ¿Cuál es el diagnóstico más probable de los siguientes?:",
+    opciones: [
+      "1. Gestación ectópica.",
+      "2. Quiste de ovario complicado.",
+      "3. Apendicitis aguda.",
+      "4. Enfermedad inflamatoria pélvica."
+    ],
+    correcta: 1,
+    explicacion: "La visión laparoscópica revela una trompa de Falopio engrosada, violácea y rota con hemoperitoneo asociado en una paciente joven con amenorrea, metrorragia y test de gestación positivo, confirmando gestación ectópica tubárica complicada."
+  },
+  {
+    id: "MIR24-006",
+    ano: 2024,
+    num: 6,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img06.jpg",
+    enunciado: "6. Pregunta asociada a la imagen 6.\nHombre de 40 años que presenta cefalea brusca con exploración neurológica normal. Se realiza TC craneal que se muestra en la imagen y una angiografía cerebral en la que no se encuentra patología subyacente. El cuadro clínico más probable es:",
+    opciones: [
+      "1. Hemorragia subaracnoidea traumática occipital.",
+      "2. Hemorragia causada por una malformación arteriovenosa angiográficamente oculta.",
+      "3. Hemorragia subraracnoidea perimesencefálica con un probable origen venoso o capilar.",
+      "4. Hemorragia causada por una discrasia sanguínea."
+    ],
+    correcta: 3,
+    clave: "La hiperdensidad hemorrágica está estrictamente confinada alrededor del tronco cerebral anterior al mesencéfalo sin invasión de la cisura de Silvio ni de la cisterna interhemisférica, cuadro benigno típico de HSA perimesencefálica no aneurismática de etiología venosa.",
+    explicacion: "La hiperdensidad hemorrágica está estrictamente confinada alrededor del tronco cerebral anterior al mesencéfalo sin invasión de la cisura de Silvio ni de la cisterna interhemisférica, cuadro benigno típico de HSA perimesencefálica no aneurismática de etiología venosa."
+  },
+  {
+    id: "MIR24-007",
+    ano: 2024,
+    num: 7,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img07.jpg",
+    enunciado: "7. Pregunta asociada a la imagen 7.\nHombre de 75 años consulta por un cuadro de dificultad para la marcha de 2 años de evolución de forma progresiva. Presenta reflejos vivos en las cuatro extremidades. Se muestra la RM cervical realizada. Con respecto al cuadro clínico del paciente señale la respuesta INCORRECTA:",
+    opciones: [
+      "1. El cuadro de paraparesia puede ser asimétrico.",
+      "2. La progresión de la enfermedad es lenta pero puede acelerarse por movimientos de flexión o extensión cervical forzados.",
+      "3. Se trata de una enfermedad primaria de motoneurona.",
+      "4. La incontinencia urinaria aparece con la progresión de la enfermedad."
+    ],
+    correcta: 3,
+    explicacion: "La RM evidencia una mielopatía cervical espondilótica mecánica (estenosis del canal raquídeo por barras discoosteofitarias con compresión medular y mielomalacia), no una enfermedad degenerativa primaria de motoneurona."
+  },
+  {
+    id: "MIR24-008",
+    ano: 2024,
+    num: 8,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img08.jpg",
+    enunciado: "8. Pregunta asociada a la imagen 8.\nMujer de 14 años derivada a Rehabilitación para el manejo de una deformidad de la columna vertebral. Tuvo la menarquia a los 10 años. En la exploración física se aprecia mínima asimetría de escápulas, el eje occipito-sacro está centrado y en el test de Adams se observa una gibosidad torácica derecha de 10 mm. Se aporta telerradiografía de columna en proyección antero-posterior. ¿Cuál de los siguientes considera el manejo más adecuado a seguir?:",
+    opciones: [
+      "1. Observación, con recomendación específica de ejercicios y revisión posterior.",
+      "2. Corsé de Milwaukee a tiempo completo.",
+      "3. Corsé de Boston a tiempo parcial.",
+      "4. Derivación a cirugía para tratamiento quirúrgico."
+    ],
+    correcta: 1,
+    explicacion: "En una curva escoliótica leve-moderada (14° de Cobb rotulados en la radiografía) en una paciente con madurez esquelética prácticamente completada (menarquía hace 4 años), el corsé no está indicado y la pauta reglada es observación y ejercicios fisioterápicos."
+  },
+  {
+    id: "MIR24-009",
+    ano: 2024,
+    num: 9,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img09.jpg",
+    enunciado: "9. Pregunta asociada a la imagen 9.\nHombre de 60 años de edad que tras dolor brusco y chasquido en hombro presenta la siguiente deformidad en el brazo. ¿Cuál es el diagnóstico más probable?:",
+    opciones: [
+      "1. Rotura de la porción larga del bíceps braquial.",
+      "2. Rotura de la porción corta del bíceps braquial.",
+      "3. Rotura del tendón distal del bíceps braquial.",
+      "4. Rotura del tendón del pectoral mayor."
+    ],
+    correcta: 1,
+    explicacion: "La retracción y abultamiento del vientre muscular en el tercio distal del brazo ('signo de la bola de Popeye') tras chasquido en hombro es patognomónica de rotura proximal de la porción larga del bíceps braquial."
+  },
+  {
+    id: "MIR24-010",
+    ano: 2024,
+    num: 10,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img10.jpg",
+    enunciado: "10. Pregunta asociada a la imagen 10.\nPaciente de 41 años, de talla baja, consulta por dolor en ambas caderas, más intenso en la izquierda. Refiere haber tenido dolor en caderas a edades tempranas aunque nunca consultaron por este motivo. Tras estudio radiográfico de caderas, se decide prótesis total de cadera izquierda, siguiendo buena evolución. Durante el postoperatorio el paciente refiere además dolor en hombros. Ante la sospecha diagnóstica se solicita una telerradiografía (ver imagen). Indique qué proceso es más probable que padezca el paciente desde su infancia:",
+    opciones: [
+      "1. Enfermedad de Perthes.",
+      "2. Osteonecrosis multifocal.",
+      "3. Epifisiolisis bilateral de cadera.",
+      "4. Displasia epifisaria múltiple."
+    ],
+    correcta: 4,
+    explicacion: "Afectación simétrica bilateral poliarticular de epífisis de huesos largos (aplanamiento y artrosis precoz severa de cabezas femorales y humerales) asociada a talla baja moderada: cuadro clásico de displasia epifisaria múltiple."
+  },
+  {
+    id: "MIR24-011",
+    ano: 2024,
+    num: 11,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img11.jpg",
+    enunciado: "11. Pregunta asociada a la imagen 11.\nHombre de 40 años que consulta por tumoración dolorosa en cara interna de rodilla. En el estudio radiográfico se obtiene esta imagen. ¿Cuál es el diagnóstico más probable?:",
+    opciones: [
+      "1. Osteomielitis.",
+      "2. Osificación heterotópica.",
+      "3. Encondroma.",
+      "4. Osteocondroma."
+    ],
+    correcta: 4,
+    explicacion: "Excrecencia ósea pediculada/sésil que emerge de la cortical metafisaria distal del fémur compartiendo continuidad córtico-medular con el hueso subyacente y dirigiéndose en sentido opuesto a la articulación: típico osteocondroma (exostosis)."
+  },
+  {
+    id: "MIR24-012",
+    ano: 2024,
+    num: 12,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img12.jpg",
+    enunciado: "12. Pregunta asociada a la imagen 12.\nHombre de 80 años, fumador. Refiere en los últimos días episodios de mareos no relacionados con el ejercicio ni el estrés, de unos 3-4 minutos de duración. Solicita atención urgente en su domicilio tras presentar un síncope, con pérdida completa de conciencia, de unos 15-20 segundos de duración. La presión arterial es 110/40 mmHg. Se obtiene el ECG de la imagen. ¿Cuál es su diagnóstico?:",
+    opciones: [
+      "1. Infarto agudo de miocardio con elevación del segmento ST, anterior.",
+      "2. Bloqueo aurículo ventricular (AV) de primer grado.",
+      "3. Bloqueo AV de segundo grado, tipo II.",
+      "4. Bloqueo AV de tercer grado."
+    ],
+    correcta: 4,
+    explicacion: "El ECG demuestra disociación auriculoventricular completa: ondas P rítmicas a frecuencia superior que marchan independientes de unos complejos ventriculares de escape regulares y lentos (BAV completo de tercer grado)."
+  },
+  {
+    id: "MIR24-013",
+    ano: 2024,
+    num: 13,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img13.jpg",
+    enunciado: "13. Pregunta asociada a la imagen 13.\nHombre de 75 años que consulta por palpitaciones de aparición súbita hace 1 hora, sin dolor torácico ni cortejo vegetativo asociado. Tiene antecedentes de hipertensión arterial, dislipemia, hipertrofia benigna prostática y accidente isquémico transitorio hace 12 años. PA 180/109 mmHg, FC 126 lpm, Sat O2 98%. Auscultación cardíaca tonos rítmicos, sin soplos audibles. Miembros inferiores sin edemas ni signos de trombosis venosa profunda. Se realiza ECG que se muestra en la imagen. Indique, de los siguientes, el diagnóstico más probable:",
+    opciones: [
+      "1. Fibrilación auricular.",
+      "2. Flutter auricular.",
+      "3. Infarto agudo de miocardio.",
+      "4. Taquicardia ventricular."
+    ],
+    correcta: 2,
+    explicacion: "El trazado evidencia una taquicardia rítmica de QRS estrecho con las ondas auriculares continuas 'en diente de sierra' (ondas F) perfectamente regulares y negativas en derivaciones de cara inferior (II, III, aVF) a unos 250-300 lpm con conducción 2:1."
+  },
+  {
+    id: "MIR24-014",
+    ano: 2024,
+    num: 14,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img14.jpg",
+    enunciado: "14. Pregunta asociada a la imagen 14.\nMujer de 69 años, obesa, con historia de apnea obstructiva del sueño, insuficiencia respiratoria hipercápnica, polimialgia reumática e hipotiroidismo de larga evolución. Acude a consulta en su centro de salud con los resultados de una tomografía computarizada (TC) solicitada por hallazgo de cardiomegalia en la Rx de tórax. Su frecuencia cardíaca es 68 lpm, y la presión arterial es 145/70 mmHg. Con inspiración profunda, sus cifras tensionales son 139/68 mmHg. Con estos datos clínicos y la imagen de la TC que se muestra, señale qué diagnóstico es más probable:",
+    opciones: [
+      "1. Neumotórax.",
+      "2. Taponamiento cardíaco con colapso de cavidades cardíacas.",
+      "3. Disección de aorta.",
+      "4. Derrame pericárdico crónico."
+    ],
+    correcta: 4,
+    explicacion: "El TC expone una gran colección líquida hipodensa pericárdica homogénea circunferencial sin compresión hemodinámica (ausencia de pulso paradójico relevante en la toma de TA inspiratoria y paciente asintomática hemodinámicamente)."
+  },
+  // NOTA: Pregunta 15 anulada en plantilla oficial (excluida)
+  {
+    id: "MIR24-016",
+    ano: 2024,
+    num: 16,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img16.jpg",
+    enunciado: "16. Pregunta asociada a la imagen 16.\nHombre de 68 años, exfumador desde hace 3 meses, con criterios clínicos de bronquitis crónica. Consulta por cuadro de pérdida de peso junto con astenia de un mes y medio de duración. Refiere tos seca ocasional y sensación distérmica sin fiebre termometrada. Tras realizarle la radiografía de tórax se solicita TC torácico que se muestra en la imagen. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    opciones: [
+      "1. Bronquiolitis respiratoria con enfermedad pulmonar intersticial.",
+      "2. Neumonía organizada criptogénica.",
+      "3. Atelectasia obstructiva de lóbulos inferiores por neoplasia central.",
+      "4. Neumonía intersticial inespecífica."
+    ],
+    correcta: 2,
+    explicacion: "El TC de tórax muestra consolidaciones alveolares bilaterales de distribución predominantemente periférica, peribroncovascular y subpleural con broncograma aéreo, patrón clásico de la neumonía organizada (COP)."
+  },
+  {
+    id: "MIR24-017",
+    ano: 2024,
+    num: 17,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img17.jpg",
+    enunciado: "17. Pregunta asociada a la imagen 17.\nPaciente de 63 años consulta por dolor en flanco derecho, ictericia y aumento del perímetro abdominal. Se realiza ecografía doppler y TC de hígado como se muestra en la imagen. ¿Cuál de las siguientes es la mejor opción terapéutica?:",
+    opciones: [
+      "1. Colocación de una derivación intrahepática percutánea (TIPS).",
+      "2. Anticoagulación oral.",
+      "3. Trasplante hepático.",
+      "4. Angioplastia percutánea."
+    ],
+    correcta: 2,
+    explicacion: "La tríada clínica de dolor, hepatomegalia/ictericia y ascitis brusca sumada a la ausencia de flujo en venas suprahepáticas en el Doppler establece el diagnóstico de síndrome de Budd-Chiari, cuyo primer escalón de tratamiento médico es la anticoagulación precoz."
+  },
+  {
+    id: "MIR24-018",
+    ano: 2024,
+    num: 18,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img18.jpg",
+    enunciado: "18. Pregunta asociada a la imagen 18.\nMujer de 90 años que acude a urgencias por hipotensión, vómitos oscuros y dolor abdominal. Se realiza una TC abdominal que se muestra en la imagen. De las siguientes opciones, ¿cuál es la más probable?:",
+    opciones: [
+      "1. Se observa gas en el sistema portal siendo indicativo de mal pronóstico.",
+      "2. Se trata de una aerobilia y por tanto el diagnóstico más probable es el de colangitis.",
+      "3. Se observa aerobilia y pneumatosis gástrica.",
+      "4. Se trata de un hallazgo no relevante en relación con una CPRE o cirugía previa."
+    ],
+    correcta: 1,
+    explicacion: "El TC muestra burbujas de gas ramificadas que alcanzan la periferia subcapsular del parénquima hepático (gas venoso portal) asociado a dilatación y neumatosis de la pared gástrica/intestinal en un cuadro de isquemia transmural aguda catastrófica."
+  },
+  {
+    id: "MIR24-019",
+    ano: 2024,
+    num: 19,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img19.jpg",
+    enunciado: "19. Pregunta asociada a la imagen 19.\nHombre de 60 años sin antecedentes de interés que acude a urgencias con un cuadro de 48 horas de fiebre de 38ºC y dolor abdominal en fosa iliaca izquierda. A la exploración abdominal destaca cierta defensa a la palpación sin peritonismo generalizado. La analítica sanguínea sólo destaca una discreta leucocitosis. La TC abdomino-pélvica se muestra en la imagen adjunta. ¿Cuál es el diagnóstico más probable?:",
+    opciones: [
+      "1. Cáncer de colon izquierdo oclusivo.",
+      "2. Síndrome de Ogilvie.",
+      "3. Diverticulitis aguda.",
+      "4. Megacolon tóxico o infeccioso."
+    ],
+    correcta: 3,
+    explicacion: "Engrosamiento parietal inflamatorio del colon sigmoide con presencia de múltiples divertículos y trabeculación/estriación de la grasa mesentérica pericólica circundante, cuadro tomográfico diagnóstico de diverticulitis aguda no complicada."
+  },
+  {
+    id: "MIR24-020",
+    ano: 2024,
+    num: 20,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img20.jpg",
+    enunciado: "20. Pregunta asociada a la imagen 20.\nHombre de 73 años con antecedentes de hipertensión arterial y diabetes mellitus tipo 2 que acude a urgencias por presentar desde hace una semana hiperglucemia mayor de 500 mg/dL. Refiere que comenzó con dolor en vacío derecho y vómitos autolimitados. Desde entonces, disminución de la ingesta, poliuria y sensación distérmica sin fiebre termometrada. Se realiza ecografía y TC abdominopélvica sin contraste intravenoso que se muestra en la imagen. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    opciones: [
+      "1. Pielonefritis enfisematosa obstructiva.",
+      "2. Necrosis papilar renal.",
+      "3. Pielonefritis xantogranulomatosa.",
+      "4. Absceso retroperitoneal perirrenal por apendicitis aguda evolucionada."
+    ],
+    correcta: 1,
+    explicacion: "En un varón diabético descompensado con infección urinaria alta, el TC sin contraste revela urolitiasis obstructiva en uréter y gas intraparenquimatoso en el sistema excretor renal derecho, diagnóstico de pielonefritis enfisematosa."
+  },
+  {
+    id: "MIR24-021",
+    ano: 2024,
+    num: 21,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img21.jpg",
+    enunciado: "21. Pregunta asociada a la imagen 21.\nMujer de 57 años con enfermedad renal crónica que presenta astenia, hipotensión y cianosis en manos tras una sesión de diálisis. En la analítica se detecta anemia normocítica (Hb 7 g/dL, VCM 96 fL) con discreta reticulocitosis, leucocitos y plaquetas normales; aumento de LDH y hemoglobina libre en plasma elevada. El estudio inmunohematológico muestra un anticuerpo con especificidad anti-P. Se realiza frotis sanguíneo (ver imagen) mediante punción digital. El diagnóstico más probable es:",
+    opciones: [
+      "1. Síndrome hemofagocítico.",
+      "2. Hemoglobinuria paroxística a frigore.",
+      "3. Hemoglobinuria paroxística nocturna.",
+      "4. Crioglobulinemia."
+    ],
+    correcta: 2,
+    explicacion: "Anemia hemolítica intravascular fulminante precipitada por exposición al frío asociada a presencia del anticuerpo bifásico de Donath-Landsteiner (autoanticuerpo IgG policlonal con especificidad dirigida contra el antígeno P eritrocitario)."
+  },
+  {
+    id: "MIR24-022",
+    ano: 2024,
+    num: 22,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img22.jpg",
+    enunciado: "22. Pregunta asociada a la imagen 22.\nMujer de 58 años acude a urgencias por dolor en la punta de los dedos de la mano. No tiene alergias conocidas, ni hábitos tóxicos. Entre los antecedentes explica tres abortos, una apendicetomía, sensación frecuente de reflujo retroesternal y, desde hace unos 5 años aproximadamente, presenta con la exposición al frío episodios de palidez en los dedos de ambas manos que cada vez se han hecho más intensos. A la vista de la imagen, ¿cuál de las siguientes actitudes se plantea realizar en primer lugar?:",
+    opciones: [
+      "1. Solicitar una TC torácica.",
+      "2. Valoración de tratamiento quirúrgico por cirugía vascular.",
+      "3. Determinación de ANA y anti-centrómero.",
+      "4. Tratamiento vasodilatador con prostaglandinas iv."
+    ],
+    correcta: 4,
+    explicacion: "La imagen demuestra necrosis isquémica digital aguda incipiente secundaria a fenómeno de Raynaud severo en probable contexto de esclerosis sistémica (reflujo, abortos); la prioridad médica urgente es revertir el vasoespasmo mediante vasodilatadores parenterales (análogos de prostaciclinas)."
+  },
+  {
+    id: "MIR24-023",
+    ano: 2024,
+    num: 23,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img23.jpg",
+    enunciado: "23. Pregunta asociada a la imagen 23.\nEn relación con un hombre de 74 años, que muestra alteraciones cognitivas y de la movilidad y en el cerebro neuronas con inclusiones citoplásmicas, como se observa en la imagen histológica, el diagnóstico más probable es:",
+    opciones: [
+      "1. Enfermedad de Alzheimer.",
+      "2. Demencia senil.",
+      "3. Enfermedad de Parkinson.",
+      "4. Encefalitis viral."
+    ],
+    correcta: 3,
+    explicacion: "La histología revela una neurona con una inclusión intracitoplasmática redondeada, eosinófila y con halo claro circundante (cuerpo de Lewy, compuesto por alfa-sinucleína), sello anatomopatológico de la enfermedad de Parkinson."
+  },
+  {
+    id: "MIR24-024",
+    ano: 2024,
+    num: 24,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img24.jpg",
+    enunciado: "24. Pregunta asociada a la imagen 24.\nMujer de 35 años con historia de dolor abdominal recurrente que coincide con la menstruación. Los hallazgos de la intervención quirúrgica requieren una resección intestinal. El estudio anatomopatológico se muestra en la imagen. ¿Cuál es el diagnóstico más probable?:",
+    opciones: [
+      "1. Adenocarcimoma intestinal.",
+      "2. Metástasis de adenocarcinoma de endometrio.",
+      "3. Colitis ulcerosa.",
+      "4. Endometriosis."
+    ],
+    correcta: 4,
+    explicacion: "Dolor abdominal cíclico catamenial y biopsia intestinal con glándulas endometriales y estroma citogénico ectópico benigno intercalado en la capa muscularis propia del intestino: endometriosis profunda intestinal."
+  },
+  {
+    id: "MIR24-025",
+    ano: 2024,
+    num: 25,
+    conImagen: true,
+    rutaImagen: "imagenes/2024_img25.jpg",
+    enunciado: "25. Pregunta asociada a la imagen 25.\nHombre de 36 años con prácticas sexuales de riesgo. Presenta un cuadro de 4 días de evolución de lesiones cutáneas no pruriginosas (ver imagen). No ha tomado medicación previamente y no tiene antecedente de alergias farmacológicas. Se realiza serología para VIH que es negativa. La serología de sífilis antitreponema pallidum es positiva y RPR 1:32. Señale la respuesta correcta:",
+    opciones: [
+      "1. Se recomienda el análisis del líquido cefalorraquídeo.",
+      "2. La azitromicina oral es un tratamiento alternativo eficaz.",
+      "3. Se recomienda una valoración clínica y serológica (RPR) a los 6 y 12 meses después del tratamiento.",
+      "4. Si los títulos de RPR permanecen positivos después de 12 meses está indicado administrar el tratamiento de nuevo."
+    ],
+    correcta: 3,
+    explicacion: "Exantema papulodescamativo palmoplantar típico de sífilis secundaria. El seguimiento de la respuesta al tratamiento con penicilina benzatina se monitoriza con títulos de pruebas no treponémicas cuantitativas (RPR) a los 6 y 12 meses (buscando un descenso de al menos cuatro veces o dos diluciones)."
+  },
+  // NOTA: Pregunta 26 anulada en plantilla oficial (excluida)
+  {
+    id: "MIR24-027",
+    ano: 2024,
+    num: 27,
+    conImagen: false,
+    enunciado: "27. La deficiencia de acil-CoA-deshidrogenasa provoca una de las siguientes alteraciones bioquímicas:",
+    opciones: [
+      "1. Disminución de ácidos dicarboxílicos.",
+      "2. Aumento de la gluconeogénesis.",
+      "3. Disminución de la ureagénesis.",
+      "4. Aumento de carnitina libre."
+    ],
+    correcta: 3,
+    explicacion: "El déficit de MCAD bloquea la beta-oxidación de ácidos grasos provocando hipoglucemia hipocetósica; la falta de acetil-CoA reduce el N-acetilglutamato (activador alostérico de la carbamoil fosfato sintetasa 1), disminuyendo la ureagénesis y provocando hiperamonemia secundaria."
+  },
+  // NOTA: Pregunta 28 anulada en plantilla oficial (excluida)
+  {
+    id: "MIR24-029",
+    ano: 2024,
+    num: 29,
+    conImagen: false,
+    enunciado: "29. En relación con el proceso de envejecimiento, respecto a los principales cambios morfológicos de los aparatos y sistemas, indique la respuesta INCORRECTA:",
+    opciones: [
+      "1. En el aparato respiratorio, calcificación de los cartílagos traqueales.",
+      "2. En el sistema nervioso, aumento del tamaño de los surcos interhemisféricos y de los ventrículos cerebrales.",
+      "3. En el aparato cardiovascular, reducción en el número de células marcapaso.",
+      "4. En el sistema nefrourológico, reducción del tejido mesangial."
+    ],
+    correcta: 4,
+    explicacion: "En el riñón envejecido se produce glomeruloesclerosis y fibrosis intersticial con incremento o expansión relativa del tejido mesangial y disminución del número de glomérulos funcionantes, no una reducción del mesangio."
+  },
+  {
+    id: "MIR24-030",
+    ano: 2024,
+    num: 30,
+    conImagen: false,
+    enunciado: "30. La utilización baja de energía por el músculo liso es fundamental para el gasto de energía corporal (órganos como los intestinos, la vejiga urinaria o la vesícula biliar mantienen una contracción muscular tónica casi indefinidamente). A este respecto, señale la afirmación correcta:",
+    opciones: [
+      "1. La disposición física de los filamentos de miosina y actina es similar a la del músculo esquelético.",
+      "2. En esa contracción, es fundamental la lentitud de la unión y separación de los puentes cruzados entre los filamentos de actina y miosina.",
+      "3. La fuerza máxima de contracción es con frecuencia menor que la que se produce en el músculo esquelético.",
+      "4. La contracción prolongada exige que la excitación de las fibras musculares se mantenga mientras lo haga esa contracción."
+    ],
+    correcta: 2,
+    explicacion: "El 'mecanismo de cerrojo' o pestillo (latch mechanism) del músculo liso mantiene la tensión con mínimo gasto de ATP gracias al ciclado muy lento en la fijación y desprendimiento de los puentes de miosina desfosforilada a la actina."
+  },
+  {
+    id: "MIR24-031",
+    ano: 2024,
+    num: 31,
+    conImagen: false,
+    enunciado: "31. En relación con el control químico de la respiración en condiciones fisiológicas señale la afirmación INCORRECTA:",
+    opciones: [
+      "1. Los quimiorreceptores carotídeos y aórticos detectan especialmente cambios en la presión parcial de O2 en la sangre.",
+      "2. Los quimiorreceptores carotídeos y aórticos reciben un flujo arterial muy elevado por lo que se consideran expuestos en todo momento a sangre arterial.",
+      "3. Los quimiorreceptores centrales detectan fundamentalmente cambios en la concentración de H+ (procedente sobre todo de la disociación de CO2 y H2O).",
+      "4. El efecto estimulador de la ventilación del CO2 se mantiene sin atenuación en los primeros días."
+    ],
+    correcta: 4,
+    explicacion: "La respuesta ventilatoria aguda al CO2 se atenúa al cabo de 24-48 horas debido a la compensación renal (reabsorción de bicarbonato, que cruza la barrera hematoencefálica y amortigua los hidrogeniones en el LCR)."
+  },
+  {
+    id: "MIR24-032",
+    ano: 2024,
+    num: 32,
+    conImagen: false,
+    enunciado: "32. En un paciente diagnosticado de una neoplasia maligna de nasofaringe que presenta dolor y edema orbitario, neuropatía de los pares craneales III, IV y VI, y neuropatía de la rama V1 del V par craneal, indique qué estructura es más probable que se encuentre infiltrada:",
+    opciones: [
+      "1. Seno cavernoso.",
+      "2. Hipófisis.",
+      "3. Agujero yugular.",
+      "4. Fosa pterigopalatina."
+    ],
+    correcta: 1,
+    explicacion: "Por la pared lateral y el interior del seno cavernoso discurren los nervios oculomotores (III, IV y VI) y las ramas oftálmica (V1) y maxilar (V2) del trigémino; su invasión produce oftalmoplejía dolorosa completa."
+  },
+  {
+    id: "MIR24-033",
+    ano: 2024,
+    num: 33,
+    conImagen: false,
+    enunciado: "33. Niña de 7 años con una sospecha de anemia de Fanconi. ¿Cuál de las siguientes manifestaciones clínicas NO se ajusta a los rasgos típicos de esta enfermedad?:",
+    opciones: [
+      "1. Anomalías pigmentarias.",
+      "2. Anomalías renales.",
+      "3. Anomalías esqueléticas.",
+      "4. Estatura alta."
+    ],
+    correcta: 4,
+    explicacion: "La anemia de Fanconi cursa característicamente con talla baja/retraso del crecimiento, anomalías en el pulgar/radio, manchas café con leche y malformaciones renales, nunca con talla alta."
+  },
+  {
+    id: "MIR24-034",
+    ano: 2024,
+    num: 34,
+    conImagen: false,
+    enunciado: "34. La exploración ecográfica de una mujer gestante de 26 semanas muestra hallazgos consistentes con osteogénesis imperfecta tipo II (gen COL1A1/COL1A2). La paciente tuvo un embarazo previo con la misma patología. Ni ella ni su pareja tienen manifestaciones clínicas de osteogénesis imperfecta. ¿Cuál de las siguientes es la explicación más probable para la recurrencia?:",
+    opciones: [
+      "1. Herencia autosómica recesiva.",
+      "2. Mutación de novo.",
+      "3. Penetrancia incompleta.",
+      "4. Mosaicismo germinal."
+    ],
+    correcta: 4,
+    explicacion: "La recurrencia de una enfermedad autosómica dominante letal (como la osteogénesis imperfecta tipo II) en hijos sucesivos de padres fenotípicamente sanos se explica típicamente por mosaicismo gonadal o germinal en uno de los progenitores."
+  },
+  {
+    id: "MIR24-035",
+    ano: 2024,
+    num: 35,
+    conImagen: false,
+    enunciado: "35. Las vacunas contra el neumococo recomendadas para prevenir la enfermedad neumocócica en personas mayores de 65 años y en pacientes inmunocomprometidos pueden estar constituidas por polisacáridos del neumococo purificados (PPV23) o polisacáridos conjugados a proteínas (PCV15 o PCV20). Desde una perspectiva inmunológica las vacunas conjugadas:",
+    opciones: [
+      "1. No generan memoria inmunológica.",
+      "2. Activan una respuesta inmunitaria T-dependiente (o timo-dependiente).",
+      "3. No activan el proceso de hipermutación somática.",
+      "4. No inducen cambio de isotipo."
+    ],
+    correcta: 2,
+    explicacion: "Al conjugar el polisacárido bacteriano a una proteína transportadora, los linfocitos T cooperadores (CD4+) reconocen los péptidos antigénicos convirtiendo la respuesta en T-dependiente, lo que genera células de memoria, hipermutación somática y cambio de isotipo."
+  },
+  {
+    id: "MIR24-036",
+    ano: 2024,
+    num: 36,
+    conImagen: false,
+    enunciado: "36. El paso de autoanticuerpos de la madre al feto a través de la placenta puede asociarse a la aparición de enfermedades autoinmunes en el recién nacido. Señale cuál de las parejas Enfermedad - Autoanticuerpo es INCORRECTA:",
+    opciones: [
+      "1. Pénfigo vulgar - Anticuerpos antidesmogleina 3.",
+      "2. Bloqueo cardíaco congénito - Anticuerpos anti Ro y anti-La.",
+      "3. Miastenia gravis - Anticuerpos anti receptor de la acetilcolina.",
+      "4. Lupus eritematoso neonatal - Anticuerpos anti-Sm."
+    ],
+    correcta: 4,
+    explicacion: "El lupus eritematoso neonatal y el bloqueo cardíaco congénito están causados por el paso transplacentario de anticuerpos anti-Ro (SSA) y anti-La (SSB), no por anticuerpos anti-Sm (que son marcadores de LES en el adulto)."
+  },
+  {
+    id: "MIR24-037",
+    ano: 2024,
+    num: 37,
+    conImagen: false,
+    enunciado: "37. Mutaciones en el gen Btk pueden causar una inmunodeficiencia primaria que cursa con la disminución drástica o ausencia de inmunoglobulinas en la sangre periférica (agammaglobulinemia). En relación al estudio de los pacientes con esta agammaglobulinemia, ¿cuál de las siguientes afirmaciones es cierta?",
+    opciones: [
+      "1. Es una enfermedad autosómica recesiva.",
+      "2. El porcentaje de linfocitos que expresan CD19 o CD20 (linfocitos B) en sangre periférica está dentro de los límites normales.",
+      "3. El nivel de IgG en suero disminuye paulatinamente desde el nacimiento hasta resultar indetectable.",
+      "4. La expresión de la proteína Btk en monocitos es normal."
+    ],
+    correcta: 3,
+    explicacion: "En la agammaglobulinemia ligada al X (Bruton), los niveles de IgG descienden a partir de los 6 meses de vida conforme se catabolizan los anticuerpos IgG maternos transferidos pasivamente por la placenta."
+  },
+  {
+    id: "MIR24-038",
+    ano: 2024,
+    num: 38,
+    conImagen: false,
+    enunciado: "38. Hombre de 20 años que, tras ingesta de gambas, presenta de forma prácticamente inmediata prurito palmoplantar, sensación de nudo en la garganta y ronquera, mareo, sensación de inestabilidad y debilidad intensa. Entre sus antecedentes destaca cuadro de edema laríngeo por alergia a las lentejas al año de edad. No refiere alergia conocida a otros alimentos, tampoco reacciones adversas a fármacos ni picadura de insectos. Entre los antecedentes familiares tiene un hermano con rinitis alérgica leve intermitente por alergia a pólenes. ¿Cuál debe ser el tratamiento inicial de forma urgente?:",
+    opciones: [
+      "1. Hidrocortisona 500 mg IV y dexclorfeniramina 5 mg IV.",
+      "2. Adrenalina 0,3-0,5 mL IV.",
+      "3. Adrenalina 0,3-05 mL IM.",
+      "4. Metilprednisolona 40 mg IM y desclorfeniramina 5 mg IV."
+    ],
+    correcta: 3,
+    explicacion: "Ante una anafilaxia con compromiso de vía aérea o inestabilidad hemodinámica, la adrenalina intramuscular en la cara anterolateral del muslo (0,3-0,5 mg en adultos) es el tratamiento farmacológico de primera línea prioritario."
+  },
+  {
+    id: "MIR24-039",
+    ano: 2024,
+    num: 39,
+    conImagen: false,
+    enunciado: "39. Hombre de 40 años sin antecedentes patológicos de interés, residente en una zona de interior de la península ibérica, que presentó cuadro de urticaria aguda por sensibilización a Anisakis simplex tras haber ingerido larvas vivas en unos boquerones en vinagre. El cuadro descrito le ocurrió hace más de 6 meses. Aporta prueba cutánea e IgE específica positiva frente a dicho parásito. En relación a la ingesta de pescados, ¿qué pauta de las que se indican a continuación debe seguir?:",
+    opciones: [
+      "1. Puede comer pescados y mariscos sin ningún tipo de precaución dado que han transcurrido más de 6 meses de la ingesta.",
+      "2. No puede ingerir ningún tipo de pescado.",
+      "3. Puede comer pescado cocinado a 45ºC.",
+      "4. Puede comer pescado previamente congelado a -20ºC durante 72 horas en el domicilio o pescado congelado industrial."
+    ],
+    correcta: 4,
+    explicacion: "Para inactivar y matar las larvas de Anisakis simplex se exige congelación a -20ºC durante al menos 72 horas (o cocinado a >60ºC), lo que permite al paciente sensibilizado consumir pescado con seguridad."
+  },
+  {
+    id: "MIR24-040",
+    ano: 2024,
+    num: 40,
+    conImagen: false,
+    enunciado: "40. La medida adecuada para estimar el riesgo individual de enfermar es:",
+    opciones: [
+      "1. La incidencia acumulada.",
+      "2. La densidad de incidencia.",
+      "3. La prevalencia puntual.",
+      "4. El riesgo relativo."
+    ],
+    correcta: 1,
+    explicacion: "La incidencia acumulada representa la probabilidad matemática o riesgo individual de que un sujeto libre de la enfermedad la desarrolle durante un período determinado de tiempo."
+  },
+  {
+    id: "MIR24-041",
+    ano: 2024,
+    num: 41,
+    conImagen: false,
+    enunciado: "41. Al finalizar el periodo de seguimiento en el estudio PREDIMET (\"Primary Prevention of Cardiovascular Disease with a Mediterranean Diet\"), el 3,8% de los individuos asignados a dieta mediterránea presentaron algún tipo de evento cardiovascular (infartos de miocardio, ictus o muertes de origen cardiovascular), frente al 4,4% de eventos ocurridos en el grupo control. ¿Cuál es el número necesario de pacientes a tratar (NNT) con dieta mediterránea para evitar un evento cardiovascular?:",
+    opciones: [
+      "1. 26.",
+      "2. 60.",
+      "3. 80.",
+      "4. 167."
+    ],
+    correcta: 4,
+    explicacion: "La Reducción Absoluta del Riesgo (RAR) es 4,4% - 3,8% = 0,6% (0,006). Por tanto, NNT = 1 / RAR = 1 / 0,006 = 166,66 (aproximadamente 167 pacientes)."
+  },
+  {
+    id: "MIR24-042",
+    ano: 2024,
+    num: 42,
+    conImagen: false,
+    enunciado: "42. En evaluación económica de intervenciones sanitarias, un estudio que compare los costes alternativos de dos intervenciones frente a sus resultados de salud expresados en años ajustados por calidad o años de vida ajustados por discapacidad se denomina:",
+    opciones: [
+      "1. Análisis coste-efectividad.",
+      "2. Análisis coste-beneficio.",
+      "3. Análisis coste-utilidad.",
+      "4. Análisis de minimización de costes."
+    ],
+    correcta: 3,
+    explicacion: "El análisis coste-utilidad mide los resultados en unidades que integran cantidad y calidad de vida, de forma universal a través de los AVAC (años de vida ajustados por calidad) o AVAD (DALYs)."
+  },
+  {
+    id: "MIR24-043",
+    ano: 2024,
+    num: 43,
+    conImagen: false,
+    enunciado: "43. Señala la opción INCORRECTA respecto a la enfermedad meningocócica:",
+    opciones: [
+      "1. El mecanismo de transmisión es por gotas.",
+      "2. Se dispone de vacunas efectivas únicamente para la prevención de 4 subtipos de meningococo.",
+      "3. La vacuna frente a meningococo tipo B está incluida en el calendario sistemático de inmunizaciones del Sistema Nacional de Salud.",
+      "4. Ante un contacto de riesgo con un paciente con meningitis meningocócica, la vacunación del contacto no debe ser la primera estrategia de profilaxis postexposición."
+    ],
+    correcta: 2,
+    explicacion: "Es falso que solo haya vacunas frente a 4 serogrupos: existen vacunas que protegen frente a 5 serogrupos patógenos principales (A, B, C, W135 e Y), incluyendo la vacuna antimeningocócica tetravalente y la monovalente frente al serogrupo B."
+  },
+  {
+    id: "MIR24-044",
+    ano: 2024,
+    num: 44,
+    conImagen: false,
+    enunciado: "44. Se diagnostica de varicela a un niño de 8 años. Su madre está embarazada de 32 semanas y se le solicita una serología en la que se observan anticuerpos de tipo IgG frente a varicela por debajo de los niveles protectores y niega haber padecido la enfermedad en el pasado. ¿Cuál es la actitud recomendada con la gestante sabiendo que han pasado 3 días desde el inicio de la exposición?",
+    opciones: [
+      "1. Administrar una dosis de la vacuna frente a varicela.",
+      "2. Forzar la terminación del embarazo para poder vacunar.",
+      "3. Es tarde para plantear una estrategia de profilaxis post-exposición.",
+      "4. Administrar gammaglobulinas polivalentes o hiperinmunes."
+    ],
+    correcta: 4,
+    explicacion: "En gestantes susceptibles expuestas a varicela en los últimos 10 días, la vacuna de virus vivos atenuados está contraindicada; la profilaxis postexposición obligada es la inmunoglobulina específica antivaricela zóster."
+  },
+  {
+    id: "MIR24-045",
+    ano: 2024,
+    num: 45,
+    conImagen: false,
+    enunciado: "45. En un metaanálisis, el riesgo relativo estimado para la asociación causal entre el uso de mascarilla y la incidencia de SARS-CoV-2 fue de 0,47. ¿Cuál es la interpretación correcta de este resultado?:",
+    opciones: [
+      "1. La incidencia de SARS-CoV-2 se reduce un 47% cuando la población usa mascarilla.",
+      "2. No usar mascarilla aumenta un 53% el riesgo de infección por SARS-CoV-2.",
+      "3. El uso de mascarilla podría evitar 47 de cada 100 casos de SARS-CoV-2 que se dan en personas que no la usan.",
+      "4. La incidencia de SARS-CoV-2 en la población que no usa mascarilla se reduciría un 53% si la utilizara."
+    ],
+    correcta: 4,
+    explicacion: "La Fracción Atribuible Poblacional o reducción relativa del riesgo (1 - RR) es 1 - 0,47 = 0,53 (53%), lo que representa el porcentaje de incidencia prevenible o evitada con la intervención."
+  },
+  {
+    id: "MIR24-046",
+    ano: 2024,
+    num: 46,
+    conImagen: false,
+    enunciado: "46. Hombre de 79 años de edad con antecedentes de hipertensión arterial, hiperuricemia y artrosis que acude a urgencias por presentar posible reacción adversa farmacológica. No refiere antecedentes alergológicos de interés. Después de una excursión en barco sin protección solar presenta un cuadro cutáneo agudo facial, principalmente en párpados superiores e inferiores, consistentes en eritema y edema intenso bilateral. El paciente estaba realizando tratamiento médico de forma habitual con hidroclorotiazida 25 mg, amlodipino 5 mg, atorvastatina 10 mg y apixaban 5 mg. ¿Cuál de los cuatro fármacos descritos es más probable que sea el responsable de una posible reacción de fotosensibilidad?",
+    opciones: [
+      "1. Hidroclorotiazida.",
+      "2. Amlodipino.",
+      "3. Atorvastatina.",
+      "4. Apixaban."
+    ],
+    correcta: 1,
+    explicacion: "La hidroclorotiazida es una tiazida aromática con grupo sulfonamida ampliamente conocida por producir reacciones de fotosensibilidad cutánea fototóxica y fotoalérgica tras exposición a radiación UV."
+  },
+  {
+    id: "MIR24-047",
+    ano: 2024,
+    num: 47,
+    conImagen: false,
+    enunciado: "47. ¿Con cuál de estos fármacos administrados en monoterapia es necesario realizar un ecocardiograma antes de su inicio?:",
+    opciones: [
+      "1. Trastuzumab.",
+      "2. Tamoxifeno.",
+      "3. Paclitaxel.",
+      "4. Docetaxel."
+    ],
+    correcta: 1,
+    explicacion: "El anticuerpo monoclonal anti-HER2 trastuzumab presenta cardiotoxicidad tipo II (disfunción miocárdica habitualmente reversible no dosis-dependiente), exigiendo evaluación ecocardiográfica basal de la FEVI previa al inicio."
+  },
+  {
+    id: "MIR24-048",
+    ano: 2024,
+    num: 48,
+    conImagen: false,
+    enunciado: "48. La inducción de secuencia rápida en la anestesia general es:",
+    opciones: [
+      "1. Método de inducción anestésica utilizado cuando existe riesgo de regurgitación gástrica y aspiración pulmonar.",
+      "2. Método de inducción anestésica realizado exclusivamente con halogenados.",
+      "3. Procedimiento anestésico que requiere la ventilación del paciente con presión positiva.",
+      "4. Método de inducción anestésica utilizado habitualmente para la realización del procedimiento quirúrgico programado."
+    ],
+    correcta: 1,
+    explicacion: "La secuencia rápida persigue asegurar rápidamente la vía aérea mediante intubación endotraqueal precoz (con hipnótico + relajante de inicio rápido) evitando la ventilación manual con mascarilla para prevenir la broncoaspiración en pacientes con estómago lleno."
+  },
+  {
+    id: "MIR24-049",
+    ano: 2024,
+    num: 49,
+    conImagen: false,
+    enunciado: "49. Señale la actitud correcta ante un paciente en edad infantil que refiere antecedente de traumatismo facial no tratado hace 3 años y que presenta limitación progresiva de la apertura oral y desviación del mentón hacia un lado:",
+    opciones: [
+      "1. Debe descartarse la existencia de una fractura antigua tipo Lefort-1.",
+      "2. Debe realizarse un estudio mediante tomografía computarizada para descartar una displasia fibrosa.",
+      "3. Debe descartarse el diagnóstico de osteocondroma del cóndilo mandibular.",
+      "4. Debe descartarse el diagnóstico de anquilosis témporo-mandibular."
+    ],
+    correcta: 4,
+    explicacion: "La anquilosis témporo-mandibular postraumática en la infancia destruye el centro de crecimiento condilar mandibular, causando trismo/limitación de apertura progresiva y asimetría facial con micrognatia e hipodesarrollo ipsilateral."
+  },
+  {
+    id: "MIR24-050",
+    ano: 2024,
+    num: 50,
+    conImagen: false,
+    enunciado: "50. Respecto al colgajo DIEP (Deep inferior epigastric perforator), señale la respuesta INCORRECTA:",
+    opciones: [
+      "1. Se trata de un colgajo basado en vasos perforantes que puede ser usado como colgajo libre o como colgajo pediculado.",
+      "2. Está irrigado por ramas de la arteria circunfleja femoral lateral.",
+      "3. Puede utilizarse para reconstrucción mamaria.",
+      "4. Los vasos perforantes musculocutáneos atraviesan el músculo recto del abdomen antes de irrigar la piel del colgajo."
+    ],
+    correcta: 2,
+    explicacion: "El colgajo DIEP está vascularizado por vasos perforantes procedentes de la arteria y vena epigástricas inferiores profundas (rama de los vasos ilíacos externos), no por la arteria circunfleja femoral lateral."
   }
 ];
