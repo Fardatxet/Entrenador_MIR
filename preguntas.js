@@ -4296,5 +4296,754 @@ const BANCO_GLOBAL = [
     ],
     correcta: 3,
     explicacion: "El bloqueo completo de rama izquierda (BRIHH) SIEMPRE traduce cardiopatía o alteración patológica del sistema de conducción intrínseco y NUNCA se considera una adaptación fisiológica normal inducida por el entrenamiento deportivo."
+  },{
+    id: "MIR24-101",
+    ano: 2024,
+    num: 101,
+    conImagen: false,
+    enunciado: "101. ¿Cuál de las siguientes complicaciones es más frecuente en el reemplazo valvular aórtico transcatéter (TAVI) respecto del reemplazo valvular quirúrgico?:",
+    opciones: [
+      "1. Atelectasia pulmonar.",
+      "2. Bloqueo aurículo-ventricular completo.",
+      "3. Derrame pericárdico.",
+      "4. Hemorragia grave."
+    ],
+    correcta: 2,
+    explicacion: "La compresión mecánica directa del sistema de conducción en el septo membranoso subaórtico por la prótesis expandible hace que los trastornos de conducción y la necesidad de implante de marcapasos definitivo por BAV completo sean significativamente más frecuentes tras TAVI que tras cirugía abierta."
+  },
+  {
+    id: "MIR24-102",
+    ano: 2024,
+    num: 102,
+    conImagen: false,
+    enunciado: "102. Señale cuál de las siguientes situaciones se considera indicación de cirugía para el tratamiento de endocarditis infecciosa (EI):",
+    opciones: [
+      "1. Aparición de insuficiencia renal aguda.",
+      "2. Hallazgo por imagen de émbolos esplénicos o renales en el momento del diagnóstico.",
+      "3. Presencia de vegetaciones mayores de 8 mm en válvula tricúspide en la El derecha.",
+      "4. Hemocultivos positivos persistentes durante 7-10 días tras pauta antibiótica adecuada."
+    ],
+    correcta: 4,
+    explicacion: "La bacteriemia persistente no controlada tras más de una semana de tratamiento antimicrobiano dirigido adecuado traduce infección no controlada (con frecuencia por absceso perivalvular o germen resistente), indicación quirúrgica formal según las guías ESC."
+  },
+  {
+    id: "MIR24-103",
+    ano: 2024,
+    num: 103,
+    conImagen: false,
+    enunciado: "103. Hombre de 68 años, hipertenso y fumador que acude a urgencias por dolor torácico y disnea desde hace 3 horas. Presenta mal estado general, presión arterial 118/45 mmHg, FC 105 lpm, saturación O2 96%. En la auscultación crepitantes basales finos, tonos cardíacos atenuados, que no permiten identificar soplos. Dímero D 16.000 ng/mL. El ECG muestra taquicardia sinusal y signos de hipertrofia ventricular izquierda. Un ecocardiograma urgente revela un ventrículo izquierdo hipertrófico, no dilatado, con disfunción sistólica global ligera, insuficiencia aórtica moderada, no conocida previamente y derrame pericárdico moderado-grave. Con estos datos, ¿qué patología debe descartar?:",
+    opciones: [
+      "1. Disección de aorta proximal.",
+      "2. Infarto agudo de miocardio complicado con rotura de músculo papilar.",
+      "3. Tromboembolismo pulmonar masivo.",
+      "4. Pericarditis efusivo-constrictiva."
+    ],
+    correcta: 1,
+    explicacion: "La presencia de dolor torácico agudo que asocia insuficiencia aórtica de novo, hemopericardio/derrame pericárdico y dímero D marcadamente elevado es la tríada de complicaciones locorregionales típica de la disección de aorta tipo A de Stanford."
+  },
+  {
+    id: "MIR24-104",
+    ano: 2024,
+    num: 104,
+    conImagen: false,
+    enunciado: "104. Hombre de 71 años portador de un marcapasos bicameral por bloqueo AV completo. Está en ritmo sinusal a 85 lpm con ritmo ventricular estimulado por el marcapasos. La interrogación del marcapasos muestra un porcentaje de estimulación ventricular del 99%. En el ecocardiograma tiene dilatación y disfunción sistólica de ambos ventrículos. La fracción de eyección del ventrículo izquierdo es del 30% y tiene insuficiencia mitral funcional grave. No tiene lesiones obstructivas en la coronariografía. Está en clase funcional III NYHA a pesar de tratamiento médico óptimo para la insuficiencia cardíaca con fracción de eyección reducida. ¿Cuál de las siguientes es la primera opción de tratamiento?:",
+    opciones: [
+      "1. Cirugía de reparación valvular.",
+      "2. Cirugía de sustitución valvular.",
+      "3. Terapia de resincronización cardíaca.",
+      "4. Mitra-Clip."
+    ],
+    correcta: 3,
+    explicacion: "La estimulación apical ventricular derecha continua (>40-90%) produce una asincronía eléctrica y mecánica severa con miocardiopatía inducida por marcapasos; la indicación prioritaria es el 'upgrade' o actualización a terapia de resincronización cardíaca (TRC)."
+  },
+  {
+    id: "MIR24-105",
+    ano: 2024,
+    num: 105,
+    conImagen: false,
+    enunciado: "105. Neonato de 10 días de vida que es traído por sus padres a los servicios de urgencias por presentar, desde hace 24 horas, rechazo de las tomas e hipotonía generalizada. Tras pruebas complementarias, se diagnostica de coartación de aorta preductal crítica. El paciente evoluciona en pocas horas hacia el shock cardiogénico. En este contexto, ¿cuál debe ser el primer tratamiento para mejorar la hemodinámica de este paciente?",
+    opciones: [
+      "1. Iniciar perfusión continua con prostaglandinas E1.",
+      "2. Administrar tratamiento con ibuprofeno.",
+      "3. Plantear cirugía de carácter emergente.",
+      "4. Realizar cateterismo y atrioseptostomía de Rashking urgente."
+    ],
+    correcta: 1,
+    explicacion: "En una cardiopatía congénita ductus-dependiente sistémica crítica (coartación severa o interrupción del arco), el cierre posnatal fisiológico del ductus arteriosus desencadena colapso circulatorio; la infusión urgente de PGE1 (alprostadil) reabre el ductus y restablece la perfusión sistémica."
+  },
+  {
+    id: "MIR24-106",
+    ano: 2024,
+    num: 106,
+    conImagen: false,
+    enunciado: "106. Mujer de 46 años que tras 10 años de mastectomía derecha con vaciamiento ganglionar seguida de quimioterapia y radioterapia presenta linfedema de brazo derecho de larga evolución con importante edema y empastamiento, sin signos de celulitis. ¿Cuál de las siguientes medidas terapéuticas NO está recomendada?",
+    opciones: [
+      "1. Realización de actividad física con elevación del miembro superior derecho.",
+      "2. Terapia física con fisioterapia descongestiva.",
+      "3. Diuréticos para reducir edema.",
+      "4. Liposucción."
+    ],
+    correcta: 3,
+    explicacion: "Los diuréticos no están indicados en el linfedema crónico porque movilizan agua intravascular pero no drenan las macromoléculas proteicas del intersticio, concentrando la linfa y favoreciendo la fibrosis tisular."
+  },
+  {
+    id: "MIR24-107",
+    ano: 2024,
+    num: 107,
+    conImagen: false,
+    enunciado: "107. En un paciente que tras una embolectomía por isquemia arterial aguda secundaria a un émbolo en la bifurcación aorto-ilíaca, presenta hipotensión, hipercalciuria, mioglobinuria e insuficiencia renal, ¿cuál de entre los siguientes es el diagnóstico más probable?",
+    opciones: [
+      "1. Trombosis arterial recurrente.",
+      "2. Síndrome de reperfusión.",
+      "3. Necrosis muscular.",
+      "4. Neuropatía isquémica."
+    ],
+    correcta: 2,
+    explicacion: "La revascularización brusca de una extremidad intensamente isquémica vuelca al torrente circulatorio productos del catabolismo celular anaerobio y rabdomiólisis (potasio, mioglobina, radicales libres y ácido láctico), cuadro clásico del síndrome de reperfusión."
+  },
+  {
+    id: "MIR24-108",
+    ano: 2024,
+    num: 108,
+    conImagen: false,
+    enunciado: "108. Hombre de 55 años con HTA y dislipemia que consulta por disnea de esfuerzo. Presenta en la ecocardiografía válvula aórtica bicúspide con área valvular aórtica de 0,9 cm², gradiente transvalvular de 45 mmHg, velocidad pico de 5,5 m/seg, raíz aórtica de 6 cm y fracción de eyección de ventrículo izquierdo de 45%. En la analítica, péptido natriurético tipo B el triple de lo normal. ¿Qué opción terapéutica le recomendaría?:",
+    opciones: [
+      "1. Seguimiento por médico de atención primaria mientras esté asintomático.",
+      "2. Implante de una prótesis valvular aórtica biológica transcatéter (TAVI).",
+      "3. Valvuloplastia aórtica.",
+      "4. Cirugía de sustitución valvular aórtica y raíz."
+    ],
+    correcta: 4,
+    explicacion: "Estenosis aórtica grave sintomática asociada a dilatación aneurismática severa de la raíz de aorta (≥50-55 mm) en un paciente joven (55 años) con válvula bicúspide: indicación formal de cirugía abierta combinada de sustitución valvular y sustitución de la raíz aórtica (procedimiento de Bentall)."
+  },
+  {
+    id: "MIR24-109",
+    ano: 2024,
+    num: 109,
+    conImagen: false,
+    enunciado: "109. En la respuesta inmune innata, las células más numerosas a nivel pulmonar, que conforman la primera línea defensiva, son:",
+    opciones: [
+      "1. Neutrófilos.",
+      "2. Macrófagos.",
+      "3. Eosinófilos.",
+      "4. Mastocitos."
+    ],
+    correcta: 2,
+    explicacion: "Los macrófagos alveolares constituyen más del 90-95% de la población celular inmune residente libre en los espacios aéreos alveolares en condiciones fisiológicas, actuando como centinelas de primera línea por fagocitosis."
+  },
+  {
+    id: "MIR24-110",
+    ano: 2024,
+    num: 110,
+    conImagen: false,
+    enunciado: "110. Hombre de 60 años que acude a consulta por presentar tos y expectoración habitual mucosa, amarillenta, con más de 4-5 episodios de reagudizaciones al año, algunas veces con hemoptisis. ¿Cuál de los siguientes es el diagnóstico más probable?",
+    opciones: [
+      "1. Asma.",
+      "2. Fibrosis pulmonar idiopática.",
+      "3. Bronquiectasias.",
+      "4. Insuficiencia cardíaca."
+    ],
+    correcta: 3,
+    explicacion: "La tos con broncorrea crónica purulenta de repetición, múltiples agudizaciones respiratorias bacterianas al año y episodios de hemoptisis recurrente es la presentación clínica cardinal de las bronquiectasias."
+  },
+  {
+    id: "MIR24-111",
+    ano: 2024,
+    num: 111,
+    conImagen: false,
+    enunciado: "111. ¿Qué hallazgos de los descritos a continuación son MENOS probables en la exploración física de un paciente con fibrosis a nivel del intersticio pulmonar?:",
+    opciones: [
+      "1. Sibilancias bilaterales en la auscultación pulmonar.",
+      "2. Crepitantes teleinspiratorios bibasales.",
+      "3. Disminución del murmullo vesicular con acropaquia.",
+      "4. Vibraciones vocales disminuidas con crepitantes tipo velcro, de carácter \"seco\"."
+    ],
+    correcta: 1,
+    explicacion: "Las sibilancias son ruidos adventicios continuos típicos del compromiso de la vía aérea por obstrucción/broncoconstricción (asma, EPOC), mientras que las enfermedades intersticiales pulmonares cursan clásicamente con crepitantes secos teleinspiratorios 'en velcro'."
+  },
+  {
+    id: "MIR24-112",
+    ano: 2024,
+    num: 112,
+    conImagen: false,
+    enunciado: "112. Paciente que en revisión en consulta refiere tos matutina diaria y disnea de moderados esfuerzos (MRC 2) habitual que limita sus actividades cotidianas en tratamiento con doble terapia broncodilatadora desde hace dos años. La espirometría presenta un FEV1 del 35% del teórico en situación basal con una respuesta broncodilatadora que muestra un incremento del FEV1 de 250 mL y un 13%. En el estudio por TC se identifican áreas de enfisema centroacinar y en la analítica 250 eosinófilos/µL. En el último año ha sufrido dos exacerbaciones respiratorias de las cuales una ha requerido ingreso hospitalario. Indique el tratamiento más adecuado:",
+    opciones: [
+      "1. Broncodilatador β-agonista de acción prolongada + broncodilatador antagonista muscarínico de acción prolongada + corticoide sistémico.",
+      "2. Añadir roflumilast a la terapia combinada.",
+      "3. Broncodilatador β-agonista de acción prolongada + broncodilatador antagonista muscarínico de acción prolongada + corticoide inhalado.",
+      "4. Broncodilatador β-agonista de acción prolongada + corticoide inhalado."
+    ],
+    correcta: 3,
+    explicacion: "EPOC de alto riesgo con fenotipo agudizador grave (ingreso previo) y eosinofilia periférica >100-200 cel/µL mal controlado con LAMA+LABA: la recomendación GOLD/GesEPOC es escalar a triple terapia inhalada (LAMA + LABA + CI)."
+  },
+  {
+    id: "MIR24-113",
+    ano: 2024,
+    num: 113,
+    conImagen: false,
+    enunciado: "113. Paciente con asma mal controlada a pesar de una combinación de glucocorticoides inhalados a dosis altas y un broncodilatador β-agonista de acción prolongada. Ha requerido ciclos de corticoides sistémicos sin una respuesta adecuada. Presenta rinosinusitis crónica con poliposis nasal y un recuento de eosinófilos de 400 celulas/µL en la analítica. Señale la respuesta correcta en cuanto al fenotipo asmático y la mejor opción de tratamiento.",
+    opciones: [
+      "1. Se trata de un asma eosinofílica (T2) y una buena opción de tratamiento sería añadir omalizumab.",
+      "2. Se trata de un asma eosinofílica (T2) y una buena opción de tratamiento sería añadir mepolizumab.",
+      "3. Se trata de un asma no T2 y la mejor opción de tratamiento sería un antileucotrieno.",
+      "4. Se trata de un asma no T2 y la mejor opción de tratamiento sería añadir benralizumab."
+    ],
+    correcta: 2,
+    explicacion: "Asma grave no controlada con perfil T2-eosinofílico (eosinófilos ≥300-400 cel/µL y rinosinusitis con pólipos nasales); el fármaco biológico anti-IL5 mepolizumab (o anti-IL5R benralizumab) está formalmente indicado para este fenotipo."
+  },
+  {
+    id: "MIR24-114",
+    ano: 2024,
+    num: 114,
+    conImagen: false,
+    enunciado: "114. En el estudio de las enfermedades intersticiales difusas del pulmón, señale en que entidad el lavado broncoalveolar posee valor diagnóstico:",
+    opciones: [
+      "1. Sarcoidosis.",
+      "2. Fibrosis pulmonar idiopática.",
+      "3. Neumonitis por hipersensibilidad.",
+      "4. Proteinosis alveolar."
+    ],
+    correcta: 4,
+    explicacion: "La aspiración de un líquido macroscópicamente lechoso, espeso y opaco con material acelular granular positivo para la tinción de PAS y restos lipoproteicos en el BAL es confirmatoria y diagnóstica per se de proteinosis alveolar pulmonar."
+  },
+  {
+    id: "MIR24-115",
+    ano: 2024,
+    num: 115,
+    conImagen: false,
+    enunciado: "115. Hombre de 65 años, exfumador, en el que de forma incidental se identifica un nódulo pulmonar solitario (NPS) en radiografía simple de tórax. Diagnosticado de enfermedad pulmonar obstructiva crónica con un FEV1 del 30%. En el estudio por TC se describe un NPS en lóbulo superior derecho de 9 mm de diámetro con cola pleural y calcificaciones excéntricas. Se realiza tomografía por emisión de positrones con captación patológica indicativa de malignidad. ¿Cuál de las siguientes actitudes terapéuticas es la más adecuada?:",
+    opciones: [
+      "1. Es imprescindible la realización de una biopsia por cirugía torácica ante la elevada posibilidad de malignidad.",
+      "2. Al tratarse de un NPS de pequeño tamaño (< 1 cm) la actitud más adecuada es la de seguimiento radiológico estrecho con TC al mes y a los 3, 6 y 12 meses.",
+      "3. Ante la alta probabilidad de malignidad se recomienda realizar una prueba de esfuerzo cardiopulmonar y si el consumo máximo de oxígeno es <10 mL/kg/min remitir a cirugía torácica para resección.",
+      "4. Se debe realizar una prueba de esfuerzo cardiopulmonar y si el consumo máximo de oxígeno es <10 mL/kg/min el manejo terapéutico más seguro es por medio de radioterapia estereotáxica fraccionada."
+    ],
+    correcta: 4,
+    explicacion: "Ante una alta sospecha de cáncer pulmonar resecable en un paciente con EPOC severa limítrofe, un VO2 máx <10 mL/kg/min contraindica la resección quirúrgica por riesgo prohibitivo de mortalidad perioperatoria; la radioterapia estereotáctica ablativa (SBRT) es el tratamiento curativo alternativo de elección."
+  },
+  {
+    id: "MIR24-116",
+    ano: 2024,
+    num: 116,
+    conImagen: false,
+    enunciado: "116. En una mujer de 72 años con litiasis biliar asintomática se indicaría colecistectomía laparoscópica en caso de:",
+    opciones: [
+      "1. Microlitiasis por alto riesgo de pancreatitis aguda.",
+      "2. Litiasis biliar de más de 2.5 cm de diámetro.",
+      "3. Vesícula con paredes calcificadas en porcelana.",
+      "4. Presencia de cálculos de bilirrubina."
+    ],
+    correcta: 3,
+    explicacion: "La calcificación extensa intramural de la vesícula biliar ('vesícula en porcelana') asocia un riesgo aumentado de adenocarcinoma de vesícula biliar (hasta un 10-25%), constituyendo una indicación clásica de colecistectomía profiláctica aunque sea asintomática."
+  },
+  {
+    id: "MIR24-117",
+    ano: 2024,
+    num: 117,
+    conImagen: false,
+    enunciado: "117. ¿En cuál de las siguientes técnicas quirúrgicas para la reparación de una hernia inguinal NO se emplea una malla protésica?",
+    opciones: [
+      "1. Shouldice.",
+      "2. Lichtenstein.",
+      "3. Reparación laparoscópica TEP (totalmente extraperitoneal).",
+      "4. Reparación laparoscópica TAPP (transabdominal preperitoneal)."
+    ],
+    correcta: 1,
+    explicacion: "La técnica de Shouldice es la herniorrafia anatómica clásica sin tensión de referencia que repara la pared posterior de la fascia transversalis mediante imbricación con suturas continuas irreabsorbibles en cuatro planos, sin prótesis de malla."
+  },
+  {
+    id: "MIR24-118",
+    ano: 2024,
+    num: 118,
+    conImagen: false,
+    enunciado: "118. Mujer de 42 años que consulta por dolor rectal descrito como una sensación de peso u ocupación continua que se agrava con la deposición. En la exploración física el ano es normal y en el tacto rectal se palpa el músculo puborrectal hipertónico y doloroso a la tracción. ¿Cuál de los siguientes es el diagnóstico más probable?",
+    opciones: [
+      "1. Úlcera solitaria de recto.",
+      "2. Proctalgia fugax.",
+      "3. Proctalgia inespecífica.",
+      "4. Síndrome del elevador del ano."
+    ],
+    correcta: 4,
+    explicacion: "Dolor anorrectal crónico sordo y continuo (habitualmente >30 minutos) que empeora al sentarse o defecar y reproduce hipersensibilidad/espasmo doloroso a la tracción posterior del puborrectal al tacto rectal: síndrome del músculo elevador del ano (a diferencia de la proctalgia fugaz, que es paroxística y fugaz)."
+  },
+  {
+    id: "MIR24-119",
+    ano: 2024,
+    num: 119,
+    conImagen: false,
+    enunciado: "119. Un hombre con diagnóstico de melanoma avanzado y en tratamiento con nivolumab (fármaco anti-PD-1) desarrolla elevación de las transaminasas siete veces los valores normales, junto con elevación de la bilirrubina total (2,3 mg/dL). Se han descartado cuadros infecciosos y no ha mejorado tras suspender el fármaco. ¿Cuál de las siguientes afirmaciones es cierta?",
+    opciones: [
+      "1. Es una hepatitis inmunomediada por nivolumab y es indistinguible de una hepatitis autoinmune.",
+      "2. La reintroducción del fármaco una vez resuelta conlleva la reaparición del cuadro en la mayoría de los casos.",
+      "3. Los corticoides a dosis de 1 mg/kg de prednisona o equivalente son el tratamiento de elección en esta situación.",
+      "4. La aparición de esta entidad es tardía, generalmente meses después de iniciado el tratamiento."
+    ],
+    correcta: 3,
+    explicacion: "La hepatotoxicidad inmunomediada por inhibidores de puntos de control inmunitario (anti-PD-1) grado 3 (transaminasas >5x LSN o bilirrubina >3x) exige suspender el fármaco e iniciar inmediatamente corticoterapia sistémica (prednisona o metilprednisolona a 1-2 mg/kg/día)."
+  },
+  {
+    id: "MIR24-120",
+    ano: 2024,
+    num: 120,
+    conImagen: false,
+    enunciado: "120. Un paciente con enfermedad de Crohn con antecedente de extirpación de un melanoma precisa iniciar un tratamiento avanzado por corticodependencia. ¿Cuál de los siguientes fármacos se debería evitar al estar descrito un aumento del riesgo de dicha neoplasia?",
+    opciones: [
+      "1. Azatioprina.",
+      "2. Infliximab.",
+      "3. Vedolizumab.",
+      "4. Ustekinumab."
+    ],
+    correcta: 2,
+    explicacion: "Los fármacos anti-TNF (como infliximab) se asocian a un aumento estadísticamente significativo del riesgo relativo de desarrollo y recurrencia de melanoma cutáneo; en estos antecedentes se prefieren biológicos con dianas no anti-TNF (vedolizumab o ustekinumab)."
+  },
+  {
+    id: "MIR24-121",
+    ano: 2024,
+    num: 121,
+    conImagen: false,
+    enunciado: "121. Respecto al divertículo faringoesofágico o divertículo de Zenker, es cierto que:",
+    opciones: [
+      "1. Es un divertículo por tracción y consta de todas las capas de la pared esofágica.",
+      "2. Es menos frecuente que los divertículos del tercio medio del esófago en la actualidad.",
+      "3. No se trata con miotomía del cricofaríngeo si el tamaño es igual o menor a 2 cm.",
+      "4. Cuando se interviene mediante abordaje abierto para practicar una diverticulectomía o una divertículopexia, la incisión se realiza en el lado izquierdo del cuello."
+    ],
+    correcta: 4,
+    explicacion: "El esófago cervical proximal se desvía ligeramente hacia la izquierda en su trayecto descendente; por ello, la cervicotomía anterior lateral izquierda a lo largo del borde anterior del esternocleidomastoideo es la vía de abordaje quirúrgico reglada."
+  },
+  {
+    id: "MIR24-122",
+    ano: 2024,
+    num: 122,
+    conImagen: false,
+    enunciado: "122. Mujer de 67 años con antecedentes de infección por VHC que acude a urgencias por hematemesis. A la exploración observamos ascitis y ligera ictericia. ¿Cuál es la actitud diagnóstica y terapéutica más adecuada?",
+    opciones: [
+      "1. Estabilizar hemodinámicamente, hacer una endoscopia y colocar un TIPS si tiene hemorragia por varices.",
+      "2. Realizar una paracentesis, seguido de una endoscopia y ligadura de varices.",
+      "3. Estabilizar al paciente, iniciar un fármaco vasoactivo, realizar una endoscopia y practicar una ligadura si hay hemorragia por varices.",
+      "4. Esperar al resultado de la endoscopia para actuar en consecuencia."
+    ],
+    correcta: 3,
+    explicacion: "Manejo estandarizado de la HDA en cirrosis: estabilización hemodinámica (restauración conservadora con hemoderivados), infusión de vasoactivo precoz (somatostatina/terlipresina) y profilaxis con ceftriaxona ANTES de la endoscopia digestiva precoz (<12 h) con ligadura con bandas elásticas."
+  },
+  {
+    id: "MIR24-123",
+    ano: 2024,
+    num: 123,
+    conImagen: false,
+    enunciado: "123. Mujer de 38 años que presenta nódulo tiroideo indoloro y creciente en el lóbulo derecho de 6 meses de evolución. Ha experimentado recientemente disfagia y cambios de la voz. Se diagnostica de carcinoma medular de tiroides en estadio III con extensión extratiroidea y compromiso de ganglios linfáticos cervicales. De entre los siguientes, ¿cuál es el tratamiento más adecuado?:",
+    opciones: [
+      "1. Tiroidectomía subtotal.",
+      "2. Hemitiroidectomía derecha.",
+      "3. Tiroidectomía total con extirpación de ganglios linfáticos cervicales.",
+      "4. Quimioterapia exclusiva."
+    ],
+    correcta: 3,
+    explicacion: "El carcinoma medular de tiroides no capta radioyodo (I-131) ni responde a supresión hormonal; el único tratamiento curativo es la cirugía radical consistente en tiroidectomía total sistemática asociada a linfadenectomía del compartimento central y lateral cervical afecto."
+  },
+  {
+    id: "MIR24-124",
+    ano: 2024,
+    num: 124,
+    conImagen: false,
+    enunciado: "124. Mujer de 58 años que consulta por presentar desde hace varios meses dolor abdominal epigástrico intermitente, náuseas y pérdida de peso involuntaria de 8 kg. Refiere episodios ocasionales de vómitos biliosos, sin haber notado sangre en los vómitos ni en las heces. Ha estado tomando antiácidos sin mucho alivio. En la exploración física se aprecia abdomen blando, con dolor a la palpación profunda en el epigastrio, sin masas palpables ni signos de peritonitis. Los análisis muestran anemia microcítica e hipocrómica y ferropenia. En la gastroscopia lesión ulcerada en la segunda porción del duodeno, que se biopsia. El informe histológico confirma la presencia de adenocarcinoma duodenal. Una TC abdominal muestra la lesión limitada al duodeno, sin evidencia de diseminación a ganglios linfáticos o metástasis a distancia. ¿Cuál es el siguiente paso más adecuado en el manejo de esta paciente?",
+    opciones: [
+      "1. Observación y seguimiento periódico con endoscopia digestiva alta debido a la localización del tumor.",
+      "2. Quimioterapia neoadyuvante seguida de una nueva evaluación para posible resección quirúrgica.",
+      "3. Duodenopancreatectomía cefálica (procedimiento de Whipple) como tratamiento de elección.",
+      "4. Radioterapia dirigida al duodeno para controlar la enfermedad local antes de considerar la cirugía."
+    ],
+    correcta: 3,
+    explicacion: "Los adenocarcinomas de la segunda porción duodenal comparten eje vascular y drenaje pancreatobiliar con la cabeza del páncreas, por lo que la resección oncológica completa estándar de elección con intención curativa es la duodenopancreatectomía cefálica (técnica de Whipple)."
+  },
+  {
+    id: "MIR24-125",
+    ano: 2024,
+    num: 125,
+    conImagen: false,
+    enunciado: "125. Mujer de 60 años que tras un esfuerzo refiere la aparición de una tumoración en la zona inguino-crural derecha no reductible y muy dolorosa. Acude a urgencias con un cuadro de vómitos con dolor y distensión abdominal. ¿Cuál es el diagnóstico más probable?",
+    opciones: [
+      "1. Hernia inguinal directa.",
+      "2. Hernia inguinal indirecta.",
+      "3. Hernia obturatriz.",
+      "4. Hernia crural."
+    ],
+    correcta: 4,
+    explicacion: "Tumoración incarcerada situada por debajo del ligamento inguinal (orificio femoral), más frecuente en mujeres multíparas y con la mayor tasa de estrangulación e íleo mecánico de todas las hernias de la ingle: hernia crural o femoral."
+  },
+  {
+    id: "MIR24-126",
+    ano: 2024,
+    num: 126,
+    conImagen: false,
+    enunciado: "126. Hombre de 77 años que acude a urgencias por prurito, ictericia y síndrome tóxico de un mes de evolución. Refiere ingesta de amoxicilina-clavulánico desde hace 10 días por un resfriado. A su llegada se realiza una ecografía que se informa de dilatación de la vía biliar intra y extrahepática con vesícula biliar distendida. ¿Cuál es la sospecha diagnóstica y la actitud a seguir?:",
+    opciones: [
+      "1. Colecistitis aguda e indicación de colecistectomía urgente.",
+      "2. Coledocolitiasis distal y solicitud de colangiorresonancia magnética.",
+      "3. Toxicidad por fármacos y suspensión de la medicación.",
+      "4. Tumoración maligna obstructiva de colédoco distal y solicitar TC abdominal."
+    ],
+    correcta: 4,
+    explicacion: "Ictericia indolora progresiva con vesícula palpable y distendida ('signo de Courvoisier-Terrier') asociada a dilatación completa de vía biliar intra y extrahepática: sospecha mandatoria de neoplasia periampular o de cabeza de páncreas/colédoco distal; requiere TC multifásico urgente."
+  },
+  {
+    id: "MIR24-127",
+    ano: 2024,
+    num: 127,
+    conImagen: false,
+    enunciado: "127. La forma más eficaz de evaluación preoperatoria de la función del cuerpo esofágico y del esfínter esofágico inferior en un paciente con sospecha de reflujo gastroesofágico es:",
+    opciones: [
+      "1. La monitorización ambulatoria del pH y la impedancia.",
+      "2. Manometría esofágica.",
+      "3. Esofagoduodenoscopia.",
+      "4. Esofagograma con bario."
+    ],
+    correcta: 2,
+    explicacion: "La manometría esofágica de alta resolución es el 'gold standard' preoperatorio para evaluar la motilidad del cuerpo (descartar hipomotilidad o acalasia inadvertida) y cuantificar el tono y relajación del EEI antes de planificar una funduplicatura antirreflujo."
+  },
+  {
+    id: "MIR24-128",
+    ano: 2024,
+    num: 128,
+    conImagen: false,
+    enunciado: "128. Mujer de 34 años con diagnóstico de púrpura trombocitopénica idiopática (PTI) refractaria al tratamiento médico remitida para evaluación quirúrgica. A pesar del tratamiento con corticosteroides y otros inmunosupresores, sus recuentos plaquetarios han permanecido bajos, con episodios recurrentes de sangrado leve. Se decide realizar una esplenectomía laparoscópica como siguiente paso terapéutico. En relación con la planificación y manejo de la esplenectomía laparoscópica, ¿cuál de las siguientes estrategias es la más adecuada?:",
+    opciones: [
+      "1. La ligadura temprana de la arteria esplénica es crucial para reducir el riesgo de sangrado intraoperatorio y debe realizarse antes de movilizar el bazo en todos los casos.",
+      "2. La preservación del polo inferior del bazo es recomendable en pacientes con PTI para mantener una función inmunológica parcial.",
+      "3. El abordaje lateral izquierdo es la única opción en esplenectomías laparoscópicas y debe emplearse independientemente del tamaño del bazo.",
+      "4. La vacunación preoperatoria contra neumococo, meningococo y Haemophilus influenzae es esencial para reducir el riesgo de infección post-esplenectomía y debe completarse al menos dos semanas antes de la cirugía, siempre que sea posible."
+    ],
+    correcta: 4,
+    explicacion: "Para prevenir la sepsis fulminante post-esplenectomía (OPSI) por bacterias encapsuladas, las guías exigen completar la inmunización sistemática frente a Streptococcus pneumoniae, Neisseria meningitidis y Haemophilus influenzae b al menos 14 días antes de la intervención programada."
+  },
+  {
+    id: "MIR24-129",
+    ano: 2024,
+    num: 129,
+    conImagen: false,
+    enunciado: "129. ¿Cuál de las siguientes medidas aconsejadas para reducir la infección de la herida quirúrgica es INCORRECTA?:",
+    opciones: [
+      "1. En caso de ser necesario eliminar el vello, está indicado rasurarlo con cortadora eléctrica o con cuchilla.",
+      "2. Es recomendable mantener la temperatura corporal del paciente >35.5ºC.",
+      "3. Es recomendable mantener la glucemia en cifras <180 mg/dL.",
+      "4. El intervalo de inicio de la infusión del antibiótico hasta la realización de la incisión debe ser menor de 60 minutos."
+    ],
+    correcta: 1,
+    explicacion: "El rasurado con cuchilla está formalmente proscrito en las guías de la OMS y CDC porque produce microlesiones cutáneas que facilitan la colonización e infección del lecho quirúrgico; si es imprescindible retirar el vello, debe hacerse con cortadora eléctrica de cabezal desechable (clipper)."
+  },
+  {
+    id: "MIR24-130",
+    ano: 2024,
+    num: 130,
+    conImagen: false,
+    enunciado: "130. En un paciente diagnosticado de fracaso renal agudo, el tratamiento con hemodiálisis está indicado en todas las siguientes situaciones clínicas, EXCEPTO en una:",
+    opciones: [
+      "1. Acidosis metabólica que no responde a tratamiento con bicarbonato.",
+      "2. Sobrecarga de volumen con edema agudo de pulmón.",
+      "3. Hiperpotasemia refractaria a tratamiento médico.",
+      "4. Proteinuria de 1 gramo en la orina de 24 horas."
+    ],
+    correcta: 4,
+    explicacion: "Las indicaciones urgentes de diálisis en fracaso renal agudo son la mnemotecnia AEIOU: Acidosis refractaria, Electrolitos (hiperpotasemia grave refractaria), Intoxicaciones por dializables, Overload (edema agudo de pulmón por sobrecarga) y Uremia sintomática (pericarditis/encefalopatía); una proteinuria de 1 g no es criterio de diálisis."
+  },
+  {
+    id: "MIR24-131",
+    ano: 2024,
+    num: 131,
+    conImagen: false,
+    enunciado: "131. Mujer de 54 años diagnosticada de diabetes mellitus tipo 2 hace tres años en tratamiento con metformina y lisinopril con buen control metabólico. Es enviada a consulta de Nefrología por creatinina sérica de 1,7 mg/dL, filtrado glomerular estimado de 49 mL/min/1,73m² y cociente albumina/creatinina en orina de 250 mg/g. En los siguientes meses se confirma estabilidad de la función renal, las cifras de presión arterial se mantienen alrededor de 125/70 mmHg, en la ecografía se observan riñones de tamaño y morfología normal y en el estudio de fondo de ojo se objetiva una retinopatía diabética grado 2. ¿Cuál de las siguientes es la actitud a seguir?:",
+    opciones: [
+      "1. No hacer modificaciones en el tratamiento dada la estabilidad y buen control de su enfermedad.",
+      "2. Añadir un antagonista del receptor de la angiotensina II para lograr un mejor control de la presión arterial y disminuir la albuminuria.",
+      "3. Indicar la realización de una biopsia renal para confirmar la existencia de una enfermedad renal diabética.",
+      "4. Iniciar tratamiento con un inhibidor del cotransportador de sodio-glucosa tipo 2 que promueve la excreción urinaria de glucosa y tiene un efecto nefroprotector."
+    ],
+    correcta: 4,
+    explicacion: "En pacientes con enfermedad renal diabética y albuminuria persistente ya tratados con dosis plenas de IECA, la adición de un iSGLT2 (dapagliflozina/empagliflozina) ha demostrado frenar la progresión del deterioro renal y reducir eventos cardiovasculares."
+  },
+  {
+    id: "MIR24-132",
+    ano: 2024,
+    num: 132,
+    conImagen: false,
+    enunciado: "132. El síndrome de secreción inadecuada de hormona antidiurética (SIADH), se caracteriza por:",
+    opciones: [
+      "1. Hiponatremia con osmolalidad sérica baja y osmolalidad urinaria elevada.",
+      "2. Hiponatremia hipovolémica con concentración urinaria de sodio y osmolalidad en orina elevadas.",
+      "3. Su tratamiento se basa en la restricción hídrica y la administración de fármacos agonistas del receptor de vasopresina.",
+      "4. En la mayoría de los casos se asocia con la administración de fármacos, especialmente antibióticos e inmunosupresores."
+    ],
+    correcta: 1,
+    explicacion: "El SIADH cursa típicamente con hiponatremia hipotónica euvolémica (osmolalidad plasmática <275 mOsm/kg) con incapacidad para diluir la orina por exceso de ADH, manifestada por osmolalidad urinaria inapropiadamente concentrada (>100 mOsm/kg) y natriuria >30-40 mEq/L."
+  },
+  {
+    id: "MIR24-133",
+    ano: 2024,
+    num: 133,
+    conImagen: false,
+    enunciado: "133. Hombre de 37 años que se deriva a consulta de Nefrología para estudio de hematuria microscópica persistente. La exploración es normal salvo por presión arterial 160/100 mmHg. Hemograma sin alteraciones, urea 25 mg/dL, creatinina 0.8 mg/dL, Na 139 mEq/L, K 4,5 mEq/L perfil hepático y lipídico normales, no hipoalbuminemia ni hipoproteinemia; estudio de autoinmunidad normal, complemento, inmunoglubulinas y proteinograma normales; serología vírica negativa; proteinuria de 0,75 g/24h sedimento urinario con 30 eritrocitos por campo, 90% dismórficos, no leucocituria. Se realiza biopsia renal que muestra depósitos mesangiales de IgA, IgG y C3 con hipercelularidad mesangial (M1) y glomeruloesclerosis segmentaria (S1) pero sin proliferación endocapilar (E0) ni fibrosis túbulo-intersticial (TO) ni presencia de semilunas. ¿En este momento, cuál de entre los siguientes es el tratamiento más recomendado?:",
+    opciones: [
+      "1. Monoterapia con corticoides a 0.5 mg/kg/dia con pauta descendente en 3 meses.",
+      "2. Control de la presión arterial y la proteinuria (añadir un antagonista de los receptores de angiotensina II).",
+      "3. Rituximab como primera opción y, si no hay respuesta, administrar ciclofosfamida.",
+      "4. Corticoides a altas dosis junto con ciclofosfamida como tratamiento de inducción."
+    ],
+    correcta: 2,
+    explicacion: "En la nefropatía por IgA con proteinuria <1 g/24h y función renal conservada, las guías KDIGO establecen como primer paso la nefroprotección estricta con bloqueo del eje renina-angiotensina (IECA o ARA-II) y control tensional antes de considerar inmunosupresión."
+  },
+  {
+    id: "MIR24-134",
+    ano: 2024,
+    num: 134,
+    conImagen: false,
+    enunciado: "134. Hombre de 65 años que presenta un episodio de infección respiratoria y es tratado con amoxicilina/clavulánico. Una semana después comienza con fiebre y aparición de rash cutáneo por lo que acude a Urgencias. En la analítica se objetiva deterioro de función renal con creatinina sérica 3,2 mg/dL (previa 1,2 mg/dL), eosinofilia y presencia de proteinuria y microhematuria en el sistemático de orina. Indique cuál de estas actitudes es la más correcta:",
+    opciones: [
+      "1. Es necesario realizar una biopsia cutánea para establecer el diagnóstico.",
+      "2. Hay que aumentar la dosis de antibiótico pues probablemente se trate de una nefropatía tubulointersticial aguda de etiología infecciosa.",
+      "3. Se debe suspender el antibiótico y plantear tratamiento con esteroides si la función renal no mejora en 2-3 días.",
+      "4. Hay que iniciar tratamiento con bolus de esteroides a dosis altas y realizar una biopsia renal."
+    ],
+    correcta: 3,
+    explicacion: "Sospecha de nefritis intersticial inmunoalérgica aguda por betalactámicos (fiebre, exantema, eosinofilia y fracaso renal agudo); la medida principal es retirar el fármaco causante y, si no revierte en 48-72 h, pautar prednisona oral para acelerar la recuperación."
+  },
+  {
+    id: "MIR24-135",
+    ano: 2024,
+    num: 135,
+    conImagen: false,
+    enunciado: "135. Hombre de 72 años, remitido a consulta tras un hallazgo en una TC solicitada para el estudio de molestias digestivas inespecíficas. Se objetiva una lesión sólida, exofítica, heterogénea, con realce intenso tras la administración de contraste, de 4,9 cm de diámetro, dependiente del polo inferior renal derecho; en el riñón izquierdo litiasis piélica de 3 cm que condiciona hidronefrosis y atrofia cortical. Antecedentes personales de hipertensión, sobrepeso (mide 1,6 m y pesa 95 kg) y fumador habitual. En la analítica destaca creatinina sérica de 1,5 mg/dL. Señale de entre las siguientes opciones de tratamiento la que considera más adecuada:",
+    opciones: [
+      "1. Nefrectomía bilateral, con suprarrenalectomía derecha y linfadenectomía retroperitoneal.",
+      "2. Nefrectomía parcial derecha.",
+      "3. Biopsia percutánea. Quimioterapia neoadyuvante y nefrectomía radical derecha.",
+      "4. Nefrectomía radical derecha. Inmunoterapia adyuvante."
+    ],
+    correcta: 2,
+    explicacion: "Al presentar un riñón contralateral comprometido funcionalmente por litiasis obstructiva y atrofia, la preservación de nefronas en el riñón afecto de masa tumoral resecable (indicación imperativa de nefrectomía parcial) es prioritaria para evitar la dependencia de diálisis."
+  },
+  {
+    id: "MIR24-136",
+    ano: 2024,
+    num: 136,
+    conImagen: false,
+    enunciado: "136. Hombre de 53 años acude a urgencias por anuria de 48 horas de evolución. Presenta dolor abdominal difuso de varios días de evolución que no se modifica con la posición ni con la ingesta. No ha presentado fiebre pero sí náuseas con dos vómitos escasos biliosos sin productos patológicos, además de estreñimiento. En la analítica sanguínea presenta ligera leucocitosis con desviación izquierda, creatinina 7 mg/dL con FG<15mL/min, sodio 132 mmol/L y potasio 5,7 mmol/L, bilirrubina 1 mg/dL, amilasa 100 U/L, AST 30 U/L, ALT 45 U/L, fosfatasa alcalina 60 U/L, y GGT 70 U/L. En el sedimento de orina únicamente se evidencian 5-10 hematíes/campo y leve piuria. En la ecografía abdominal dilatación pielocalicial y ureteral moderada-severa bilateral con leve disminución del parénquima en el riñón izquierdo y múltiples imágenes hiperecoicas con sombra acústica posterior en todos los grupos caliciales así como en el uréter proximal izquierdo. ¿Cuál es la actitud más correcta a seguir?:",
+    opciones: [
+      "1. Analgesia iv y sueroterapia intensiva para forzar diuresis.",
+      "2. Diuréticos intravenosos.",
+      "3. Derivación de la vía urinaria de forma bilateral.",
+      "4. Solicitar TC ante la sospecha de abdomen agudo."
+    ],
+    correcta: 3,
+    explicacion: "Fracaso renal agudo anúrico con hiperpotasemia por uropatía obstructiva bilateral litiásica grave: la descompresión urgente de la vía excretora mediante nefrostomía percutánea o catéteres doble J bilaterales es prioritaria sobre cualquier otra medida médica."
+  },
+  {
+    id: "MIR24-137",
+    ano: 2024,
+    num: 137,
+    conImagen: false,
+    enunciado: "137. Hombre de 28 años que consulta por haberse despertado por dolor en la región genital y tumefacción en el pene. No recuerda con detalle lo sucedido en las últimas 12 horas. En las últimas 48 h ha consumido alto volumen de alcohol, varias drogas (mefedrona, cocaína, anfetamina), junto con sildenafilo y se ha autoinyectado en el pene 20 µg de alprostadil. A la exploración destaca, pene flácido, glande no visible en su totalidad por edema y hematoma expansivo de partes blandas. Presenta restos hemáticos en el meato uretral. ¿Cuál de las siguientes opciones NO formaría parte de su plan terapéutico?:",
+    opciones: [
+      "1. Gasometría obtenida mediante punción del cuerpo cavernoso.",
+      "2. Revisión quirúrgica urgente.",
+      "3. Evitar el sondaje vesical.",
+      "4. Ecografía de pene."
+    ],
+    correcta: 1,
+    explicacion: "El paciente presenta un pene flácido con hematoma expansivo y uretrorragia en meato, lo que descarta priapismo isquémico y define una rotura de cuerpos cavernosos con posible lesión uretral traumática asociada; por tanto, la punción cavernosa para gasometría no está indicada y retrasaría la cirugía."
+  },
+  {
+    id: "MIR24-138",
+    ano: 2024,
+    num: 138,
+    conImagen: false,
+    enunciado: "138. Hombre de 51 años que consulta preocupado por la aparición de leve goteo postmiccional. Tiene dislipemia, hipertensión arterial y alopecia androgénica incipiente. Sigue tratamiento con simvastatina, enalapril, minoxidil y dutasteride. Padre y hermano fallecidos por cáncer de próstata. En los reconocimientos de salud laboral realizados en 2.021 y 2.023 se observa PSA de 0,3 y de 3,8 ng/mL respectivamente (valores de referencia <4 ng/mL). Una RMN prostática multiparamétrica muestra una próstata de 55 mL y en secuencia T2 un nódulo hipointenso moderado y homogéneo de 1,7 cm, con restricción de la difusión y realce precoz en perfusión en el límite entre el estroma fibromuscular anterior y la zona transicional del lóbulo izquierdo prostático. Repetimos una nueva determinación de PSA 3.5 ng/mL. A la vista de estos hallazgos, ¿qué recomendación propondría al paciente como la más adecuada?:",
+    opciones: [
+      "1. Biopsia prostática transrectal sistemática.",
+      "2. Iniciar un tratamiento antibiótico empírico durante 10 días y realizar una biopsia prostática sistemática al finalizar.",
+      "3. Tranquilizar al paciente, ofrecer tratamiento sintomático alfa-bloqueante y seguimiento.",
+      "4. Biopsia prostática transperineal sistemática y dirigida mediante fusión de imágenes RMN."
+    ],
+    correcta: 4,
+    explicacion: "El dutasteride reduce el PSA a la mitad (su PSA real corregido ronda los 7 ng/mL) y la resonancia detecta una lesión PI-RADS 4 en zona anterior/transicional; la biopsia con punción transperineal guiada por fusión RM-ecografía es el estándar para acceder con precisión a tumores anteriores."
+  },
+  {
+    id: "MIR24-139",
+    ano: 2024,
+    num: 139,
+    conImagen: false,
+    enunciado: "139. ¿Cuál de estas afirmaciones es cierta sobre los subtipos moleculares de cáncer de mama?:",
+    opciones: [
+      "1. El cáncer de mama triple negativo es el subtipo más frecuente.",
+      "2. El cáncer de mama HER2+ es el subtipo menos agresivo.",
+      "3. El cáncer de mama luminal A es el subtipo más raro.",
+      "4. El cáncer de mama triple negativo es el subtipo más agresivo."
+    ],
+    correcta: 4,
+    explicacion: "El cáncer de mama triple negativo (RE-, RP-, HER2-) carece de dianas moleculares endocrinas o anti-HER2, asocia un alto grado histológico, pico precoz de recidivas viscerales y cerebrales, y es el subtipo biológico más agresivo y de peor pronóstico."
+  },
+  {
+    id: "MIR24-140",
+    ano: 2024,
+    num: 140,
+    conImagen: false,
+    enunciado: "140. Mujer de 60 años con diagnóstico reciente de cáncer de mama metastásico con alta carga tumoral. Acude a Urgencias 48 horas después de haber recibido el primer ciclo de tratamiento, con cuadro de náuseas, vómitos, diarrea, dolor abdominal, astenia intensa y letargia. En la analítica sanguínea presenta alteración de la función renal. ¿Cuál de las siguientes alteraciones analíticas esperaría encontrar también?:",
+    opciones: [
+      "1. Hipouricemia.",
+      "2. Hiperpotasemia.",
+      "3. Hipofosfatemia.",
+      "4. Hipercalcemia."
+    ],
+    correcta: 2,
+    explicacion: "El síndrome de lisis tumoral agudo tras quimioterapia libera masivamente el contenido intracelular provocando la tétrada clásica: hiperpotasemia, hiperuricemia, hiperfosfatemia e HIPOCALCEMIA secundaria (por precipitación de fosfato cálcico)."
+  },
+  {
+    id: "MIR24-141",
+    ano: 2024,
+    num: 141,
+    conImagen: false,
+    enunciado: "141. ¿A cuál de las siguientes proteínas presentes en la superficie celular se une el fármaco pembrolizumab?:",
+    opciones: [
+      "1. PD-1.",
+      "2. PD-L1.",
+      "3. CTLA-4.",
+      "4. HER2."
+    ],
+    correcta: 1,
+    explicacion: "Pembrolizumab (y nivolumab) es un anticuerpo monoclonal que bloquea selectivamente el receptor de muerte programada 1 (PD-1) expresado en la superficie de los linfocitos T (mientras que atezolizumab o durvalumab bloquean el ligando PD-L1 tumoral)."
+  },
+  {
+    id: "MIR24-142",
+    ano: 2024,
+    num: 142,
+    conImagen: false,
+    enunciado: "142. ¿Cuál de estos pacientes en tratamiento con quimioterapia cumple criterios de neutropenia febril?:",
+    opciones: [
+      "1. Mujer de 38 años intervenida de cáncer de mama en curso de quimioterapia adyuvante que acude a urgencias por temperatura de 38,5ºC, odinofagia, rinorrea y buen estado general. Neutrófilos 400/mm³.",
+      "2. Mujer de 68 años intervenida de cáncer de colon estadio IV en curso de quimioterapia de primera línea que acude a urgencias por temperatura de 37,8ºC, diarrea y mucositis grado 2. Hemodinamicamente estable. Neutrófilos 300/mm³.",
+      "3. Hombre de 50 años intervenido de adenocarcinoma gástrico en curso de quimioterapia adyuvante que acude a urgencias por escalofríos y temperatura de 37,5ºC sin otra sintomatología acompañante. Neutrófilos 600/mm³.",
+      "4. Hombre de 65 años afecto de adenocarcinoma gástrico metastásico en curso de quimioterapia de segunda línea con ECOG 1 que acude a urgencias por temperatura de 38,6ºC y diarrea grado 1. Neutrófilos 700/mm³."
+    ],
+    correcta: 1,
+    explicacion: "La neutropenia febril se define por una toma aislada de temperatura oral/axilar ≥38,3-38,5ºC (o ≥38,0ºC mantenida más de 1 hora) junto a un recuento absoluto de neutrófilos <500/mm³ (o <1.000 con previsión de caída rápida a <500)."
+  },
+  {
+    id: "MIR24-143",
+    ano: 2024,
+    num: 143,
+    conImagen: false,
+    enunciado: "143. En un paciente con cáncer colorrectal metastásico irresecable RAS nativo y con pérdida de expresión de proteínas reparadoras del ADN (MSI-H). ¿Cuál debe ser el tratamiento de elección de primera línea?:",
+    opciones: [
+      "1. Quimioterapia + Anti-EGFR.",
+      "2. Inmunoterapia.",
+      "3. Quimioterapia.",
+      "4. Quimioterapia + Anti-VEGFR."
+    ],
+    correcta: 2,
+    explicacion: "En los tumores colorrectales metastásicos con inestabilidad de microsatélites alta o déficit de reparación de apareamientos (MSI-H/dMMR), los inhibidores de PD-1 (inmunoterapia con pembrolizumab en monoterapia) han demostrado superioridad frente a la quimioterapia clásica en primera línea."
+  },
+  {
+    id: "MIR24-144",
+    ano: 2024,
+    num: 144,
+    conImagen: false,
+    enunciado: "144. Hombre de 48 años, exfumador hasta el 2.020, con antecedente de nefrectomía parcial izquierda en el 2.020 por carcinoma de células renales, tipo célula clara, grado 2/4, pT1b, que acude por autopalparse una adenopatía laterocervical alta hace 4 meses. En la ecografía de cuello se identifican 2 lesiones nodulares submaxilares y en el TC de cuello se informa de una lesión nodular de partes blandas derecha que corresponde probablemente a una adenopatía sospechosa. Se indica biopsia de la lesión donde se observa una proliferación neoplásica constituida por células con marcada atipia citológica que se disponen con un patrón de crecimiento difuso. El estudio inmunohistoquímico es positivo para CD20, y negativo para CD3, CD30, CD15 y CKAE1-AE3. En estos casos se completa el estudio con CD10, Bcl6 y MUMI para indicar el fenotipo de la neoplasia. ¿Cuál es el diagnóstico anatomo-patológico?:",
+    opciones: [
+      "1. Linfoma Hodgkin variante clásica.",
+      "2. Linfoma B difuso de célula grande.",
+      "3. Linfoma T periférico.",
+      "4. Metástasis de carcinoma."
+    ],
+    correcta: 2,
+    explicacion: "Proliferación difusa de células linfoides de gran tamaño atípicas con positividad pan-B (CD20+) y ausencia de marcadores T (CD3-), Hodgkin (CD30/CD15-) o epiteliales (citoqueratinas-): linfoma B difuso de células grandes (LBDCG)."
+  },
+  {
+    id: "MIR24-145",
+    ano: 2024,
+    num: 145,
+    conImagen: false,
+    enunciado: "145. Hombre de 17 años con hemofilia A grave e inhibidor de alto título frente al FVIII que presenta sangrado agudo a nivel articular. ¿Cuál de los siguientes tratamientos es el más indicado para controlar la hemorragia?",
+    opciones: [
+      "1. Desmopresina.",
+      "2. Emicizumab.",
+      "3. Ácido tranexámico.",
+      "4. Factor VII activado recombinante."
+    ],
+    correcta: 4,
+    explicacion: "En pacientes hemofílicos con inhibidores neutralizantes de alto título contra el FVIII (>5 UB), el tratamiento del sangrado agudo exige agentes puente o 'by-passing' que activen la coagulación saltándose el factor VIII, siendo de elección el factor VII activado recombinante (rFVIIa) o el concentrado de complejo protrombínico activado (FEIBA)."
+  },
+  {
+    id: "MIR24-146",
+    ano: 2024,
+    num: 146,
+    conImagen: false,
+    enunciado: "146. Hombre de 76 años que es intervenido por recambio protésico de cadera derecha tras traumatismo. Entre los antecedentes personales destaca hipertensión arterial en tratamiento farmacológico y recambio protésico de rodilla izquierda hace 3 meses por artrosis evolucionada. Al cuarto día del postoperatorio se detecta trombopenia de 52.000/mm³ con cifras de hemoglobina y leucocitos normales. El estudio de coagulación y la bioquímica es normal. ¿Cuál es el diagnóstico más probable?:",
+    opciones: [
+      "1. Púrpura trombótica trombocitopénica.",
+      "2. Coagulación intravascular diseminada.",
+      "3. Trombopenia inducida por heparina.",
+      "4. Síndrome hemolítico urémico."
+    ],
+    correcta: 3,
+    explicacion: "Caída del recuento plaquetario >50% alrededor del 4º-5º día postoperatorio en un paciente con exposición previa a heparinas de bajo peso molecular por cirugía protésica reciente: cuadro clásico de trombocitopenia inducida por heparina tipo II mediada por anticuerpos anti-PF4."
+  },
+  {
+    id: "MIR24-147",
+    ano: 2024,
+    num: 147,
+    conImagen: false,
+    enunciado: "147. Los siguientes tipos de linfoma pueden ser originados por virus. ¿Cuál de ellos es producido por el virus herpes humano tipo 8 (KSHV/HHV8)?",
+    opciones: [
+      "1. Leucemia-linfoma T del adulto.",
+      "2. Linfoma primario de cavidades.",
+      "3. Linfoma de Burkitt.",
+      "4. Granulomatosis linfomatoide."
+    ],
+    correcta: 2,
+    explicacion: "El linfoma primario de cavidades (Primary Effusion Lymphoma), neoplasia de células B que crece como derrames serosos cavitarios sin masa tumoral sólida en inmunodeprimidos, está etiológicamente ligado de forma obligada a la infección por el virus herpes humano 8 (HHV-8)."
+  },
+  {
+    id: "MIR24-148",
+    ano: 2024,
+    num: 148,
+    conImagen: false,
+    enunciado: "148. Mujer de 50 años diagnosticada de síndrome mielodisplásico con monosomía del cromosoma 7 (45 XX -7 [20]) es sometida a un trasplante hematopoyético alogénico con sangre de cordón umbilical de un hombre compatible procedente de un banco de otro país. A los tres meses del trasplante con recuperación completa de las cifras hematológicas periféricas se realiza una punción de médula ósea, que no presenta alteraciones morfológicas y un estudio cromosómico con un cariotipo 47 XXY [20]. ¿Cuál es la explicación de estos hallazgos?:",
+    opciones: [
+      "1. El donante tiene un síndrome de Klinefelter no diagnosticado.",
+      "2. En la médula ósea coexisten células del donante y del receptor (quimerismo mixto).",
+      "3. Tras el trasplante ha existido un fenómeno de fusión celular entre las células del donante y receptor que ha originado el nuevo cariotipo.",
+      "4. En el cariotipo realizado precozmente tras un trasplante hematopoyético es habitual encontrar alteraciones cromosómicas transitorias de este tipo que carecen de significación clínica."
+    ],
+    correcta: 1,
+    explicacion: "El injerto medular del donante ha prendido al 100% (todas las metafases analizadas tienen cromosoma Y del varón donante [20]); al presentar una dotación XXY constitucional uniforme en todas las células del donante, traduce un síndrome de Klinefelter inadvertido en la unidad de cordón."
+  },
+  {
+    id: "MIR24-149",
+    ano: 2024,
+    num: 149,
+    conImagen: false,
+    enunciado: "149. Mujer de 90 años sin alergias medicamentosas conocidas, con HTA y gonalgia nocturna por gonartrosis derecha de intensidad leve-moderada de tres meses de evolución. Refiere que no toma ninguna medicación y se confirma que realiza las medidas higiénicas del sueño correctamente. Consulta a su médico de atención primaria por insomnio de conciliación y mantenimiento que le interfiere con sus actividades diarias. ¿Qué fármaco es más adecuado iniciar en este caso?:",
+    opciones: [
+      "1. Paracetamol.",
+      "2. Diazepam.",
+      "3. Mirtazapina.",
+      "4. Trazodona."
+    ],
+    correcta: 1,
+    explicacion: "El insomnio en este caso es secundario al dolor osteoarticular nocturno; en el anciano frágil se debe tratar la causa de base antes de añadir psicofármacos o hipnóticos, siendo el paracetamol a dosis analgésicas pautadas la primera medida farmacológica más segura."
+  },
+  {
+    id: "MIR24-150",
+    ano: 2024,
+    num: 150,
+    conImagen: false,
+    enunciado: "150. En los pacientes mayores con síndrome de inmovilidad una de las siguientes manifestaciones clínicas o consecuencias NO es atribuible al mismo:",
+    opciones: [
+      "1. Déficit intelectual.",
+      "2. Aumento de la frecuencia cardíaca.",
+      "3. Reducción de la sensibilidad a la insulina.",
+      "4. Balance nitrogenado positivo."
+    ],
+    correcta: 4,
+    explicacion: "El encamamiento y la inmovilidad prolongada inducen catabolismo proteico y atrofia muscular acelerada, lo que se traduce invariablemente en un balance nitrogenado NEGATIVO (pérdida de masa magra y aumento de excreción de nitrógeno urinario)."
   }
 ];
