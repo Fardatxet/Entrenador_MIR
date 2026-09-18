@@ -5045,5 +5045,820 @@ const BANCO_GLOBAL = [
     ],
     correcta: 4,
     explicacion: "El encamamiento y la inmovilidad prolongada inducen catabolismo proteico y atrofia muscular acelerada, lo que se traduce invariablemente en un balance nitrogenado NEGATIVO (pérdida de masa magra y aumento de excreción de nitrógeno urinario)."
+  },{
+    id: "MIR24-151",
+    ano: 2024,
+    num: 151,
+    conImagen: false,
+    enunciado: "151. Hombre de 85 años diagnosticado de enfermedad de Alzheimer en tratamiento con donepezilo. Desde hace una semana y coincidiendo con una infección urinaria por germen sensible a amoxicilina/clavulánico, presenta un trastorno grave de conducta; por todo ello, recibe tratamiento con dicho antibiótico y con risperidona 1 mg cada 12 horas. Hoy la familia lo trae a su consulta porque a pesar de mejorar la infección de orina, está muy enlentecido, necesitando ayuda para comer y vestirse, no es capaz de deambular sin ayuda, duerme de día y presenta insomnio de madrugada. Ante esta situación clínica señale la respuesta CORRECTA:",
+    opciones: [
+      "1. Probablemente se trata de un efecto secundario de la risperidona, por lo que se debe retirar.",
+      "2. Se debe tratar el insomnio de madrugada añadiendo benzodiacepinas.",
+      "3. Hay que esperar a que se resuelva totalmente la infección urinaria para cambiar la medicación actual.",
+      "4. Ha empeorado la demencia y se debe añadir memantina al tratamiento de base con donepezilo."
+    ],
+    correcta: 1,
+    explicacion: "El enlentecimiento psicomotor grave, sedación diurna y pérdida abrupta de autonomía tras iniciar risperidona en un anciano con demencia refleja una impregnación extrapiramidal y sobre-sedación secundaria al antipsicótico, exigiendo su retirada inmediata."
+  },
+  {
+    id: "MIR24-152",
+    ano: 2024,
+    num: 152,
+    conImagen: false,
+    enunciado: "152. Los criterios STOPP/START tienen el objetivo de optimizar la medicación y minimizar las reacciones adversas a los medicamentos durante la revisión de la medicación en adultos mayores. En cuanto a los criterios START (versión 3, última versión), ¿cuál deberíamos valorar indicar?:",
+    opciones: [
+      "1. Estrógenos tópicos vaginales en la vaginitis atrófica sintomática.",
+      "2. Vacuna antitetánica ante una herida abierta.",
+      "3. Parche de lidocaína tópica para el dolor articular generalizado.",
+      "4. Corticoesteroides inhalados en el EPOC estadio GOLD 1-2."
+    ],
+    correcta: 1,
+    explicacion: "En los criterios START (prescripciones omitidas indicadas), los estrógenos vaginales tópicos constituyen una recomendación formal en mujeres posmenopáusicas con vaginitis atrófica sintomática o infecciones urinarias bajas de repetición."
+  },
+  {
+    id: "MIR24-153",
+    ano: 2024,
+    num: 153,
+    conImagen: false,
+    enunciado: "153. En la actualidad se definen varios estadios o etapas de la diabetes tipo 1 autoinmune. Señale cuál es la definición CORRECTA:",
+    opciones: [
+      "1. El estadio o etapa 3 se caracteriza por la autoinmunidad y tolerancia alterada de la glucosa (ya sea basal o tras test de sobrecarga con glucosa oral).",
+      "2. El estadio o etapa 1 se caracteriza por presencia única de autoinmunidad contra las células de los islotes sin aparición de alteraciones de la glucosa.",
+      "3. El estadio o etapa 2 se caracteriza por hiperglucemia con cifras que definen diabetes.",
+      "4. La luna de miel aparece en el estadio 2, con la hiperglucemia."
+    ],
+    correcta: 2,
+    explicacion: "El estadio 1 se define por presencia de autoinmunidad pancreática múltiple (≥2 autoanticuerpos positivos) con normoglucemia asintomática; el estadio 2 añade disglucemia asintomática y el estadio 3 corresponde al debut clínico de la enfermedad."
+  },
+  {
+    id: "MIR24-154",
+    ano: 2024,
+    num: 154,
+    conImagen: false,
+    enunciado: "154. Mujer que acude a consulta de endocrino por secreción láctea por el pezón y una cifra de prolactina en sangre de 45 µg/L (normal <20 µg/L). ¿Cuál es la actitud diagnóstica más apropiada?:",
+    opciones: [
+      "1. La primera medida a realizar es una resonancia cerebral porque lo más probable es que sea un macroadenoma secretor de prolactina.",
+      "2. Se debe interrogar sobre la toma de fármacos antagonistas del receptor de dopamina o un posible embarazo.",
+      "3. Las pruebas de laboratorio para su correcta caracterización consisten en la medición aislada de prolactina.",
+      "4. Se debe descartar un hipertiroidismo primario."
+    ],
+    correcta: 2,
+    explicacion: "Una hiperprolactinemia leve (<50-100 µg/L) obliga siempre a descartar causas fisiológicas (embarazo con test de orina/beta-hCG) o farmacológicas (antagonistas dopaminérgicos como neurolépticos, antieméticos o antidepresivos) antes de solicitar neuroimagen."
+  },
+  {
+    id: "MIR24-155",
+    ano: 2024,
+    num: 155,
+    conImagen: false,
+    enunciado: "155. La estrategia de cribado de diabetes gestacional en un solo paso consiste en:",
+    opciones: [
+      "1. Test de sobrecarga oral de glucosa con 50 gr de glucosa.",
+      "2. Test de sobrecarga oral de glucosa con 75 gr de glucosa.",
+      "3. Test de sobrecarga oral de glucosa con 90 gr de glucosa.",
+      "4. Test de sobrecarga oral de glucosa con 100 gr de glucosa."
+    ],
+    correcta: 2,
+    explicacion: "La estrategia 'one-step' recomendada por la IADPSG y OMS realiza directamente una sobrecarga oral con 75 g de glucosa en ayunas (midiendo basal, 1h y 2h), a diferencia del método en dos pasos (O'Sullivan de 50 g seguido de SOG de 100 g)."
+  },
+  {
+    id: "MIR24-156",
+    ano: 2024,
+    num: 156,
+    conImagen: false,
+    enunciado: "156. Está de guardia en urgencias y valora a un hombre de 45 años que consulta por vómitos de 2-3 días de evolución con disconfort abdominal y astenia intensa desde hace 1 mes. La presión arterial en triaje es 85/40 mmHg. Cuando lo explora objetiva hiperpigmentación parcheada en la cavidad oral y en la analítica destaca sodio de 134 mEq/L ¿Cuál es su primera opción diagnóstica de las expuestas a continuación?:",
+    opciones: [
+      "1. Hemocromatosis.",
+      "2. Síndrome de Peutz Jeghers.",
+      "3. Enfermedad de Addison.",
+      "4. Síndrome Stevens-Johnson."
+    ],
+    correcta: 3,
+    explicacion: "La asociación de hipotensión arterial ortostática, astenia, náuseas/vómitos e hiperpigmentación cutaneomucosa (por elevación de POMC/ACTH) con tendencia a hiponatremia es diagnóstica de insuficiencia suprarrenal primaria (Addison)."
+  },
+  {
+    id: "MIR24-157",
+    ano: 2024,
+    num: 157,
+    conImagen: false,
+    enunciado: "157. ¿Qué fármaco de los mencionados a continuación ha de tenerse en cuenta cuando se evalúa a un paciente con hiperparatiroidismo?:",
+    opciones: [
+      "1. Hidroclorotiazida.",
+      "2. Losartán.",
+      "3. Amlodipino.",
+      "4. Doxazosina."
+    ],
+    correcta: 1,
+    explicacion: "Las tiazidas (hidroclorotiazida) aumentan la reabsorción tubular renal de calcio y disminuyen la calciuria, lo que puede desenmascarar o exacerbar una hipercalcemia en pacientes con hiperparatiroidismo primario subclínico."
+  },
+  {
+    id: "MIR24-158",
+    ano: 2024,
+    num: 158,
+    conImagen: false,
+    enunciado: "158. ¿Cuál de las siguientes causas de hipertiroidismo puede cursar con TSH normal o elevada?:",
+    opciones: [
+      "1. Tirotoxicosis facticia.",
+      "2. Struma ovarii.",
+      "3. Adenoma hipofisario productor de TSH.",
+      "4. Hipertiroidismo por beta-HCG durante la gestación."
+    ],
+    correcta: 3,
+    explicacion: "El hipertiroidismo central o secundario (TSHoma) cursa con elevación de hormonas tiroideas periféricas (T4L/T3L) acompañada de concentraciones de TSH inapropiadamente normales o elevadas por pérdida del feedback negativo hipofisario."
+  },
+  {
+    id: "MIR24-159",
+    ano: 2024,
+    num: 159,
+    conImagen: false,
+    enunciado: "159. Hombre de 58 años, fumador de 30 cigarrillos diarios desde los 19 años, con antecedentes de hipertensión arterial mal controlada, diabetes mellitus tipo 2 y obesidad grado I. En estudio por disnea de 5 meses de evolución, asociando pérdida de peso, astenia e hiporexia. Como parte del estudio se realiza TC toracoabdominal describiéndose la presencia de un nódulo pulmonar inespecífico de 1,1 cm en lóbulo superior derecho sin datos de malignidad y un nódulo en la glándula suprarrenal derecha de 1,9 cm. ¿Qué pruebas complementarias habría que solicitar para el estudio del incidentaloma suprarrenal?:",
+    opciones: [
+      "1. Test de supresión con 8 mg de dexametasona (DXM) nocturno, metanefrinas libres plasmáticas y resonancia magnética centrada en suprarrenales.",
+      "2. Metanefrinas fraccionadas en orina de 24 horas, test de supresión con 1 mg DXM nocturno, ratio renina/aldosterona y PET-TC con 18FDG.",
+      "3. Metanefrinas fraccionadas en orina de 24 horas, test de supresión con 1 mg DXM nocturno, ratio aldosterona/renina y TC centrada en adrenales.",
+      "4. Cortisol libre urinario, metanefrinas fraccionadas en muestra aislada de orina, ratio aldosterona/renina y resonancia magnética centrada en suprarrenales."
+    ],
+    correcta: 3,
+    explicacion: "El estudio funcional protocolizado de todo incidentaloma suprarrenal exige: test de Nugent (1 mg de dexametasona nocturna), metanefrinas fraccionadas (orina o plasma) y ratio aldosterona/renina (al ser hipertenso), complementado con TC adrenal de corte fino."
+  },
+  {
+    id: "MIR24-160",
+    ano: 2024,
+    num: 160,
+    conImagen: false,
+    enunciado: "160. Mujer de 25 años, sin enfermedades previas conocidas, que consulta por lesión en labio inferior. No es la primera vez que le sucede desde la adolescencia, siempre en la misma zona, inicia dolor y aparece una lesión vesiculosa que se autolimita en una semana aproximadamente. Respecto al abordaje de la enfermedad de esta paciente, es INCORRECTO que:",
+    opciones: [
+      "1. Si presenta más de tres episodios anuales está indicado realizar profilaxis con un antiviral como valaciclovir 500 mg cada 12 horas o 1 g al día, durante seis meses.",
+      "2. Si es una única lesión y es un cuadro leve puede no realizarse ningún tratamiento o bien realizar tratamiento tópico con fomentos de sulfato de zinc o de cobre.",
+      "3. Si existe riesgo de afectación oftálmica estaría indicado tratar con un antivírico como valaciclovir a razón de 1 g cada 8 horas durante 7 días vía oral.",
+      "4. Es necesario recomendarle una adecuada protección solar pues la exposición solar puede motivar recurrencias."
+    ],
+    correcta: 1,
+    explicacion: "La terapia supresora profiláctica continua con antivirales orales en herpes simple recidivante se reserva formalmente para recurrencias muy frecuentes e incapacitantes (generalmente ≥6 episodios anuales documentados), no a partir de tres."
+  },
+  {
+    id: "MIR24-161",
+    ano: 2024,
+    num: 161,
+    conImagen: false,
+    enunciado: "161. Hombre de 50 años que presenta una erupción generalizada especialmente en el tronco. Refiere malestar general desde hace pocos días. Hoy acude porque ha tenido fiebre la noche anterior y se ha visto una mancha negra en la zona abdominal. A la exploración física, la mancha negra corresponde a una pequeña escara. El paciente es cazador y acudió recientemente a una batida. Sobre el abordaje del caso es cierto que:",
+    opciones: [
+      "1. Es una enfermedad de declaración obligatoria.",
+      "2. El tratamiento de elección es la amoxicilina, un gramo cada 8 horas durante 7 días.",
+      "3. Debe derivarse a un centro hospitalario.",
+      "4. En la mayoría de los casos, la fiebre precede al exantema y la escara."
+    ],
+    correcta: 1,
+    explicacion: "Cuadro de fiebre botonosa mediterránea (Rickettsia conorii por picadura de garrapata con mancha negra o 'tache noire'); en España la fiebre botonosa es una enfermedad de declaración obligatoria (EDO) y su tratamiento de elección es la doxiciclina oral."
+  },
+  // NOTA: Pregunta 162 anulada en plantilla oficial (excluida)
+  {
+    id: "MIR24-163",
+    ano: 2024,
+    num: 163,
+    conImagen: false,
+    enunciado: "163. Hombre de 62 años con antecedentes de hipertensión arterial, diabetes mellitus tipo 2 y en tratamiento con infliximab por artritis reumatoide, se presenta en urgencias con fiebre, tos seca, mialgias y disnea leve de 5 días de evolución. A la exploración física, la saturación de oxígeno es del 90% con aire ambiente. Se realiza una radiografía de tórax que muestra opacidades en vidrio deslustrado bilaterales. La PCR en frotis nasofaríngeo para SARS-CoV-2 resulta positiva. ¿Cuál de las siguientes opciones es la conducta más apropiada?:",
+    opciones: [
+      "1. Administrar plasma de convaleciente y anticoagulación profiláctica.",
+      "2. Iniciar tratamiento con antibióticos de amplio espectro y corticoides a dosis altas.",
+      "3. Monitorización ambulatoria con seguimiento telefónico y tratamiento sintomático.",
+      "4. Ingreso hospitalario para tratamiento con remdesivir y dexametasona."
+    ],
+    correcta: 4,
+    explicacion: "Paciente de alto riesgo inmunosuprimido (anti-TNF) con neumonía COVID-19 grave que presenta hipoxemia (SatO2 90%): indicación estandarizada de ingreso hospitalario con soporte oxigenoterápico, corticoterapia sistémica (dexametasona 6 mg/d) y remdesivir."
+  },
+  {
+    id: "MIR24-164",
+    ano: 2024,
+    num: 164,
+    conImagen: false,
+    enunciado: "164. Hombre de 56 años, nacido en Paraguay, acude a consulta, remitido por su médico de familia, por disnea progresiva y palpitaciones. Tiene un ECG en el que se observa extrasístoles ventriculares y bloqueo completo de rama derecha. Aporta una serología por ELISA IgG positiva frente a Trypanosoma cruzy. ¿Cuál de las siguientes respuestas es INCORRECTA?:",
+    opciones: [
+      "1. Se debe realizar una prueba serológica con inmunofluorescencia para detectar IgG frente a T. cruzy.",
+      "2. La prueba de reacción en cadena de la polimerasa (PCR) tiene un valor diagnóstico limitado en esta fase de la enfermedad.",
+      "3. Debe iniciar tratamiento con benznidazol para modificar la evolución de la enfermedad.",
+      "4. Si se confirma el diagnóstico, debe estudiar a los familiares cercanos para identificar otros casos."
+    ],
+    correcta: 3,
+    explicacion: "En la miocardiopatía chagásica crónica establecida con afectación estructural/eléctrica avanzada (BRD + extrasistolia), el ensayo clínico BENEFIT demostró que el tratamiento antiparasitario con benznidazol no mejora ni frena la progresión clínica de la cardiopatía."
+  },
+  {
+    id: "MIR24-165",
+    ano: 2024,
+    num: 165,
+    conImagen: false,
+    enunciado: "165. Una mujer de 45 años con antecedentes de pleuritis hace 3 años y episodios ocasionales de poliartritis en los últimos 8 meses, fue diagnosticada de LES hace un mes tras un ingreso por fatiga y dolor torácico opresivo de esfuerzo, donde se objetivó una Hb de 5,8 g/dL y VCM de 109 fL por una anemia hemolítica autoinmune. El resto de la analítica mostró una linfopenia de 900/mm³, plaquetas en rango de normalidad, función hepática, creatinina y ionograma normales, tiempo de protrombina 85%, TTPA se muestra prolongado (ratio de 1,8). Existe hipocomplementemia C3 y C4, ANA 1/640, con Anti-DNA +. Fue dada de alta con corticoides, hidroxicloroquina y belimumab semanal subcutáneo. A las tres semanas del alta refiere sensación disneica de 48 horas de evolución sin otros síntomas acompañantes, la Hb de urgencias es de 10,2 gr/dL. ¿Cuál de las siguientes determinaciones de laboratorio deberíamos realizar en primer lugar?:",
+    opciones: [
+      "1. Dímero D.",
+      "2. Proteínas en orina.",
+      "3. NT-proBNP.",
+      "4. Test de Coombs."
+    ],
+    correcta: 1,
+    explicacion: "La presencia de un TTPA prolongado que no corrige en una paciente lúpica orienta a anticoagulante lúpico (síndrome antifosfolípido secundario); ante disnea aguda de novo se debe descartar inmediatamente tromboembolismo pulmonar mediante dímero D y angio-TC."
+  },
+  {
+    id: "MIR24-166",
+    ano: 2024,
+    num: 166,
+    conImagen: false,
+    enunciado: "166. Mujer de 72 años, procedente del medio rural que acude al servicio de urgencias por un cuadro de dolor abdominal, vómitos y diarrea líquida, que posteriormente se hace sanguinolenta, de 6 días de duración. No refiere fiebre ni tratamiento antibiótico previo. Se toman muestras para hemocultivo y estudio microbiológico de las heces y se inicia tratamiento con fluidoterapia intensiva. 48 horas después se observa disminución del nivel de conciencia y la presencia de anemia (hematocrito de 25%, hemoglobina de 7,9 g/dL), trombopenia (plaquetas de 60.000/mL), creatinina de 3,2 mg/dL, hematuria y hemoglobinuria. En el estudio de sangre periférica se aprecian abundantes esquistocitos circulantes (más del 10%). Señale la respuesta INCORRECTA:",
+    opciones: [
+      "1. Debe tratar de identificar infección por E. coli, serotipo O157:H7 y detección por PCR de toxina Shiga (Stx1 y/o Stx2) y genes relacionados.",
+      "2. Debe iniciar tratamiento antibiótico.",
+      "3. El cuadro clínico y analítico descarta la posibilidad de infección por Clostridium difficile.",
+      "4. La plasmaféresis no es útil en esta paciente."
+    ],
+    correcta: 2,
+    explicacion: "En el síndrome hemolítico urémico típico asociado a toxina Shiga (STEC), los antibióticos están formalmente contraindicados porque lisan las bacterias entéricas y disparan una liberación masiva de toxina hacia la circulación, agravando la microangiopatía trombótica."
+  },
+  {
+    id: "MIR24-167",
+    ano: 2024,
+    num: 167,
+    conImagen: false,
+    enunciado: "167. Mujer de 54 años de edad que acude a su consulta para estudio y evaluación del riesgo vascular. Entre sus antecedentes más relevantes, destacan un infarto agudo de miocardio a los 51 y a los 53 años de edad, hipertensión arterial controlada y un perfil lipídico con tratamiento hipolipemiante de alta intensidad de: colesterol total 120 mg/dL, cHDL 60 mg/dL cLDL 50 mg/dL, TG 128 mg/dL. HbA1c de 5.2% y glucemia plasmática en ayunas normal. Nunca ha fumado. Índice de masa corporal de 23 Kg/m². De las siguientes pruebas o determinaciones que se exponen a continuación, ¿qué es más útil para determinar el riesgo y la etiología de eventos recurrentes en esta paciente?:",
+    opciones: [
+      "1. Determinación de ApoA.",
+      "2. Determinación de ApoB.",
+      "3. Determinación de Lp(a) o lipoproteína a.",
+      "4. Determinación de proteína C reactiva."
+    ],
+    correcta: 3,
+    explicacion: "Eventos cardiovasculares aterotrombóticos precoces y recurrentes en una mujer no fumadora con niveles óptimos de c-LDL bajo estatinas obligan a medir lipoproteína (a), factor de riesgo genético independiente de cardiopatía isquémica prematura."
+  },
+  {
+    id: "MIR24-168",
+    ano: 2024,
+    num: 168,
+    conImagen: false,
+    enunciado: "168. Mujer de 28 años sin enfermedades previas, recién llegada de los Estados Unidos de América, donde ha estado practicando espeleología en el valle del Ohio durante un par de semanas, presenta clínica de infección respiratoria consistente en tos, fiebre, sensación disneica y artralgias, lesiones cutáneas nodulares y dolorosas, eritematosas y calientes en la zona pretibial. ¿En qué enfermedad hay que pensar?:",
+    opciones: [
+      "1. Aspergilosis pulmonar.",
+      "2. Esporotricosis.",
+      "3. Criptococosis pulmonar.",
+      "4. Histoplasmosis."
+    ],
+    correcta: 4,
+    explicacion: "Infección respiratoria aguda con eritema nudoso asociada al antecedente epidemiológico de exposición a guano de murciélago en cuevas (espeleología) en la zona endémica del valle del Ohio/Mississippi: cuadro clásico de histoplasmosis pulmonar aguda."
+  },
+  {
+    id: "MIR24-169",
+    ano: 2024,
+    num: 169,
+    conImagen: false,
+    enunciado: "169. Hombre de 53 años, sin antecedentes patológicos, acude al hospital por fiebre de 10 días de evolución, con intensa cefalea retroorbitaria y una importante sensación de fatiga. No refiere dolor musculoesquelético, lesiones cutáneas ni ningún otro síntoma acompañante. A lo largo de 15 días de ingreso se objetiva fiebre persistente y la aparición de discreta ictericia conjuntival. La exploración respiratoria, cardíaca, abdominal y neurológica es normal. La analítica muestra VSG 97 mm/h. PCR 24,5 mg/dL GOT 156 U/L, GPT 148 U/L, FA 410 U/L, GGT 794 U/L, bilirrubina total 5.5 mg/dL a expensas de la bilirrubina directa, hemoglobina 11,5 g/dL, recuento leucocitario normal, plaquetas 648.000/mm³, función renal e ionograma normales, tiempo de protrombina normal pero TTPA ratio 1,8. Los anticuerpos antinucleares (ANA) son positivos a títulos 1/160. Una ecografía abdominal no muestra ninguna alteración destacable. Desde el punto de vista clínico y a la vista de los datos analíticos, ¿cuál de las siguientes enfermedades es la que se ajusta mejor con nuestro paciente?:",
+    opciones: [
+      "1. COVID-19.",
+      "2. Fiebre Q aguda.",
+      "3. Leptospirosis grave (enfermedad de Weil).",
+      "4. Colangitis esclerosante primaria."
+    ],
+    correcta: 2,
+    explicacion: "Fiebre prolongada con intensa cefalea retroocular y hepatitis granulomatosa con patrón colestásico prominente (trombocitosis reactiva y elevación marcada de GGT/FA) en ausencia de exantema: forma hepatítica típica de fiebre Q aguda (Coxiella burnetii)."
+  },
+  {
+    id: "MIR24-170",
+    ano: 2024,
+    num: 170,
+    conImagen: false,
+    enunciado: "170. Hombre de 38 años con dependencia alcohólica grave. Ha tenido varios ingresos por pancreatitis aguda en el contexto de ingesta de alcohol e hipertrigliceridemia grave. Acude a consulta 12 meses después del último episodio de pancreatitis. No presenta clínica que sugiera insuficiencia pancreática exocrina. Niega reiteradamente ingesta de alcohol. Sigue tratamiento con estatinas y fibratos que asegura tomárselos. Aporta un análisis básico reciente de su empresa con los siguientes datos: colesterol 300 mg/dL, cHDL 42 mg/dL, TG 1102 mg/dL, cLDL no calculable por Friedewald. Colesterol no-HDL 258 mg/dL, ApoB 90 mg/dL, Lp(a) 38 nmol/L (normal <125 nmol/L). En dicho análisis hay un dato, además de la hipertrigliceridemia, que sugiere que el paciente continúa ingiriendo alcohol. Señálelo:",
+    opciones: [
+      "1. ApoB.",
+      "2. cHDL.",
+      "3. Lp(a).",
+      "4. Colesterol total."
+    ],
+    correcta: 2,
+    explicacion: "En presencia de hipertrigliceridemia severa (>1000 mg/dL), el c-HDL suele estar marcadamente descendido (<20-25 mg/dL) por el intercambio mediado por CETP. Un c-HDL preservado o elevado (42 mg/dL) traduce el efecto inductor de la lipoproteína lipasa y síntesis hepática de ApoA-I provocado por el consumo continuado de alcohol."
+  },
+  {
+    id: "MIR24-171",
+    ano: 2024,
+    num: 171,
+    conImagen: false,
+    enunciado: "171. Respecto a las infecciones de las heridas quirúrgicas, señale la respuesta INCORRECTA:",
+    opciones: [
+      "1. Diabetes mellitus, malnutrición, obesidad e inmunosupresión son factores de riesgo del paciente para desarrollar infecciones de las heridas quirúrgicas.",
+      "2. El control intensivo perioperatorio de la glucemia es una buena práctica de prevención de las infecciones de herida quirúrgica.",
+      "3. La mayoría de las recomendaciones sobre profilaxis antibiótica en cirugía cardíaca aconsejan mantener los antibióticos al menos 48 horas tras el procedimiento quirúrgico.",
+      "4. La antibioterapia local se emplea como método de profilaxis antimicrobiana y tratamiento antibiótico, sobre todo en la sustitución de prótesis articulares infectadas."
+    ],
+    correcta: 3,
+    explicacion: "Las guías actualizadas de la OMS y del CDC limitan la profilaxis antibiótica perioperatoria a un máximo de 24 horas tras la cirugía incluso en cirugía cardíaca; prolongarla hasta 48 horas no aporta beneficio y selecciona resistencias."
+  },
+  {
+    id: "MIR24-172",
+    ano: 2024,
+    num: 172,
+    conImagen: false,
+    enunciado: "172. Hombre de 37 años con infección VIH ha dejado de tomar el tratamiento por razones personales hace 3 meses; estaba tomando una combinación de dos inhibidores de transcriptasa inversa y un inhibidor de la integrasa. En la evaluación llevada a cabo en este momento tiene 120 linfocitos CD4/mm³ y una carga viral de VIH-1 de 80.000 copias/mL. Estamos pendientes del estudio de resistencias. ¿Qué debemos recomendarle en este momento?:",
+    opciones: [
+      "1. Reiniciar el tratamiento con lo mismo con lo que estaba previamente.",
+      "2. Esperar a tener el resultado del estudio de resistencias para orientar el tipo de tratamiento en función de las mutaciones identificadas.",
+      "3. Prescribir a partir de ahora un régimen basado en inhibidores de proteasa por su mayor barrera genética a las resistencias.",
+      "4. Iniciar doble terapia con inhibidores de integrasa."
+    ],
+    correcta: 1,
+    explicacion: "En un paciente con abandono terapéutico no planificado previo y CD4 <200 con alto riesgo de infecciones oportunistas, se debe reiniciar de inmediato la pauta que previamente toleraba y le suprimía la carga viral sin demorar el inicio a la espera de resistencias."
+  },
+  {
+    id: "MIR24-173",
+    ano: 2024,
+    num: 173,
+    conImagen: false,
+    enunciado: "173. Hombre de 55 años con antecedentes de cáncer de pulmón (estadio IV). Su madre murió a los 65 años por un episodio de broncoaspiración. Consulta por debilidad muscular en los muslos y disfagia. Exploración física: fuerza en psoas 4+/5, cuádriceps 3/5, deltoides 5/5. Presenta ptosis palpebral bilateral y no tiene diplopía. Los valores de CPK eran 900 UI/L (normal <150 UI/L) y los de aldolasa, 7 UI/L (normal <6 UI/L). Se practicó una biopsia en el músculo vasto lateral externo del muslo derecho, en la cual se objetivó variabilidad en el tamaño de fibras, aumento del tejido conectivo, imágenes de pseudodivisión celular y vacuolas ribeteadas; no se observó infiltrado inflamatorio. ¿Qué es lo más probable que le suceda al paciente?:",
+    opciones: [
+      "1. Distrofia oculofaríngea.",
+      "2. Miopatía mitocondrial.",
+      "3. Miastenia gravis.",
+      "4. Miositis con cuerpos de inclusión."
+    ],
+    correcta: 1,
+    explicacion: "Herencia autosómica dominante (madre fallecida por disfagia/aspiración), ptosis palpebral bilateral sin oftalmoplejía, debilidad proximal tardía y biopsia muscular con vacuolas ribeteadas e inclusiones intranucleares tubulofilamentosas define la distrofia muscular oculofaríngea (expansión GCN en PABPN1)."
+  },
+  {
+    id: "MIR24-174",
+    ano: 2024,
+    num: 174,
+    conImagen: false,
+    enunciado: "174. Mujer de 81 años consulta por cuadro de 1 mes de duración de astenia, febrícula, pérdida de unos 4 kg de peso, cefalea hemicraneal izquierda y dolor en la zona de los hombros y de las caderas, que le dificulta los movimientos después de estar en reposo. Se palpa una zona engrosada y dolorosa en el territorio de la arteria temporal izquierda. Respecto al proceso diagnóstico de esta paciente, señale la opción INCORRECTA:",
+    opciones: [
+      "1. La vasculitis sistémica que se sospecha con mayor probabilidad es una vasculitis de gran vaso.",
+      "2. En el análisis, la normalidad de la velocidad de sedimentación globular apoya el diagnóstico de esta vasculitis.",
+      "3. Es frecuente observar afectación de la pared arterial de la aorta y sus ramas principales mediante pruebas de imagen.",
+      "4. Una biopsia de la arteria temporal que muestre un infiltrado inflamatorio en la pared arterial confirmaría el diagnóstico de arteritis de células gigantes."
+    ],
+    correcta: 2,
+    explicacion: "La arteritis de células gigantes cursa de forma casi universal con una elevación marcada de reactantes de fase aguda (VSG habitualmente >50-100 mm/h y PCR elevada); una VSG estrictamente normal pone fuertemente en duda el diagnóstico."
+  },
+  {
+    id: "MIR24-175",
+    ano: 2024,
+    num: 175,
+    conImagen: false,
+    enunciado: "175. ¿Cuál de las siguientes manifestaciones clínicas es la más característica de la miopatía de la dermatomiositis?:",
+    opciones: [
+      "1. Dificultad para andar.",
+      "2. Dificultad para subir escaleras.",
+      "3. Dificultad para abrocharse los botones.",
+      "4. Dolor muscular."
+    ],
+    correcta: 2,
+    explicacion: "La debilidad muscular en las miopatías inflamatorias (dermatomiositis y polimiositis) es simétrica y predominantemente proximal (cintura pélvica y escapular), manifestándose típicamente como dificultad para subir escaleras, levantarse de una silla o peinarse."
+  },
+  {
+    id: "MIR24-176",
+    ano: 2024,
+    num: 176,
+    conImagen: false,
+    enunciado: "176. Mujer de 38 años que consulta por la presencia de dolor ocular, ojo rojo bilateral, hipersensibilidad a la luz y disminución de la agudeza visual. La historia clínica se completa con antecedentes de aftas bucales dolorosas y recidivantes y un diagnóstico previo de eritema nodoso hace 2 años. En la exploración oftalmológica se observa panuveitis bilateral con signos de vasculitis retiniana bilateral. Señale la respuesta correcta sobre el diagnóstico y tratamiento de la enfermedad que sospecha en esta paciente:",
+    opciones: [
+      "1. El hallazgo de HLA B*51 confirma el diagnóstico de sospecha.",
+      "2. Las úlceras bucales dejan cicatriz en la mayoría de los casos.",
+      "3. Debe instaurar tratamiento precoz e intensivo con glucocorticoides sistémicos e inmunosupresión con azatioprina.",
+      "4. La adición al tratamiento de anticuerpos monoclonales anti TNF alfa o ciclosporina no mejora el control de la uveítis."
+    ],
+    correcta: 3,
+    explicacion: "La afectación ocular grave en la enfermedad de Behçet (panuveítis posterior con vasculitis retiniana con riesgo de ceguera) exige tratamiento inmunosupresor precoz e intensivo de primera línea con corticoides sistémicos a dosis altas asociados a azatioprina o anti-TNF (infliximab/adalimumab)."
+  },
+  {
+    id: "MIR24-177",
+    ano: 2024,
+    num: 177,
+    conImagen: false,
+    enunciado: "177. Mujer de 80 años que ingresa en el hospital para estudio de anemia tras ser llevada por sus hijos a urgencias por rectorragia y decaimiento físico. Clínicamente se encuentra estable. Está diagnosticada de un deterioro cognitivo, con ideación y juicio frecuentemente incoherentes y alteraciones conductuales para lo que toma risperidona. Se sospecha neoplasia maligna de colon y se plantea realizar una colonoscopia. Usted verifica que la paciente es incapaz de entender adecuadamente lo que se le explica sobre tal prueba, Su naturaleza, objetivos, posibles complicaciones, o sus consecuencias diagnósticas y eventualmente terapéuticas. En tal caso, ¿cuál de las siguientes respuestas es correcta?:",
+    opciones: [
+      "1. El médico queda eximido de plantear un proceso de consentimiento informado a la paciente, y se considera suficiente su criterio como médico para que se realice la colonoscopia.",
+      "2. El médico deberá solicitar la comparecencia del Juez, para que autorice la prueba, ante la incapacidad intelectual de la enferma para decidir convenientemente por sí misma.",
+      "3. Por no tener la paciente capacidad para decidir, deben hacerlo por ella sus familiares, debiendo quedar constancia escrita en el impreso de consentimiento informado.",
+      "4. Es jurídicamente aceptable un acuerdo entre el médico y los familiares de la enferma basado en un consentimiento informado verbal para que se practique la colonoscopia."
+    ],
+    correcta: 3,
+    explicacion: "Según la Ley 41/2002 de Autonomía del Paciente, ante un paciente con incapacidad de hecho para comprender la información, el consentimiento informado debe ser otorgado por representación familiar y por escrito al tratarse de un procedimiento invasivo diagnósticoterapéutico."
+  },
+  {
+    id: "MIR24-178",
+    ano: 2024,
+    num: 178,
+    conImagen: false,
+    enunciado: "178. Atiende a una paciente ingresada desde hace tres semanas en la unidad de cuidados intensivos por un cuadro de shock séptico respiratorio. Su evolución durante el ingreso no ha sido favorable y todavía continúa dependiente de ventilación mecánica invasiva. En los últimos días, tras recibir la información de que probablemente precise ventilación mecánica a medio-largo plazo, durante los periodos en que la paciente ha estado despierta, ha manifestado de forma clara su deseo de no continuar utilizando el ventilador. La paciente afirma comprender las consecuencias de esta decisión. Este caso habla de:",
+    opciones: [
+      "1. Rechazo al tratamiento.",
+      "2. Limitación del esfuerzo terapéutico o adecuación de medidas de tratamiento.",
+      "3. Suicidio asistido.",
+      "4. Eutanasia."
+    ],
+    correcta: 1,
+    explicacion: "La decisión libre, consciente e informada de un paciente capaz de no aceptar o interrumpir una medida terapéutica de soporte vital (como la retirada de la ventilación mecánica invasiva) constituye un ejercicio del derecho al rechazo de tratamiento amparado bioética y legalmente."
+  },
+  {
+    id: "MIR24-179",
+    ano: 2024,
+    num: 179,
+    conImagen: false,
+    enunciado: "179. Respecto al tratamiento del dolor en cuidados paliativos, indique, de las siguientes afirmaciones, cuál es correcta:",
+    opciones: [
+      "1. En la actualidad existen comercializados diferentes fármacos opioides para el tratamiento del dolor moderado o grave en personas que reciben cuidados paliativos, superando en perfil de efectos adversos y en efectividad a la morfina y relegándola a un papel testimonial.",
+      "2. La adicción es un problema creciente en pacientes que precisan morfina en su fase final de vida y es más frecuente cuando se emplean fármacos con efecto de larga duración (metadona o morfina de liberación prolongada).",
+      "3. El fentanilo oral transmucoso tiene un perfil de acción que lo hace útil en el dolor crónico no irruptivo y de carácter crónico.",
+      "4. La metadona es un fármaco analgésico con escasa excreción renal por lo que es útil en personas con aclaramiento renal disminuido."
+    ],
+    correcta: 4,
+    explicacion: "La metadona se metaboliza predominantemente por vía hepática y su eliminación es fecal, sin depender de la filtración glomerular ni acumular metabolitos neurotóxicos activos, lo que la hace idónea en pacientes con insuficiencia renal avanzada."
+  },
+  {
+    id: "MIR24-180",
+    ano: 2024,
+    num: 180,
+    conImagen: false,
+    enunciado: "180. En relación con la atención en urgencias al paciente menor de edad y de acuerdo con la Ley de protección integral a la infancia y la adolescencia frente a la violencia, cuando el profesional sanitario advierta indicios de una situación de violencia ejercida sobre un menor, en un contexto en el que no exista una amenaza evidente sobre su salud o seguridad, tendrá obligación de comunicarlo de forma inmediata:",
+    opciones: [
+      "1. A los servicios sociales competentes.",
+      "2. Al juzgado de guardia mediante parte de lesiones.",
+      "3. A las Fuerzas y Cuerpos de Seguridad.",
+      "4. Al Instituto de Medicina Legal y Ciencias Forenses de su demarcación."
+    ],
+    correcta: 1,
+    explicacion: "La LOPIVI (Ley Orgánica 8/2021) establece que ante sospechas o indicios de desprotección o maltrato sin riesgo vital inminente, el personal sanitario debe notificar de forma prioritaria e inmediata a los servicios sociales competentes de protección de menores."
+  },
+  {
+    id: "MIR24-181",
+    ano: 2024,
+    num: 181,
+    conImagen: false,
+    enunciado: "181. En relación con la marca producida por el paso de la corriente eléctrica a través de la piel (también conocida como lesión electroespecífica o \"marca de Jellinek\"), ¿cuál de las siguientes afirmaciones es cierta?:",
+    opciones: [
+      "1. La mayor parte de las lesiones producidas por la corriente eléctrica en medio doméstico y laboral proceden de fuentes de alto voltaje.",
+      "2. Las lesiones dérmicas dependen del efecto de un aumento de la temperatura generado sobre la dermis.",
+      "3. La corriente de bajo voltaje produce lesiones profundas, mientras que la de alto voltaje da lugar a lesiones superficiales adyacentes al punto de contacto con la corriente eléctrica.",
+      "4. La marca eléctrica es diagnóstica del lugar en el que se ha producido el contacto y, por tanto, el punto de entrada de la corriente en el cuerpo."
+    ],
+    correcta: 2,
+    explicacion: "La marca electroespecífica de Jellinek es una lesión de electrocución producida por el calor extremo generado localmente por la resistencia de la piel al paso de los electrones (efecto Joule), causando desnaturalización proteica dérmica."
+  },
+  {
+    id: "MIR24-182",
+    ano: 2024,
+    num: 182,
+    conImagen: false,
+    enunciado: "182. Hombre de 85 años con enfermedad de Alzheimer de 6 años de evolución, actualmente en estadio GDS-FAST 7c. Está institucionalizado en centro sociosanitario desde hace 1 año. En los últimos 6 meses tiene frecuentes episodios de broncoaspiración por los que ha acudido a Urgencias y han sido tratados con antibioterapia de amplio espectro con mejoría clínica. Acude nuevamente a urgencias por disnea en relación con nuevo episodio de broncoaspiración y negativa a la ingesta. ¿Cuál debe ser la actitud a seguir?:",
+    opciones: [
+      "1. Evitar ingreso. Indicar sonda nasogástrica (SNG) con el fin de prevenir nuevas broncoaspiraciones y facilitar ingesta. Antibioterapia empírica con amoxicilina-clavulánico por SNG.",
+      "2. Ingresar para colocación de gastrostomía (PEG) con el fin de evitar nuevas broncoaspiraciones y facilitar ingesta. Antibioterapia empírica con piperacilina-tazobactam iv.",
+      "3. Evitar ingreso. No está indicada la colocación de sonda para nutrición enteral. Considerar adecuación del esfuerzo terapéutico evitando antibioterapia y dando cuidados de confort.",
+      "4. Ingresar para antibioterapia empírica con piperacilina-tazobactam, pero evitar la colocación de sonda para nutrición enteral. La curación del proceso infeccioso mejorará casi siempre la ingesta."
+    ],
+    correcta: 3,
+    explicacion: "En demencias avanzadas en fase terminal (FAST 7c), las sondas enterales (SNG o PEG) no previenen la broncoaspiración ni prolongan la supervivencia; la recomendación bioética y geriátrica unánime es adecuar el esfuerzo terapéutico, evitando ingresos fútiles y garantizando confort."
+  },
+  {
+    id: "MIR24-183",
+    ano: 2024,
+    num: 183,
+    conImagen: false,
+    enunciado: "183. La telemonitorización domiciliaria ha demostrado beneficios en pacientes con insuficiencia cardíaca. Una mujer de 82 años con insuficiencia cardíaca y diabetes tratada con insulina está en programa de telemonitorización y remite cada semana una serie de parámetros a su médico de familia. La semana pasada presentaba presión arterial 140/85 mmHg. Glucemia capilar basal 120 mg/dL. Glucemia postprandial 2 h tras la comida 160 mg/dL. Peso 83 kg. Frecuencia cardíaca 72 lpm. Al recibir los parámetros de esta semana que se exponen a continuación, su médico decide citar a la paciente en consulta. ¿Cuál de los siguientes parámetros ha motivado dicha decisión?:",
+    opciones: [
+      "1. Presión arterial 135/82 mmHg.",
+      "2. Peso 85 Kg.",
+      "3. Glucemia capilar basal 130 mg/dL.",
+      "4. Glucemia capilar postprandial 190 mg/dL."
+    ],
+    correcta: 2,
+    explicacion: "En pacientes con insuficiencia cardíaca, una ganancia de peso rápida de ≥2 kg en pocos días es el signo de alerta más sensible de retención hidrosalina y congestión sistémica incipiente, obligando a ajuste de diuréticos."
+  },
+  {
+    id: "MIR24-184",
+    ano: 2024,
+    num: 184,
+    conImagen: false,
+    enunciado: "184. En un paciente con diabetes y obesidad en prevención secundaria cardiovascular, tratado con metformina y iSGLT2, que presenta mal control glucémico, ¿cuál es el fármaco de elección para mejorar dicho control?:",
+    opciones: [
+      "1. Insulina.",
+      "2. Análogos del receptor del péptido similar al glucagón tipo 1 (arGLP-1).",
+      "3. Sulfonilurea.",
+      "4. Repaglinida."
+    ],
+    correcta: 2,
+    explicacion: "Los arGLP-1 (como semaglutida) aportan beneficio cardiovascular demostrado en prevención secundaria, reducen significativamente el peso corporal y optimizan la HbA1c con nulo riesgo intrínseco de hipoglucemia."
+  },
+  {
+    id: "MIR24-185",
+    ano: 2024,
+    num: 185,
+    conImagen: false,
+    enunciado: "185. Mujer de 61 años con adenocarcinoma rectal avanzado. Presenta dolor neuropático con irradiación perineal y molestias urinarias en relación con masa presacra. Mejoró con tratamiento con opioides (morfina 60 mg cada 12h) pero no tolera más aumento de dosis ni fármacos adyuvantes. ¿Cuál es el tratamiento de elección?:",
+    opciones: [
+      "1. Bloqueo del plexo celiaco.",
+      "2. Bloqueo del ganglio impar.",
+      "3. Bloqueo de nervios esplácnicos.",
+      "4. Bloqueo del nervio pudendo."
+    ],
+    correcta: 2,
+    explicacion: "El ganglio impar (de Walther), situado en la cara anterior de la unión sacrococcígea, es el relevo simpático del dolor visceral de la región perineal, anal y pélvica baja; su neurólisis o bloqueo es de elección en dolor rectal maligno refractario."
+  },
+  // NOTA: Pregunta 186 anulada en plantilla oficial (excluida)
+  {
+    id: "MIR24-187",
+    ano: 2024,
+    num: 187,
+    conImagen: false,
+    enunciado: "187. En cuanto al uso de anticonceptivos en mujeres jóvenes en las consultas de Atención Primaria, es importante tener en cuenta diversos aspectos para la prescripción. ¿Cuál de las siguientes es INCORRECTA?:",
+    opciones: [
+      "1. Se ha de ofrecer consejo contraceptivo estructurado según los criterios de elegibilidad de la Organización Mundial de la Salud (OMS), e información tanto para la prevención de embarazos no planificados, como de enfermedades de transmisión sexual (ETS).",
+      "2. Como método anticonceptivo de urgencias, las opciones recomendadas son la toma de levonorgestrel, de acetato de ulipristal o la inserción de un DIU de cobre.",
+      "3. Ante la indicación de anticonceptivos orales se recomienda el cribado rutinario de trombofilia y dislipemia y citologías de control anuales.",
+      "4. El riesgo de tromboembolia venosa con el consumo de anticonceptivos orales es bajo, siendo el riesgo menor en los de segunda generación, frente al mayor riesgo en los de tercera y cuarta generación."
+    ],
+    correcta: 3,
+    explicacion: "Las guías clínicas internacionales desaconsejan explícitamente el cribado sistemático o rutinario de trombofilia, dislipemia o citología cervical previo a la prescripción de anticoncepción hormonal combinada en mujeres jóvenes asintomáticas sin antecedentes personales o familiares relevantes."
+  },
+  {
+    id: "MIR24-188",
+    ano: 2024,
+    num: 188,
+    conImagen: false,
+    enunciado: "188. ¿Cuál de los siguientes fármacos debería evitarse en un paciente que presenta diabetes y obesidad por ser un fármaco que puede inducir aumento de peso?",
+    opciones: [
+      "1. Metformina.",
+      "2. Sitagliptina.",
+      "3. Semaglutida.",
+      "4. Pioglitazona."
+    ],
+    correcta: 4,
+    explicacion: "Las tiazolidinedionas (pioglitazona) activan el receptor nuclear PPAR-gamma, induciendo diferenciación de adipocitos subcutáneos y retención hidrosalina tubular, lo que causa ganancia ponderal significativa y riesgo de edemas."
+  },
+  {
+    id: "MIR24-189",
+    ano: 2024,
+    num: 189,
+    conImagen: false,
+    enunciado: "189. Hombre de 69 años con adenocarcinoma de páncreas avanzado que presenta como principal sintomatología dolor de características mixtas tratado desde hace 3 meses con opioides con buen control (morfina 60 mg cada 12 horas) + adyuvantes (duloxetina 60 mg/dia). Asocia astenia e hiporexia graves tratadas con corticoides desde hace 2 semanas (dexametasona 8 mg/dia). Acude a consulta refiriendo somnolencia intensa y alucinaciones táctiles. En la analítica presenta como datos más destacables anemia de trastornos crónicos (Hb 10,6 g/dL) y empeoramiento de la función renal (CKD-EPI 26mL/min). ¿Cuál es el diagnóstico más probable y la actitud a seguir?:",
+    opciones: [
+      "1. Clínica neurológica por metástasis cerebrales. Realizar TC cerebral y aumentar dosis de corticoides.",
+      "2. Psicosis inducida por corticoides. Retirar corticoides.",
+      "3. Síndrome confusional agudo hipoactivo. Iniciar tratamiento con neurolépticos.",
+      "4. Neurotoxicidad por opioides. Reducir la dosis de morfina a la mitad."
+    ],
+    correcta: 4,
+    explicacion: "El deterioro del filtrado glomerular (<30 mL/min) acumula el metabolito neurotóxico morfina-3-glucurónido provocando síndrome de neurotoxicidad inducida por opioides (NIO: alucinaciones, somnolencia, mioclonías); el manejo exige reducir dosis, hidratación y rotación de opioide."
+  },
+  {
+    id: "MIR24-190",
+    ano: 2024,
+    num: 190,
+    conImagen: false,
+    enunciado: "190. Hombre de 36 años sin antecedentes de interés que ingresa en observación de urgencias en espera de intervención quirúrgica por fractura de fémur a nivel diafisario por accidente de tráfico. El paciente llega algo taquicárdico 102 lpm, con gafas nasales para mantener saturación de oxígeno en torno al 96%, 20 respiraciones por minuto y presión arterial 100/60 mmHg. Se procede a ajuste de analgesia y a las 20 horas de estancia en observación indican que el paciente puede ir a quirófano pero presenta un aumento de disnea con saturación del 89% con mascarilla tipo Venturi, 28 respiraciones por minuto, taquicardia a 110 lpm, fiebre de 38ºC y se encuentra algo obnubilado. En la analítica destaca anemia y trombocitopenia. No presenta aumento de volumen en ninguna de las 2 piernas. ¿Qué prueba complementaria tiene mayor sensibilidad y especificidad para la sospecha diagnóstica de este paciente?",
+    opciones: [
+      "1. AngioTC helicoidal con contraste.",
+      "2. Gammagrafía pulmonar de perfusión.",
+      "3. Radiografía de tórax.",
+      "4. Ecocardiografía."
+    ],
+    correcta: 1,
+    explicacion: "La sospecha de síndrome de embolia grasa tras fractura diafisaria de hueso largo (tríada de hipoxemia/distrés, confusión/obnubilación y petequias con trombopenia) se evalúa y confirma mediante angio-TC torácico con contraste para descartar TEP trombótico concurrente y evaluar el daño alveolar bilateral."
+  },
+  {
+    id: "MIR24-191",
+    ano: 2024,
+    num: 191,
+    conImagen: false,
+    enunciado: "191. Hombre de 72 años sin alergias medicamentosas, no fumador y con antecedentes de hipertensión, dislipemia y diabetes. En tratamiento con ácido acetilsalicílico, atorvastatina, enalapril y metformina. Acude a urgencias por agudización de lumbalgia crónica de meses de evolución. Refiere que el dolor no es irradiado, y no mejora mucho en reposo. Ha tomado varios analgésicos sin ninguna mejoría. A la exploración no presenta dolor en espinosas dorsolumbares, el signo de Lasegue es negativo, no presenta limitación a la movilidad, reflejos normales y no hay alteración de sensibilidad o fuerza. Pulsos pedios ausentes y tibiales débiles. No edemas de miembros inferiores. Ante la sospecha diagnóstica, ¿qué prueba nos daría el diagnóstico más rápidamente con mayor sensibilidad y especificidad?:",
+    opciones: [
+      "1. Ecografía abdominal.",
+      "2. TC toraco-abdominal.",
+      "3. Resonancia magnética.",
+      "4. Radiografía de columna lumbosacra."
+    ],
+    correcta: 2,
+    explicacion: "Dolor lumbar atípico no mecánico refractario en un varón añoso con enfermedad vascular y pulsos femorales distales débiles: sospecha mandatoria de patología aórtica abdominal (aneurisma aórtico expansivo o fissurado); el angio-TC toraco-abdominal es la prueba de referencia rápida de máxima resolución anatómica."
+  },
+  {
+    id: "MIR24-192",
+    ano: 2024,
+    num: 192,
+    conImagen: false,
+    enunciado: "192. Acude a urgencias un hombre de 34 años, sin diagnósticos previos, con antecedente de consumo de drogas por vía parenteral, con fiebre, tos no productiva y disnea progresiva de varias semanas de evolución. Se realiza radiografía de tórax que muestra infiltrado intersticial bilateral. En analítica sanguínea destaca linfopenia y lactato deshidrogenasa elevada. La saturación de oxígeno es del 88% respirando aire ambiente en reposo. ¿Cuál de las siguientes aseveraciones le parece INCORRECTA?:",
+    opciones: [
+      "1. Iniciaría tratamiento de soporte, oxigenoterapia y ceftriaxona.",
+      "2. Iniciaría tratamiento con Trimetropim/sulfametoxazol, corticoides y oxigenoterapia.",
+      "3. Solicitaría serología del virus de la inmunodeficiencia humana.",
+      "4. Solicitaría estudio microbiológico de esputo."
+    ],
+    correcta: 1,
+    explicacion: "El cuadro de neumonía por Pneumocystis jirovecii (infiltrados bilaterales perihiliares, LDH elevada e hipoxemia moderada-grave) exige cotrimoxazol intravenoso y corticoterapia adyuvante urgente (por PaO2 <70 o gradiente A-a elevado); la ceftriaxona aislada carece de actividad y demoraría el tratamiento adecuado."
+  },
+  {
+    id: "MIR24-193",
+    ano: 2024,
+    num: 193,
+    conImagen: false,
+    enunciado: "193. Hombre de 46 años sufre accidente de tráfico a alta velocidad con varios vuelcos del vehículo y necesidad de extricación por parte del equipo de bomberos. El paciente es trasladado en una UVI móvil al servicio de urgencias más próximo, con inmovilización en colchón de vacío. A su llegada al hospital se encuentra inestable a pesar de sueroterapia intensiva. A la exploración presenta los siguientes signos vitales: frecuencia respiratoria 35 rpm. Saturación de oxígeno 100% con mascarilla reservorio. Frecuencia cardíaca 140 lpm. Presión arterial 60/30 mm Hg. Temperatura 35.5ºC y glucemia 110 mg/dL. De las siguientes, indique la exploración o prueba complementaria clave del árbol de decisión en este paciente:",
+    opciones: [
+      "1. Hemograma y bioquímica.",
+      "2. TC abdominal.",
+      "3. e-FAST (Extended Focused Abdominal Sonography for Trauma).",
+      "4. Punción lavado peritoneal."
+    ],
+    correcta: 3,
+    explicacion: "En un politraumatizado hemodinámicamente inestable (shock hemorrágico refractario), está contraindicado el traslado al TC; la ecografía e-FAST a pie de cama es la prueba inmediata clave para identificar hemoperitoneo, taponamiento cardíaco o neumotórax y guiar laparotomía urgente."
+  },
+  {
+    id: "MIR24-194",
+    ano: 2024,
+    num: 194,
+    conImagen: false,
+    enunciado: "194. En un paciente diagnosticado de una lesión tumoral ósea maligna que ha recibido tratamiento neoadyuvante, se realiza resección de la pieza y posterior biopsia para su análisis anatomopatológico. Indique, de las siguientes, ¿cuál es la información más relevante para el pronóstico del paciente?:",
+    opciones: [
+      "1. Tasa de necrosis en la pieza por efecto de terapia neoadyuvante.",
+      "2. Número de células tumorales en fase G0 de no división o interfase.",
+      "3. Porcentaje de células gigantes que se encuentran en la lesión.",
+      "4. Cantidad de células no estromales que componen el tumor."
+    ],
+    correcta: 1,
+    explicacion: "En sarcomas óseos (osteosarcoma y sarcoma de Ewing), el grado de necrosis tumoral histológica en la pieza tras la quimioterapia neoadyuvante (buena respuesta ≥90% de necrosis tumoral según el sistema de Huvos) es el principal factor pronóstico independiente de supervivencia."
+  },
+  {
+    id: "MIR24-195",
+    ano: 2024,
+    num: 195,
+    conImagen: false,
+    enunciado: "195. Mujer de 60 años que acude al hospital por hematuria, mal estado general y fiebre. Se orienta clínicamente de insuficiencia renal progresiva y se decide realizarle una biopsia renal donde se observa una glomerulonefritis necrotizante con reacción extracapilar (semilunas) que afecta a más del 50% de los glomérulos. La inmunofluorescencia directa es negativa. Hay un dato del laboratorio de inmunología que nos ayudará a confirmar el diagnóstico, pero ¿cuál es el diagnóstico más probable?:",
+    opciones: [
+      "1. Glomerulonefritis pauciinmune.",
+      "2. Nefritis tubulointersticial.",
+      "3. Síndrome de Goodpasture.",
+      "4. Nefropatía IgA."
+    ],
+    correcta: 1,
+    explicacion: "Glomerulonefritis rápidamente progresiva con proliferación extracapilar (semilunas) e inmunofluorescencia negativa/ausencia de depósitos inmunes significativos define la GN extracapilar tipo 3 o pauciinmune (asociada a vasculitis por anticuerpos ANCA)."
+  },
+  {
+    id: "MIR24-196",
+    ano: 2024,
+    num: 196,
+    conImagen: false,
+    enunciado: "196. Niño de 3 años de edad con antecedentes de dermatitis atópica leve, sin alergias conocidas. Acude a la consulta con su madre quien comenta que en la última semana le han aparecido unas lesiones en la piel de la cara y la región glútea. Estas lesiones comenzaron como pequeñas máculas eritematosas que en pocos días pasaron a vesículas y erosiones superficiales cubiertas por costras amarillentas y que han ido aumentando en número y tamaño, extendiéndose rápidamente a la piel de alrededor. Ha estado rascándose las lesiones, lo que parece haberlas empeorado. También comenta que en la guardería hay otros niños que han presentado lesiones similares en la piel. El niño tiene buen estado general y no tiene fiebre, sólo se queja de picor en las lesiones. Ante este cuadro clínico, ¿cuál es el diagnóstico más probable?:",
+    opciones: [
+      "1. Impétigo contagioso.",
+      "2. Molluscum contagioso.",
+      "3. Infección por herpes virus.",
+      "4. Candidiasis mucocutánea."
+    ],
+    correcta: 1,
+    explicacion: "Erosiones periorificiales superficiales muy contagiosas cubiertas por costras amarillentas clásicamente descritas como melicéricas (color miel) en niños: impétigo contagioso no ampolloso (Streptococcus pyogenes / Staphylococcus aureus)."
+  },
+  {
+    id: "MIR24-197",
+    ano: 2024,
+    num: 197,
+    conImagen: false,
+    enunciado: "197. Hombre de 50 años que acude a la consulta por una lesión pigmentada en su pierna derecha que ha cambiado de tamaño y color en los últimos 4 meses. La lesión es de 8 mm de diámetro, asimétrica, con bordes irregulares y con varias tonalidades de marrón y negro. Además, refiere prurito ocasional en la zona. No tiene antecedentes personales de cáncer, ni otros de interés, pero su madre fue diagnosticada de melanoma a los 60 años. Se realiza una dermatoscopia que revela un patrón de red irregular, puntos negros, áreas de regresión y vasos sanguíneos irregulares. ¿Cuál es el manejo más apropiado?:",
+    opciones: [
+      "1. Biopsia mediante punción de la parte más pigmentada de la lesión para confirmar el diagnóstico.",
+      "2. Biopsia mediante escisión completa con márgenes quirúrgicos de 2 mm y estudio histopatológico.",
+      "3. Monitorización de la lesión con dermatoscopia digital y seguimiento en 3 meses.",
+      "4. Terapia fotodinámica para reducir el tamaño de la lesión antes de realizar una biopsia."
+    ],
+    correcta: 2,
+    explicacion: "Ante una lesión clínicamente y dermatoscópicamente sugestiva de melanoma, la técnica diagnóstica obligada es la biopsia escisional completa con margen estrecho de seguridad de 1-2 mm para medir con precisión el espesor de Breslow sin distorsionar la arquitectura."
+  },
+  {
+    id: "MIR24-198",
+    ano: 2024,
+    num: 198,
+    conImagen: false,
+    enunciado: "198. Una lactante prematura de 32 semanas, consulta al mes de nacimiento por 3 hemangiomas infantiles superficiales que han crecido en las 2 últimas semanas en el antebrazo derecho, en el tórax y en la espalda. Respecto a los hemangiomas infantiles que presenta la paciente, señale la respuesta INCORRECTA:",
+    opciones: [
+      "1. Tienen 3 fases evolutivas: una fase proliferativa en la que la lesión crece aceleradamente, un periodo de estabilidad y una fase involutiva.",
+      "2. Suponen la única lesión positiva para el marcador GLUT-1 (proteína transportadora de glucosa).",
+      "3. Es necesario realizar estudios de imagen (la ecografía sería la técnica de elección) por el riesgo aumentado de hemangiomas a nivel visceral.",
+      "4. La mayoría de los hemangiomas infantiles tiene un curso clínico predecible por lo que, si no hay compromiso funcional ni estético, una opción válida es no tratar a estos pacientes."
+    ],
+    correcta: 3,
+    explicacion: "El despistaje ecográfico reglado de hemangiomatosis visceral (hepática) se indica cuando el lactante presenta CINCO o más hemangiomas cutáneos; con 3 lesiones superficiales no está indicado el cribado de rutina."
+  },
+  {
+    id: "MIR24-199",
+    ano: 2024,
+    num: 199,
+    conImagen: false,
+    enunciado: "199. Hombre de 45 años con antecedentes personales de hipertensión arterial, dislipemia, hígado graso y esclerosis múltiple y en tratamiento con fingolimod, enalapril y simvastatina, presenta una psoriasis con afectación de más del 10% de la superficie corporal y un índice de la severidad del área de psoriasis (PASI) de 14. Había realizado previamente tratamiento con acitretina durante 15 meses con escasa mejoría. El paciente pregunta por otra alternativa terapéutica que consiga mejorar su psoriasis. ¿Cuál considera que es la mejor opción de tratamiento?:",
+    opciones: [
+      "1. Fototerapia.",
+      "2. Biológico con mecanismo de acción anti-TNF (factor de necrosis tumoral).",
+      "3. Ciclosporina.",
+      "4. Biológico con mecanismo de acción anti-Interleucina 23."
+    ],
+    correcta: 4,
+    explicacion: "Los fármacos anti-TNF están formalmente contraindicados en pacientes con esclerosis múltiple porque inducen desmielinización y brotes graves del SNC; los anticuerpos biológicos anti-IL23 (como guselkumab o risankizumab) ofrecen máxima eficacia cutánea con un perfil de seguridad seguro en patología desmielinizante."
+  },
+  {
+    id: "MIR24-200",
+    ano: 2024,
+    num: 200,
+    conImagen: false,
+    enunciado: "200. Indique, de los siguientes, ¿cuál es un criterio de malignidad radiológica de los tumores óseos?:",
+    opciones: [
+      "1. Esclerosis perilesional reactiva.",
+      "2. Presencia de calcificaciones puntiformes en el interior de la estructura ósea.",
+      "3. Rotura de la cortical ósea.",
+      "4. Localización epifisaria del tumor por la posibilidad de afectación de la articulación."
+    ],
+    correcta: 3,
+    explicacion: "La disrupción/rotura de la cortical ósea con extensión a partes blandas y reacción perióstica agresiva (patrón de Codman o sol naciente) traduce destrucción osteolítica rápida y alta agresividad biológica maligna."
+  },
+  // ==========================================
+  // PREGUNTAS DE RESERVA OFICIALES (MIR 2024)
+  // ==========================================
+  {
+    id: "MIR24-201",
+    ano: 2024,
+    num: 201,
+    conImagen: false,
+    enunciado: "[RESERVA - SUSTITUYE A LA ANULADA 15]\n201. En la enfermedad por arañazo de gato, señale la INCORRECTA:",
+    opciones: [
+      "1. En los casos sin manifestaciones sistémicas de la enfermedad es suficiente con tratamiento tópico.",
+      "2. Para el diagnóstico es necesaria la práctica de una serología.",
+      "3. Si se precisa tratamiento antibiótico, se recomienda azitromicina 500 mg. en una dosis inicial y 250 mg cada 24 horas durante 4 días más.",
+      "4. La mayoría de los casos curan de forma espontánea en semanas o meses sin tratamiento de ningún tipo."
+    ],
+    correcta: 2,
+    explicacion: "En pacientes típicos con el antecedente de contacto con gatos, pápula de inoculación y linfoadenopatía regional subaguda el diagnóstico es fundamentalmente clínico y no es imprescindible la realización sistemática de serología para Bartonella henselae."
+  },
+  {
+    id: "MIR24-202",
+    ano: 2024,
+    num: 2024,
+    num: 202,
+    conImagen: false,
+    enunciado: "[RESERVA - SUSTITUYE A LA ANULADA 26]\n202. Hombre de 45 años que refiere desde hace 3 meses dolor en codo derecho irradiado a antebrazo, no asociado a parestesias ni sensación subjetiva de pérdida de fuerza. La intensidad del dolor va empeorando a lo largo del día, principalmente con trabajo de ordenador y con actividades deportivas. A la exploración física no se observan signos inflamatorios externos, presenta dolor a la palpación de epitróclea humeral y se reproduce su dolor al distender y resistir la musculatura flexora de antebrazo y mano. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    opciones: [
+      "1. Epicondilopatía medial.",
+      "2. Epicondilopatía lateral.",
+      "3. Síndrome compartimental crónico.",
+      "4. Neuropatía cubital por atrapamiento en canal epitrócleo-olecraniano."
+    ],
+    correcta: 1,
+    explicacion: "Dolor localizado en la epitróclea (epicóndilo medial humeral) que se acentúa selectivamente con la flexión resistida de muñeca y la pronación del antebrazo: epitrocleítis, codo de golfista o epicondilopatía medial."
+  },
+  {
+    id: "MIR24-203",
+    ano: 2024,
+    num: 203,
+    conImagen: false,
+    enunciado: "[RESERVA - SUSTITUYE A LA ANULADA 28]\n203. Hombre de 57 años con buen estado general, tiene un PSA de 13 ng/mL y tacto rectal pétreo. El estudio diagnóstico revela cáncer de próstata de alto riesgo, Gleason 9, metastásico, con afectación ósea (más de 8 lesiones en el esqueleto axial) y metástasis hepáticas. ¿Cuál de los siguientes es el tratamiento inicial indicado en la actualidad?:",
+    opciones: [
+      "1. Prostatectomía radical con linfadenectomía extendida y resección de las metástasis.",
+      "2. Radioterapia externa pélvica y radioterapia estereotáxica de las metástasis.",
+      "3. Braquiterapia pélvica de alta tasa.",
+      "4. Antiandrógenos inicialmente más análogos de la LHRH + enzalutamida + docetaxel."
+    ],
+    correcta: 4,
+    explicacion: "En cáncer de próstata hormonosensible metastásico de alto volumen (criterios CHAARTED: metástasis viscerales y múltiples óseas), la triple terapia sistémica de intensificación (bloqueo androgénico con análogo LHRH + docetaxel + nuevo antiandrógeno/inhibidor del eje androgénico como enzalutamida o darolutamida) es el tratamiento que mayor supervivencia global confiere."
+  },
+  {
+    id: "MIR24-204",
+    ano: 2024,
+    num: 204,
+    conImagen: false,
+    enunciado: "[RESERVA - SUSTITUYE A LA ANULADA 56]\n204. Gestante de 36 años primigesta sin factores de riesgo excepto índice de masa corporal de 32 pregestacional, que acude a urgencias a las 28 semanas y presenta una rotura prematura de membranas. En el momento del ingreso la analítica es normal, no presenta dinámica uterina y la longitud cervical es de 38 mm. ¿Cuál de las siguientes afirmaciones es INCORRECTA?:",
+    opciones: [
+      "1. Iniciaremos maduración pulmonar fetal con corticoides.",
+      "2. Se realizará profilaxis de corioamnionitis mediante antibioterapia endovenosa.",
+      "3. Se iniciará neuroprotección fetal.",
+      "4. Se iniciará profilaxis tromboembólica con heparina de bajo peso molecular."
+    ],
+    correcta: 3,
+    explicacion: "La neuroprotección fetal con sulfato de magnesio se pauta inmediatamente antes del parto prematuro inminente (en las 24 horas previas al parto previsto en <32 semanas); al encontrarse la paciente asintomática sin dinámica uterina y cuello largo cerrado, no está indicado iniciarlo de forma profiláctica prolongada de entrada."
+  },
+  {
+    id: "MIR24-205",
+    ano: 2024,
+    num: 205,
+    conImagen: false,
+    enunciado: "[RESERVA - SUSTITUYE A LA ANULADA 162]\n205. ¿Qué autoanticuerpos en las miopatías inflamatorias debería alertarnos de un curso agresivo de una neumonía intersticial asociada?:",
+    opciones: [
+      "1. Anti-TIF-1.",
+      "2. Anti MDA-5.",
+      "3. Anti-Mi2.",
+      "4. Anti-PM/SCL."
+    ],
+    correcta: 2,
+    explicacion: "Los anticuerpos anti-MDA-5 (asociados a dermatomiositis clínicamente amiopática con úlceras cutáneas en manos) confieren un riesgo muy elevado de enfermedad pulmonar intersticial rápidamente progresiva con alta refractariedad a inmunosupresores y mortalidad precoz."
+  },
+  {
+    id: "MIR24-206",
+    ano: 2024,
+    num: 206,
+    conImagen: false,
+    enunciado: "[RESERVA - SUSTITUYE A LA ANULADA 186]\n206. Avisan de paritorio por recién nacido pretérmino tardío (35+3 semanas de edad gestacional) sin otros factores de riesgo. Al nacimiento no presenta esfuerzo respiratorio y se decide monitorización con pulsioximetría. No inicia esfuerzo por lo que a los 30 segundos se ventila con presión positiva intermitente (VPPI) (presión inspiratoria 20 cm H2O y PEEP 6 cm H2O y FiO2 0,21) durante 1 minuto. Inicia llanto y esfuerzo respiratorio pero con signos de dificultad respiratoria en torno a los 3 minutos de vida con cianosis asociada. En la monitorización presenta frecuencia cardíaca de 170 lpm y Sat O2 del 75% ¿Cuál es su actuación en este momento?:",
+    opciones: [
+      "1. Retirar soporte respiratorio y aumento aporte de oxígeno.",
+      "2. Mantener VPPI y fracción inspirada de oxígeno al 21%.",
+      "3. Pasar a modalidad presión positiva continua y aumento aporte de oxígeno.",
+      "4. Pasar a modalidad presión positiva continua y fracción inspirada de oxígeno al 21%."
+    ],
+    correcta: 4,
+    explicacion: "Al tener respiración espontánea y FC >100 lpm con distrés respiratorio, se pasa de VPPI a CPAP (presión positiva continua en vía aérea); dado que a los 3 minutos de vida el objetivo fisiológico de saturación según guías de reanimación neonatal es del 70-75%, no precisa incrementar la FiO2 por encima del 21% (aire ambiente)."
   }
 ];
