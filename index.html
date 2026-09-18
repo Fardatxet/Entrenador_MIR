@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Entrenador MIR Modular</title>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --text: #0f172a;
+      --muted: #64748b;
+      --primary: #2563eb;
+      --primary-hover: #1d4ed8;
+      --success: #16a34a;
+      --danger: #dc2626;
+      --border: #e2e8f0;
+      --correct-bg: #ecfdf5;
+      --wrong-bg: #fef2f2;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 16px;
+      line-height: 1.5;
+    }
+    .container { max-width: 760px; margin: 0 auto; }
+    .setup-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 24px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      margin-top: 15px;
+      text-align: center;
+    }
+    .setup-title { font-size: 1.35rem; font-weight: 700; margin-bottom: 6px; }
+    .setup-desc { font-size: 0.9rem; color: var(--muted); margin-bottom: 18px; }
+    .stats-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #fef2f2;
+      color: var(--danger);
+      border: 1px solid #fecaca;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-weight: 600;
+      font-size: 0.85rem;
+      margin-bottom: 20px;
+    }
+    .btn-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-bottom: 18px;
+    }
+    .btn-choice {
+      background: #f1f5f9;
+      border: 1px solid var(--border);
+      padding: 10px 18px;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      color: var(--text);
+      transition: all 0.15s ease;
+    }
+    .btn-choice:hover { background: #e2e8f0; }
+    .btn-choice.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+    .action-stack {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: center;
+    }
+    .btn-start {
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 13px 24px;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      width: 100%;
+      max-width: 320px;
+    }
+    .btn-start:hover { background: var(--primary-hover); }
+    .btn-errors {
+      background: #ef4444;
+      color: white;
+      border: none;
+      padding: 13px 24px;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      width: 100%;
+      max-width: 320px;
+    }
+    .btn-errors:disabled { background: #cbd5e1; cursor: not-allowed; }
+    .btn-clear {
+      background: transparent;
+      border: none;
+      color: var(--muted);
+      font-size: 0.8rem;
+      cursor: pointer;
+      text-decoration: underline;
+      margin-top: 6px;
+    }
+    .score-board {
+      position: sticky;
+      top: 10px;
+      z-index: 100;
+      background: rgba(255, 255, 255, 0.96);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px 16px;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .score-item { text-align: center; }
+    .score-val { font-size: 1.25rem; font-weight: 700; }
+    .score-val.netas { color: var(--primary); }
+    .score-val.ok { color: var(--success); }
+    .score-val.err { color: var(--danger); }
+    .score-lbl { font-size: 0.7rem; text-transform: uppercase; font-weight: 600; color: var(--muted); }
+    .btn-exit {
+      background: transparent;
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      cursor: pointer;
+      color: var(--muted);
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 12px;
+      align-items: center;
+    }
+    .badge { font-weight: 600; font-size: 0.75rem; padding: 4px 8px; border-radius: 6px; }
+    .badge-q { background: #e0f2fe; color: #0369a1; }
+    .badge-img { background: #fef3c7; color: #92400e; }
+    .q-text { font-size: 1rem; font-weight: 600; margin-bottom: 16px; white-space: pre-line; }
+    .img-container {
+      text-align: center;
+      margin: 14px 0 18px 0;
+    }
+    .q-img {
+      max-width: 100%;
+      max-height: 380px;
+      border-radius: 8px;
+      border: 1px solid #cbd5e1;
+      cursor: pointer;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+    }
+    .img-help { font-size: 0.75rem; color: var(--muted); margin-top: 4px; }
+    .options { display: flex; flex-direction: column; gap: 8px; }
+    .btn-opt {
+      text-align: left;
+      background: white;
+      border: 1px solid var(--border);
+      padding: 12px 14px;
+      border-radius: 8px;
+      font-size: 0.92rem;
+      cursor: pointer;
+      color: var(--text);
+      transition: all 0.15s ease;
+    }
+    .btn-opt:hover:not(:disabled) { background: #f8fafc; border-color: #cbd5e1; }
+    .btn-opt:disabled { cursor: default; }
+    .btn-opt.is-correct {
+      background: var(--correct-bg) !important;
+      border-color: var(--success) !important;
+      color: var(--success) !important;
+      font-weight: 600;
+    }
+    .btn-opt.is-wrong {
+      background: var(--wrong-bg) !important;
+      border-color: var(--danger) !important;
+      color: var(--danger) !important;
+    }
+    .feedback {
+      margin-top: 14px;
+      padding: 14px;
+      border-radius: 8px;
+      background: #f8fafc;
+      border-left: 4px solid var(--primary);
+      display: none;
+      font-size: 0.88rem;
+    }
+    .feedback.visible { display: block; }
+    .fb-title { font-weight: 700; margin-bottom: 6px; }
+    .fb-clave { margin-bottom: 8px; color: #334155; }
+    .fb-discard { margin-top: 8px; padding-top: 8px; border-top: 1px solid #e2e8f0; color: #475569; }
+    .fb-discard ul { margin: 4px 0 0 0; padding-left: 18px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div id="view-setup" class="setup-card">
+      <div class="setup-title">Banco Multianual MIR</div>
+      <div class="setup-desc" id="lbl-banco-info">Cargando preguntas disponibles...</div>
+      
+      <div class="stats-pill">
+        <span>⚠️ Falladas acumuladas:</span>
+        <strong id="lbl-total-falladas">0</strong>
+      </div>
+
+      <div class="btn-group">
+        <button class="btn-choice active" onclick="selectN(5, this)">5 preguntas</button>
+        <button class="btn-choice" onclick="selectN(10, this)">10 preguntas</button>
+        <button class="btn-choice" onclick="selectN(20, this)">20 preguntas</button>
+        <button class="btn-choice" onclick="selectN(50, this)">50 preguntas</button>
+      </div>
+
+      <div class="action-stack">
+        <button class="btn-start" onclick="iniciarSesion(false)">Comenzar tanda aleatoria</button>
+        <button id="btn-solo-falladas" class="btn-errors" onclick="iniciarSesion(true)">Repasar solo falladas</button>
+        <button class="btn-clear" onclick="limpiarFalladas()">Borrar historial de falladas</button>
+      </div>
+    </div>
+
+    <div id="view-quiz" style="display: none;">
+      <div class="score-board">
+        <div class="score-item">
+          <div class="score-val" id="lbl-resp">0/0</div>
+          <div class="score-lbl">Progreso</div>
+        </div>
+        <div class="score-item">
+          <div class="score-val ok" id="lbl-ok">0</div>
+          <div class="score-lbl">Aciertos</div>
+        </div>
+        <div class="score-item">
+          <div class="score-val err" id="lbl-err">0</div>
+          <div class="score-lbl">Fallos</div>
+        </div>
+        <div class="score-item">
+          <div class="score-val netas" id="lbl-netas">0.00</div>
+          <div class="score-lbl">Netas</div>
+        </div>
+        <button class="btn-exit" onclick="salirASetup()">Terminar</button>
+      </div>
+
+      <div id="quiz-container"></div>
+    </div>
+  </div>
+
+  <!-- Carga externa del banco de datos -->
+  <script src="preguntas.js"></script>
+
+  <script>
+    const STORAGE_KEY = "MIR_PREGUNTAS_FALLADAS";
+    let numSeleccionado = 5;
+    let preguntasSesion = [];
+    let contestadas = 0, aciertos = 0, fallos = 0;
+
+    function obtenerFalladas() {
+      const data = localStorage.getItem(STORAGE_KEY);
+      return data ? JSON.parse(data) : [];
+    }
+
+    function registrarFallo(id) {
+      let f = obtenerFalladas();
+      if (!f.includes(id)) {
+        f.push(id);
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(f));
+      }
+      actualizarContadorFalladas();
+    }
+
+    function registrarAcierto(id) {
+      let f = obtenerFalladas();
+      if (f.includes(id)) {
+        f = f.filter(x => x !== id);
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(f));
+      }
+      actualizarContadorFalladas();
+    }
+
+    function limpiarFalladas() {
+      if (confirm("¿Seguro que quieres borrar el registro de preguntas falladas?")) {
+        localStorage.removeItem(STORAGE_KEY);
+        actualizarContadorFalladas();
+      }
+    }
+
+    function actualizarContadorFalladas() {
+      const falladas = obtenerFalladas();
+      document.getElementById("lbl-total-falladas").textContent = falladas.length;
+      const btn = document.getElementById("btn-solo-falladas");
+      if (falladas.length === 0) {
+        btn.disabled = true;
+        btn.textContent = "Sin preguntas falladas pendientes";
+      } else {
+        btn.disabled = false;
+        btn.textContent = `Repasar solo falladas (${falladas.length})`;
+      }
+    }
+
+    function selectN(n, el) {
+      numSeleccionado = n;
+      document.querySelectorAll(".btn-choice").forEach(b => b.classList.remove("active"));
+      el.classList.add("active");
+    }
+
+    function barajar(arr) {
+      return arr.slice().sort(() => Math.random() - 0.5);
+    }
+
+    function iniciarSesion(soloFalladas = false) {
+      if (typeof BANCO_GLOBAL === "undefined" || BANCO_GLOBAL.length === 0) {
+        alert("Error: No se ha detectado el archivo preguntas.js en la misma carpeta.");
+        return;
+      }
+
+      if (soloFalladas) {
+        const ids = obtenerFalladas();
+        preguntasSesion = BANCO_GLOBAL.filter(q => ids.includes(q.id));
+        preguntasSesion = barajar(preguntasSesion);
+      } else {
+        const poolImg = BANCO_GLOBAL.filter(q => q.conImagen);
+        const poolTxt = BANCO_GLOBAL.filter(q => !q.conImagen);
+
+        let targetImg = Math.round(numSeleccionado * 0.12);
+        if (numSeleccionado >= 5 && targetImg === 0 && poolImg.length > 0) targetImg = 1;
+        if (targetImg > poolImg.length) targetImg = poolImg.length;
+        let targetTxt = Math.min(numSeleccionado - targetImg, poolTxt.length);
+
+        const selecImg = barajar(poolImg).slice(0, targetImg);
+        const selecTxt = barajar(poolTxt).slice(0, targetTxt);
+
+        preguntasSesion = barajar([...selecImg, ...selecTxt]);
+      }
+
+      contestadas = 0; aciertos = 0; fallos = 0;
+      document.getElementById("view-setup").style.display = "none";
+      document.getElementById("view-quiz").style.display = "block";
+
+      actualizarMarcador();
+      renderizarPreguntas();
+      window.scrollTo(0, 0);
+    }
+
+    function salirASetup() {
+      document.getElementById("view-quiz").style.display = "none";
+      document.getElementById("view-setup").style.display = "block";
+      actualizarContadorFalladas();
+    }
+
+    function renderizarPreguntas() {
+      const cont = document.getElementById("quiz-container");
+      cont.innerHTML = "";
+
+      preguntasSesion.forEach((q, idx) => {
+        const card = document.createElement("div");
+        card.className = "card";
+        card.id = `card-${idx}`;
+
+        let imgHtml = "";
+        if (q.conImagen && q.rutaImagen) {
+          imgHtml = `
+            <div class="img-container">
+              <img src="${q.rutaImagen}" alt="Imagen de la pregunta" class="q-img" onclick="window.open(this.src, '_blank')">
+              <div class="img-help">Haz clic o toca para ver la imagen a tamaño completo</div>
+            </div>
+          `;
+        }
+
+        let html = `
+          <div class="card-header">
+            <span class="badge badge-q">Pregunta ${idx + 1} de ${preguntasSesion.length} (${q.ano} - #${q.num})</span>
+            ${q.conImagen ? '<span class="badge badge-img">Con Imagen</span>' : ''}
+          </div>
+          <div class="q-text">${q.enunciado}</div>
+          ${imgHtml}
+          <div class="options">
+        `;
+
+        q.opciones.forEach((opt, optIdx) => {
+          const n = optIdx + 1;
+          html += `<button class="btn-opt" onclick="responder(${idx}, ${n})">${opt}</button>`;
+        });
+
+        html += `</div>
+         <div class="feedback" id="fb-${idx}">
+            <div class="fb-title">✓ Respuesta oficial: Opción ${q.correcta}</div>
+          </div>
+        `;
+
+        card.innerHTML = html;
+        cont.appendChild(card);
+      });
+    }
+
+    function responder(idx, sel) {
+      const q = preguntasSesion[idx];
+      const card = document.getElementById(`card-${idx}`);
+      const btns = card.querySelectorAll(".btn-opt");
+
+      btns.forEach(b => b.disabled = true);
+      contestadas++;
+
+      if (sel === q.correcta) {
+        aciertos++;
+        btns[sel - 1].classList.add("is-correct");
+        registrarAcierto(q.id);
+      } else {
+        fallos++;
+        btns[sel - 1].classList.add("is-wrong");
+        btns[q.correcta - 1].classList.add("is-correct");
+        registrarFallo(q.id);
+      }
+
+      document.getElementById(`fb-${idx}`).classList.add("visible");
+      actualizarMarcador();
+    }
+
+    function actualizarMarcador() {
+      const netas = aciertos - (fallos / 3);
+      document.getElementById("lbl-resp").textContent = `${contestadas}/${preguntasSesion.length}`;
+      document.getElementById("lbl-ok").textContent = aciertos;
+      document.getElementById("lbl-err").textContent = fallos;
+      document.getElementById("lbl-netas").textContent = netas.toFixed(2);
+    }
+
+    // Comprobación de carga del banco
+    window.addEventListener("DOMContentLoaded", () => {
+      if (typeof BANCO_GLOBAL !== "undefined") {
+        document.getElementById("lbl-banco-info").textContent = `Base de datos activa: ${BANCO_GLOBAL.length} preguntas disponibles.`;
+      }
+      actualizarContadorFalladas();
+    });
+  </script>
+</body>
+</html>
